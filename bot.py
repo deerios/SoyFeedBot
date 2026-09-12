@@ -27,6 +27,9 @@ YOUTUBE_CHANNELS = [
     "@loebjeremy",
     "@JasonGutt",
     "@MehtaEthics",
+    "@TheTallestMunchkin",
+    "@earthtomanar",
+    "@NoInjusticeLastsForever"
 ]
 
 STATE_FILE = "youtube_state.json"
