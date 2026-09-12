@@ -70,6 +70,19 @@ async def get_uploads_playlist_id(session, channel_identifier):
     return None
 
 
+async def get_broadcast_statuses(session, video_ids):
+    if not video_ids:
+        return {}
+    ids_param = ",".join(video_ids)
+    url = f"https://www.googleapis.com/youtube/v3/videos?part=snippet&id={ids_param}&key={YOUTUBE_API_KEY}"
+    async with session.get(url) as response:
+        if response.status != 200:
+            print(f"YouTube API returned status {response.status} for videos.list")
+            return {}
+        data = await response.json()
+        return {item["id"]: item["snippet"]["liveBroadcastContent"] for item in data.get("items", [])}
+
+
 async def check_youtube_videos(discord_channel):
     state = load_state()
 
@@ -104,11 +117,20 @@ async def check_youtube_videos(discord_channel):
                     if video_id not in state[yt_channel]:
                         new_videos.append(item)
 
+                broadcast_statuses = await get_broadcast_statuses(
+                    session, [item["snippet"]["resourceId"]["videoId"] for item in new_videos]
+                )
+
                 for item in new_videos:
                     video_id = item["snippet"]["resourceId"]["videoId"]
                     channel_name = item["snippet"]["videoOwnerChannelTitle"]
 
-                    message = f"Hey <@&1399648272125267978> **{channel_name}** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v={video_id}"
+                    if broadcast_statuses.get(video_id) == "live":
+                        action = "started a livestream now!"
+                    else:
+                        action = "uploaded a new YouTube video!"
+
+                    message = f"Hey <@&1399648272125267978> **{channel_name}** {action}\nhttps://www.youtube.com/watch?v={video_id}"
 
                     try:
                         await discord_channel.send(message)
