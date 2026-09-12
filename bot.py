@@ -31,6 +31,14 @@ YOUTUBE_CHANNELS = [
 
 STATE_FILE = "youtube_state.json"
 
+# Quota math (recompute if NUM_OF_CHANNELS changes significantly):
+#   cost_per_run = NUM_OF_CHANNELS (1 unit/channel for playlistItems.list,
+#                  once playlist IDs are cached — see get_cached_playlist_id)
+#   interval_minutes = ceil(1440 * NUM_OF_CHANNELS / DAILY_BUDGET)
+#   DAILY_BUDGET = 9000 (10,000 quota, 1,000 unit safety margin)
+#   Floor of 5 min regardless — GitHub Actions schedule throttling.
+# Current: 18 channels -> ~3 min by the math, floored to 5 min in check.yml.
+
 
 def load_state():
     if os.path.exists(STATE_FILE):
@@ -45,6 +53,14 @@ def load_state():
 def save_state(state):
     with open(STATE_FILE, "w") as f:
         json.dump(state, f, indent=4)
+
+
+def get_cached_playlist_id(state, channel_identifier):
+    return state.get("_playlist_ids", {}).get(channel_identifier)
+
+
+def cache_playlist_id(state, channel_identifier, playlist_id):
+    state.setdefault("_playlist_ids", {})[channel_identifier] = playlist_id
 
 
 async def get_uploads_playlist_id(session, channel_identifier):
@@ -68,10 +84,14 @@ async def check_youtube_videos(discord_channel):
 
     async with aiohttp.ClientSession() as session:
         for yt_channel in YOUTUBE_CHANNELS:
-            playlist_id = await get_uploads_playlist_id(session, yt_channel)
+            playlist_id = get_cached_playlist_id(state, yt_channel)
             if not playlist_id:
-                print(f"Could not resolve playlist ID for {yt_channel}")
-                continue
+                playlist_id = await get_uploads_playlist_id(session, yt_channel)
+                if not playlist_id:
+                    print(f"Could not resolve playlist ID for {yt_channel}")
+                    continue
+                cache_playlist_id(state, yt_channel, playlist_id)
+                save_state(state)
 
             url = f"https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId={playlist_id}&maxResults=5&key={YOUTUBE_API_KEY}"
             async with session.get(url) as response:
