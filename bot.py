@@ -31,15 +31,6 @@ YOUTUBE_CHANNELS = [
 
 STATE_FILE = "youtube_state.json"
 
-# Quota math (recompute if NUM_OF_CHANNELS changes significantly):
-#   cost_per_run = NUM_OF_CHANNELS (1 unit/channel for playlistItems.list,
-#                  once playlist IDs are cached — see get_cached_playlist_id)
-#   interval_minutes = ceil(1440 * NUM_OF_CHANNELS / DAILY_BUDGET)
-#   DAILY_BUDGET = 9000 (10,000 quota, 1,000 unit safety margin)
-#   Floor of 5 min regardless — GitHub Actions schedule throttling.
-# Current: 18 channels -> ~3 min by the math, floored to 5 min in check.yml.
-
-
 def load_state():
     if os.path.exists(STATE_FILE):
         try:
