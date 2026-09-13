@@ -33,6 +33,7 @@ YOUTUBE_CHANNELS = [
 ]
 
 STATE_FILE = "youtube_state.json"
+MAX_CONCURRENT_CHECKS = 5
 
 def load_state():
     if os.path.exists(STATE_FILE):
@@ -96,65 +97,73 @@ async def get_broadcast_statuses(session, video_ids):
         return {item["id"]: item["snippet"]["liveBroadcastContent"] for item in data.get("items", [])}
 
 
+async def process_channel(session, yt_channel, state, discord_channel, semaphore):
+    async with semaphore:
+        playlist_id = get_cached_playlist_id(state, yt_channel)
+        channel_title = get_cached_channel_title(state, yt_channel)
+        if not playlist_id or not channel_title:
+            playlist_id, channel_title = await get_channel_details(session, yt_channel)
+            if not playlist_id:
+                print(f"Could not resolve playlist ID for {yt_channel}")
+                return
+            cache_playlist_id(state, yt_channel, playlist_id)
+            cache_channel_title(state, yt_channel, channel_title)
+            save_state(state)
+
+        url = f"https://www.googleapis.com/youtube/v3/playlistItems?part=contentDetails&playlistId={playlist_id}&maxResults=5&key={YOUTUBE_API_KEY}"
+        async with session.get(url) as response:
+            if response.status != 200:
+                print(f"YouTube API returned status {response.status} for {yt_channel}")
+                return
+
+            data = await response.json()
+            items = data.get("items", [])
+
+            if yt_channel not in state:
+                state[yt_channel] = [item["contentDetails"]["videoId"] for item in items]
+                save_state(state)
+                return
+
+            new_videos = []
+            for item in reversed(items):
+                video_id = item["contentDetails"]["videoId"]
+                if video_id not in state[yt_channel]:
+                    new_videos.append(video_id)
+
+            broadcast_statuses = await get_broadcast_statuses(session, new_videos)
+
+            for video_id in new_videos:
+                if broadcast_statuses.get(video_id) == "live":
+                    action = "started a livestream now!"
+                else:
+                    action = "uploaded a new YouTube video!"
+
+                message = f"Hey <@&1399648272125267978> **{channel_title}** {action}\nhttps://www.youtube.com/watch?v={video_id}"
+
+                try:
+                    await discord_channel.send(message)
+                    state[yt_channel].append(video_id)
+
+                    if len(state[yt_channel]) > 20:
+                        state[yt_channel] = state[yt_channel][-20:]
+
+                    save_state(state)
+                    await asyncio.sleep(2.0)
+                except Exception as e:
+                    print(f"Failed to send Discord message: {e}")
+
+
 async def check_youtube_videos(discord_channel):
     state = load_state()
+    semaphore = asyncio.Semaphore(MAX_CONCURRENT_CHECKS)
 
     async with aiohttp.ClientSession() as session:
-        for yt_channel in YOUTUBE_CHANNELS:
-            playlist_id = get_cached_playlist_id(state, yt_channel)
-            channel_title = get_cached_channel_title(state, yt_channel)
-            if not playlist_id or not channel_title:
-                playlist_id, channel_title = await get_channel_details(session, yt_channel)
-                if not playlist_id:
-                    print(f"Could not resolve playlist ID for {yt_channel}")
-                    continue
-                cache_playlist_id(state, yt_channel, playlist_id)
-                cache_channel_title(state, yt_channel, channel_title)
-                save_state(state)
-
-            url = f"https://www.googleapis.com/youtube/v3/playlistItems?part=contentDetails&playlistId={playlist_id}&maxResults=5&key={YOUTUBE_API_KEY}"
-            async with session.get(url) as response:
-                if response.status != 200:
-                    print(f"YouTube API returned status {response.status} for {yt_channel}")
-                    continue
-
-                data = await response.json()
-                items = data.get("items", [])
-
-                if yt_channel not in state:
-                    state[yt_channel] = [item["contentDetails"]["videoId"] for item in items]
-                    save_state(state)
-                    continue
-
-                new_videos = []
-                for item in reversed(items):
-                    video_id = item["contentDetails"]["videoId"]
-                    if video_id not in state[yt_channel]:
-                        new_videos.append(video_id)
-
-                broadcast_statuses = await get_broadcast_statuses(session, new_videos)
-
-                for video_id in new_videos:
-                    if broadcast_statuses.get(video_id) == "live":
-                        action = "started a livestream now!"
-                    else:
-                        action = "uploaded a new YouTube video!"
-
-                    message = f"Hey <@&1399648272125267978> **{channel_title}** {action}\nhttps://www.youtube.com/watch?v={video_id}"
-
-                    try:
-                        await discord_channel.send(message)
-                        state[yt_channel].append(video_id)
-
-                        if len(state[yt_channel]) > 20:
-                            state[yt_channel] = state[yt_channel][-20:]
-
-                        save_state(state)
-                        await asyncio.sleep(2.0)
-                    except Exception as e:
-                        print(f"Failed to send Discord message: {e}")
-
-            await asyncio.sleep(0.5)
+        await asyncio.gather(
+            *(
+                process_channel(session, yt_channel, state, discord_channel, semaphore)
+                for yt_channel in YOUTUBE_CHANNELS
+            )
+        )
 
 
 class OneShotClient(discord.Client):
