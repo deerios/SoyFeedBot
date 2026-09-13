@@ -133,8 +133,11 @@ async def process_channel(session, yt_channel, state, discord_channel, semaphore
             broadcast_statuses = await get_broadcast_statuses(session, new_videos)
 
             for video_id in new_videos:
-                if broadcast_statuses.get(video_id) == "live":
+                status = broadcast_statuses.get(video_id)
+                if status == "live":
                     action = "started a livestream now!"
+                elif status == "upcoming":
+                    action = "is going to be live soon!"
                 else:
                     action = "uploaded a new YouTube video!"
 
