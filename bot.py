@@ -57,20 +57,30 @@ def cache_playlist_id(state, channel_identifier, playlist_id):
     state.setdefault("_playlist_ids", {})[channel_identifier] = playlist_id
 
 
-async def get_uploads_playlist_id(session, channel_identifier):
+def get_cached_channel_title(state, channel_identifier):
+    return state.get("_channel_titles", {}).get(channel_identifier)
+
+
+def cache_channel_title(state, channel_identifier, title):
+    state.setdefault("_channel_titles", {})[channel_identifier] = title
+
+
+async def get_channel_details(session, channel_identifier):
     if channel_identifier.startswith("UC"):
-        return channel_identifier.replace("UC", "UU", 1)
+        url = f"https://www.googleapis.com/youtube/v3/channels?part=snippet,contentDetails&id={channel_identifier}&key={YOUTUBE_API_KEY}"
+    elif channel_identifier.startswith("@"):
+        url = f"https://www.googleapis.com/youtube/v3/channels?part=snippet,contentDetails&forHandle={channel_identifier}&key={YOUTUBE_API_KEY}"
+    else:
+        return None, None
 
-    if channel_identifier.startswith("@"):
-        url = f"https://www.googleapis.com/youtube/v3/channels?part=contentDetails&forHandle={channel_identifier}&key={YOUTUBE_API_KEY}"
-        async with session.get(url) as response:
-            data = await response.json()
-            items = data.get("items", [])
-            if items:
-                return items[0]["contentDetails"]["relatedPlaylists"]["uploads"]
-            return None
-
-    return None
+    async with session.get(url) as response:
+        data = await response.json()
+        items = data.get("items", [])
+        if not items:
+            return None, None
+        playlist_id = items[0]["contentDetails"]["relatedPlaylists"]["uploads"]
+        title = items[0]["snippet"]["title"]
+        return playlist_id, title
 
 
 async def get_broadcast_statuses(session, video_ids):
@@ -92,15 +102,17 @@ async def check_youtube_videos(discord_channel):
     async with aiohttp.ClientSession() as session:
         for yt_channel in YOUTUBE_CHANNELS:
             playlist_id = get_cached_playlist_id(state, yt_channel)
-            if not playlist_id:
-                playlist_id = await get_uploads_playlist_id(session, yt_channel)
+            channel_title = get_cached_channel_title(state, yt_channel)
+            if not playlist_id or not channel_title:
+                playlist_id, channel_title = await get_channel_details(session, yt_channel)
                 if not playlist_id:
                     print(f"Could not resolve playlist ID for {yt_channel}")
                     continue
                 cache_playlist_id(state, yt_channel, playlist_id)
+                cache_channel_title(state, yt_channel, channel_title)
                 save_state(state)
 
-            url = f"https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId={playlist_id}&maxResults=5&key={YOUTUBE_API_KEY}"
+            url = f"https://www.googleapis.com/youtube/v3/playlistItems?part=contentDetails&playlistId={playlist_id}&maxResults=5&key={YOUTUBE_API_KEY}"
             async with session.get(url) as response:
                 if response.status != 200:
                     print(f"YouTube API returned status {response.status} for {yt_channel}")
@@ -110,30 +122,25 @@ async def check_youtube_videos(discord_channel):
                 items = data.get("items", [])
 
                 if yt_channel not in state:
-                    state[yt_channel] = [item["snippet"]["resourceId"]["videoId"] for item in items]
+                    state[yt_channel] = [item["contentDetails"]["videoId"] for item in items]
                     save_state(state)
                     continue
 
                 new_videos = []
                 for item in reversed(items):
-                    video_id = item["snippet"]["resourceId"]["videoId"]
+                    video_id = item["contentDetails"]["videoId"]
                     if video_id not in state[yt_channel]:
-                        new_videos.append(item)
+                        new_videos.append(video_id)
 
-                broadcast_statuses = await get_broadcast_statuses(
-                    session, [item["snippet"]["resourceId"]["videoId"] for item in new_videos]
-                )
+                broadcast_statuses = await get_broadcast_statuses(session, new_videos)
 
-                for item in new_videos:
-                    video_id = item["snippet"]["resourceId"]["videoId"]
-                    channel_name = item["snippet"]["videoOwnerChannelTitle"]
-
+                for video_id in new_videos:
                     if broadcast_statuses.get(video_id) == "live":
                         action = "started a livestream now!"
                     else:
                         action = "uploaded a new YouTube video!"
 
-                    message = f"Hey <@&1399648272125267978> **{channel_name}** {action}\nhttps://www.youtube.com/watch?v={video_id}"
+                    message = f"Hey <@&1399648272125267978> **{channel_title}** {action}\nhttps://www.youtube.com/watch?v={video_id}"
 
                     try:
                         await discord_channel.send(message)
