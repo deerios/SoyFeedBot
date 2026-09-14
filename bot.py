@@ -44,7 +44,8 @@ YOUTUBE_CHANNELS = [
     "@The40yearoldVegan",
     "@SoyDaddy1",
     "@imjesperbtw",
-    
+    "@tessasaves",
+    "@standbesidejordan"
 ]
 
 STATE_FILE = "youtube_state.json"
