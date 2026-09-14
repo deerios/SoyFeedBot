@@ -29,7 +29,8 @@ YOUTUBE_CHANNELS = [
     "@MehtaEthics",
     "@TheTallestMunchkin",
     "@earthtomanar",
-    "@NoInjusticeLastsForever"
+    "@NoInjusticeLastsForever",
+    "@John.AR.Activism"
 ]
 
 STATE_FILE = "youtube_state.json"
