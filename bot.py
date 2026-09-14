@@ -2,6 +2,7 @@ import discord
 import aiohttp
 import json
 import os
+import time
 import asyncio
 
 DISCORD_TOKEN = os.environ["DISCORD_TOKEN"]
@@ -48,6 +49,8 @@ YOUTUBE_CHANNELS = [
 
 STATE_FILE = "youtube_state.json"
 MAX_CONCURRENT_CHECKS = 5
+SHORTS_CHECK_INTERVAL_SECONDS = 1800
+
 
 def load_state():
     if os.path.exists(STATE_FILE):
@@ -78,6 +81,18 @@ def get_cached_channel_title(state, channel_identifier):
 
 def cache_channel_title(state, channel_identifier, title):
     state.setdefault("_channel_titles", {})[channel_identifier] = title
+
+
+def get_shorts_playlist_id(playlist_id):
+    return "UUSH" + playlist_id[2:]
+
+
+def get_seen_shorts(state, channel_identifier):
+    return state.get("_shorts", {}).get(channel_identifier)
+
+
+def cache_seen_shorts(state, channel_identifier, video_ids):
+    state.setdefault("_shorts", {})[channel_identifier] = video_ids
 
 
 async def get_channel_details(session, channel_identifier):
@@ -170,6 +185,49 @@ async def process_channel(session, yt_channel, state, discord_channel, semaphore
                     print(f"Failed to send Discord message: {e}")
 
 
+async def process_channel_shorts(session, yt_channel, state, discord_channel, semaphore, channel_title, playlist_id):
+    async with semaphore:
+        shorts_playlist_id = get_shorts_playlist_id(playlist_id)
+        url = f"https://www.googleapis.com/youtube/v3/playlistItems?part=contentDetails&playlistId={shorts_playlist_id}&maxResults=5&key={YOUTUBE_API_KEY}"
+        async with session.get(url) as response:
+            if response.status != 200:
+                print(f"YouTube API returned status {response.status} for {yt_channel} shorts playlist")
+                return
+
+            data = await response.json()
+            items = data.get("items", [])
+
+            seen_shorts = get_seen_shorts(state, yt_channel)
+            if seen_shorts is None:
+                cache_seen_shorts(state, yt_channel, [item["contentDetails"]["videoId"] for item in items])
+                save_state(state)
+                return
+
+            already_posted = set(seen_shorts) | set(state.get(yt_channel, []))
+
+            new_shorts = [
+                item["contentDetails"]["videoId"]
+                for item in reversed(items)
+                if item["contentDetails"]["videoId"] not in already_posted
+            ]
+
+            for video_id in new_shorts:
+                message = f"Hey <@&1399648272125267978> **{channel_title}** uploaded a new YouTube Short!\nhttps://www.youtube.com/watch?v={video_id}"
+
+                try:
+                    await discord_channel.send(message)
+                    seen_shorts.append(video_id)
+
+                    if len(seen_shorts) > 20:
+                        seen_shorts = seen_shorts[-20:]
+
+                    cache_seen_shorts(state, yt_channel, seen_shorts)
+                    save_state(state)
+                    await asyncio.sleep(2.0)
+                except Exception as e:
+                    print(f"Failed to send Discord message: {e}")
+
+
 async def check_youtube_videos(discord_channel):
     state = load_state()
     semaphore = asyncio.Semaphore(MAX_CONCURRENT_CHECKS)
@@ -181,6 +239,26 @@ async def check_youtube_videos(discord_channel):
                 for yt_channel in YOUTUBE_CHANNELS
             )
         )
+
+        last_shorts_check = state.get("_last_shorts_check", 0)
+        if time.time() - last_shorts_check >= SHORTS_CHECK_INTERVAL_SECONDS:
+            await asyncio.gather(
+                *(
+                    process_channel_shorts(
+                        session,
+                        yt_channel,
+                        state,
+                        discord_channel,
+                        semaphore,
+                        get_cached_channel_title(state, yt_channel),
+                        get_cached_playlist_id(state, yt_channel),
+                    )
+                    for yt_channel in YOUTUBE_CHANNELS
+                    if get_cached_playlist_id(state, yt_channel)
+                )
+            )
+            state["_last_shorts_check"] = time.time()
+            save_state(state)
 
 
 class OneShotClient(discord.Client):
