@@ -30,7 +30,20 @@ YOUTUBE_CHANNELS = [
     "@TheTallestMunchkin",
     "@earthtomanar",
     "@NoInjusticeLastsForever",
-    "@John.AR.Activism"
+    "@John.AR.Activism",
+    "@HazVegan",
+    "@DebugYourBrain",
+    "@VeganFelek",
+    "@BrianLovesBeans",
+    "@ChaseAvior",
+    "@foolproofmastery",
+    "@VeganTableTalks",
+    "@CarnistWordSaLAD",
+    "@theVegan47",
+    "@The40yearoldVegan",
+    "@SoyDaddy1",
+    "@imjesperbtw",
+    
 ]
 
 STATE_FILE = "youtube_state.json"
