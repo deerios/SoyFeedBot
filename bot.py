@@ -2,6 +2,7 @@ import discord
 import aiohttp
 import json
 import os
+import re
 import time
 import asyncio
 
@@ -51,6 +52,10 @@ YOUTUBE_CHANNELS = [
 STATE_FILE = "youtube_state.json"
 MAX_CONCURRENT_CHECKS = 5
 SHORTS_CHECK_INTERVAL_SECONDS = 1800
+VERIFY_HISTORY_LIMIT = 300
+VERIFY_GRACE_SECONDS = 900
+
+VIDEO_ID_RE = re.compile(r"watch\?v=([\w-]{11})")
 
 
 def load_state():
@@ -96,6 +101,10 @@ def cache_seen_shorts(state, channel_identifier, video_ids):
     state.setdefault("_shorts", {})[channel_identifier] = video_ids
 
 
+def get_pending(state):
+    return state.setdefault("_pending_verification", {})
+
+
 async def get_channel_details(session, channel_identifier):
     if channel_identifier.startswith("UC"):
         url = f"https://www.googleapis.com/youtube/v3/channels?part=snippet,contentDetails&id={channel_identifier}&key={YOUTUBE_API_KEY}"
@@ -125,6 +134,49 @@ async def get_broadcast_statuses(session, video_ids):
             return {}
         data = await response.json()
         return {item["id"]: item["snippet"]["liveBroadcastContent"] for item in data.get("items", [])}
+
+
+async def fetch_recent_video_ids(discord_channel, bot_user_id, limit=VERIFY_HISTORY_LIMIT):
+    ids = set()
+    async for msg in discord_channel.history(limit=limit):
+        if msg.author.id != bot_user_id:
+            continue
+        ids.update(VIDEO_ID_RE.findall(msg.content))
+    return ids
+
+
+async def send_and_track(discord_channel, state, video_id, message):
+    await discord_channel.send(message)
+    get_pending(state)[video_id] = {"message": message, "sent_at": time.time()}
+
+
+async def verify_pending_messages(discord_channel, state, bot_user_id):
+    pending = get_pending(state)
+    if not pending:
+        return
+
+    history_ids = await fetch_recent_video_ids(discord_channel, bot_user_id)
+    still_pending = {}
+
+    for video_id, info in pending.items():
+        if video_id in history_ids:
+            continue
+
+        if time.time() - info["sent_at"] < VERIFY_GRACE_SECONDS:
+            still_pending[video_id] = info
+            continue
+
+        print(f"Message for {video_id} missing from channel history, resending")
+        try:
+            await discord_channel.send(info["message"])
+            info["sent_at"] = time.time()
+            still_pending[video_id] = info
+        except Exception as e:
+            print(f"Failed to resend {video_id}: {e}")
+            still_pending[video_id] = info
+
+    state["_pending_verification"] = still_pending
+    save_state(state)
 
 
 async def process_channel(session, yt_channel, state, discord_channel, semaphore):
@@ -174,7 +226,7 @@ async def process_channel(session, yt_channel, state, discord_channel, semaphore
                 message = f"Hey <@&1399648272125267978> **{channel_title}** {action}\nhttps://www.youtube.com/watch?v={video_id}"
 
                 try:
-                    await discord_channel.send(message)
+                    await send_and_track(discord_channel, state, video_id, message)
                     state[yt_channel].append(video_id)
 
                     if len(state[yt_channel]) > 20:
@@ -216,7 +268,7 @@ async def process_channel_shorts(session, yt_channel, state, discord_channel, se
                 message = f"Hey <@&1399648272125267978> **{channel_title}** uploaded a new YouTube Short!\nhttps://www.youtube.com/watch?v={video_id}"
 
                 try:
-                    await discord_channel.send(message)
+                    await send_and_track(discord_channel, state, video_id, message)
                     seen_shorts.append(video_id)
 
                     if len(seen_shorts) > 20:
@@ -229,9 +281,11 @@ async def process_channel_shorts(session, yt_channel, state, discord_channel, se
                     print(f"Failed to send Discord message: {e}")
 
 
-async def check_youtube_videos(discord_channel):
+async def check_youtube_videos(discord_channel, bot_user_id):
     state = load_state()
     semaphore = asyncio.Semaphore(MAX_CONCURRENT_CHECKS)
+
+    await verify_pending_messages(discord_channel, state, bot_user_id)
 
     async with aiohttp.ClientSession() as session:
         await asyncio.gather(
@@ -270,7 +324,7 @@ class OneShotClient(discord.Client):
             channel = await self.fetch_channel(DISCORD_CHANNEL_ID)
 
         try:
-            await check_youtube_videos(channel)
+            await check_youtube_videos(channel, self.user.id)
         finally:
             await self.close()
 
