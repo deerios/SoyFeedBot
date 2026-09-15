@@ -153,7 +153,8 @@
         "SDWJBQxAKOU",
         "1SUMiQb-Cs0",
         "4LVjygpSE9o",
-        "_4J0AmSZbGI"
+        "_4J0AmSZbGI",
+        "7vmOVM2Wtak"
     ],
     "@vegangaze": [
         "a60fp_W8HuA",
@@ -654,5 +655,10 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {}
+    "_pending_verification": {
+        "7vmOVM2Wtak": {
+            "message": "Hey <@&1399648272125267978> **Tee** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=7vmOVM2Wtak",
+            "sent_at": 1789497085.8928418
+        }
+    }
 }
