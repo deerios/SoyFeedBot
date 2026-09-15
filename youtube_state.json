@@ -45,7 +45,8 @@
         "Y13Tdly7-J4",
         "7yyBNr8gfm8",
         "s5J5F39BP7I",
-        "mcIfb7-dvvI"
+        "mcIfb7-dvvI",
+        "FCDMS56BHPY"
     ],
     "@VirtuePostMortem": [
         "tgzL_Rrtcss",
@@ -159,7 +160,8 @@
         "9tX6xuMpeTM",
         "IXWJfTFvJ5c",
         "vYuJqMShYxo",
-        "BWzl9vW_TpI"
+        "BWzl9vW_TpI",
+        "cPQGU_ARMMM"
     ],
     "@AxelBertilDahlstr\u00f6m": [
         "PwM7PuwPpa4",
@@ -628,7 +630,7 @@
             "eTxcQz4Av5I"
         ]
     },
-    "_last_shorts_check": 1789478484.8642082,
+    "_last_shorts_check": 1789480893.7410238,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -643,5 +645,14 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {}
+    "_pending_verification": {
+        "FCDMS56BHPY": {
+            "message": "Hey <@&1399648272125267978> **Danny Ishay** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=FCDMS56BHPY",
+            "sent_at": 1789480887.6977572
+        },
+        "cPQGU_ARMMM": {
+            "message": "Hey <@&1399648272125267978> **Vegan Gaze** started a livestream now!\nhttps://www.youtube.com/watch?v=cPQGU_ARMMM",
+            "sent_at": 1789480889.9961965
+        }
+    }
 }
