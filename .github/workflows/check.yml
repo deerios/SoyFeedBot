@@ -25,6 +25,9 @@ jobs:
 
       - run: pip install -r requirements.txt
 
+      - name: Offset for video publish timing
+        run: sleep 60
+
       - run: python bot.py
         env:
           DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
