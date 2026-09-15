@@ -82,7 +82,8 @@
         "p9RYwVDv8d4",
         "8jxykmNeU4o",
         "AfAATTxxnv8",
-        "wF81U9XEWeY"
+        "wF81U9XEWeY",
+        "ZFeL6w4exQE"
     ],
     "@chrisbryantphd": [
         "v96msSxTtFc",
@@ -658,5 +659,10 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {}
+    "_pending_verification": {
+        "ZFeL6w4exQE": {
+            "message": "Hey <@&1399648272125267978> **JadeForJustice** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=ZFeL6w4exQE",
+            "sent_at": 1789506682.4623175
+        }
+    }
 }
