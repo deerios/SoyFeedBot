@@ -172,7 +172,8 @@
         "vYuJqMShYxo",
         "BWzl9vW_TpI",
         "cPQGU_ARMMM",
-        "2w1HCJDoJ7g"
+        "2w1HCJDoJ7g",
+        "6gAzWPsWRKQ"
     ],
     "@AxelBertilDahlstr\u00f6m": [
         "PwM7PuwPpa4",
@@ -666,5 +667,10 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {}
+    "_pending_verification": {
+        "6gAzWPsWRKQ": {
+            "message": "Hey <@&1399648272125267978> **Vegan Gaze** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=6gAzWPsWRKQ",
+            "sent_at": 1789560681.7826796
+        }
+    }
 }
