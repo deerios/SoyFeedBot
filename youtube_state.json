@@ -46,7 +46,8 @@
         "7yyBNr8gfm8",
         "s5J5F39BP7I",
         "mcIfb7-dvvI",
-        "FCDMS56BHPY"
+        "FCDMS56BHPY",
+        "bTU3J7WYGUk"
     ],
     "@VirtuePostMortem": [
         "tgzL_Rrtcss",
@@ -83,7 +84,8 @@
         "8jxykmNeU4o",
         "AfAATTxxnv8",
         "wF81U9XEWeY",
-        "ZFeL6w4exQE"
+        "ZFeL6w4exQE",
+        "-xu2FlGr24w"
     ],
     "@chrisbryantphd": [
         "v96msSxTtFc",
@@ -670,9 +672,13 @@
         "eTxcQz4Av5I"
     ],
     "_pending_verification": {
-        "1e5CqHLl8uc": {
-            "message": "Hey <@&1399648272125267978> **Jeremy Loeb** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=1e5CqHLl8uc",
-            "sent_at": 1789566681.7574375
+        "-xu2FlGr24w": {
+            "message": "Hey <@&1399648272125267978> **JadeForJustice** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=-xu2FlGr24w",
+            "sent_at": 1789567289.8066447
+        },
+        "bTU3J7WYGUk": {
+            "message": "Hey <@&1399648272125267978> **Danny Ishay** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=bTU3J7WYGUk",
+            "sent_at": 1789567291.5691533
         }
     }
 }
