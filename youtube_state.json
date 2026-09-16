@@ -109,7 +109,8 @@
         "WUMeV-GFiMc",
         "Cep4kbAJDPM",
         "dHYrOGgBqDQ",
-        "ccG-pYSDknQ"
+        "ccG-pYSDknQ",
+        "3KtKA-2qopY"
     ],
     "@ThatChipGuy": [
         "3Ze2GukAllQ",
@@ -664,5 +665,10 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {}
+    "_pending_verification": {
+        "3KtKA-2qopY": {
+            "message": "Hey <@&1399648272125267978> **Plant Geezer** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=3KtKA-2qopY",
+            "sent_at": 1789545080.9376864
+        }
+    }
 }
