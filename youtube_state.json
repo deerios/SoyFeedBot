@@ -177,7 +177,8 @@
         "FLBuFeL0RiY",
         "23Em13xoXtA",
         "7BBwEEjAIjQ",
-        "CwJPwLlG7Yg"
+        "CwJPwLlG7Yg",
+        "UIJLqwM-2PY"
     ],
     "@VeganHeretic": [
         "YI75tlXOlS4",
@@ -661,5 +662,10 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {}
+    "_pending_verification": {
+        "UIJLqwM-2PY": {
+            "message": "Hey <@&1399648272125267978> **Axel Bertil Dahlstr\u00f6m \u24e5** started a livestream now!\nhttps://www.youtube.com/watch?v=UIJLqwM-2PY",
+            "sent_at": 1789518077.3049738
+        }
+    }
 }
