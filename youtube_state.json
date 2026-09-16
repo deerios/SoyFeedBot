@@ -656,7 +656,7 @@
             "eTxcQz4Av5I"
         ]
     },
-    "_last_shorts_check": 1789566081.7841918,
+    "_last_shorts_check": 1789567884.5842257,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -671,14 +671,5 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {
-        "-xu2FlGr24w": {
-            "message": "Hey <@&1399648272125267978> **JadeForJustice** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=-xu2FlGr24w",
-            "sent_at": 1789567289.8066447
-        },
-        "bTU3J7WYGUk": {
-            "message": "Hey <@&1399648272125267978> **Danny Ishay** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=bTU3J7WYGUk",
-            "sent_at": 1789567291.5691533
-        }
-    }
+    "_pending_verification": {}
 }
