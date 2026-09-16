@@ -654,7 +654,7 @@
             "eTxcQz4Av5I"
         ]
     },
-    "_last_shorts_check": 1789563693.060788,
+    "_last_shorts_check": 1789566081.7841918,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -669,10 +669,5 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {
-        "Yi20VJijHIY": {
-            "message": "Hey <@&1399648272125267978> **Jeremy Loeb** started a livestream now!\nhttps://www.youtube.com/watch?v=Yi20VJijHIY",
-            "sent_at": 1789565488.0947685
-        }
-    }
+    "_pending_verification": {}
 }
