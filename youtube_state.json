@@ -147,7 +147,8 @@
         "q3QViaEBIMM",
         "3Kc6EC4heDI",
         "Ow9p4nWyo-U",
-        "EeuxPb4KU-o"
+        "EeuxPb4KU-o",
+        "Qh9JydMQamw"
     ],
     "@jemlettuce": [
         "k_SNb2vPhdk",
@@ -259,7 +260,8 @@
         "QyTKm4hxfOg",
         "HOwwVoi5xNU",
         "zPnZjZhpCb8",
-        "LRWrGtrnKCk"
+        "LRWrGtrnKCk",
+        "A-quVHv1NF8"
     ],
     "@earthtomanar": [
         "ZV3c_RUtBNQ",
@@ -667,7 +669,7 @@
             "EjXppKIZzQ4"
         ]
     },
-    "_last_shorts_check": 1789579287.1960115,
+    "_last_shorts_check": 1789581694.982331,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -682,7 +684,16 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "Qh9JydMQamw": {
+            "message": "Hey <@&1399648272125267978> **Vegan Stoner Lady** started a livestream now!\nhttps://www.youtube.com/watch?v=Qh9JydMQamw",
+            "sent_at": 1789581690.7443907
+        },
+        "A-quVHv1NF8": {
+            "message": "Hey <@&1399648272125267978> **The Tallest Munchkin** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=A-quVHv1NF8",
+            "sent_at": 1789581691.7857447
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
