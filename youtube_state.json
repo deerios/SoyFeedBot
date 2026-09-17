@@ -278,7 +278,8 @@
         "ZWDAJtBAD50",
         "ymWFMzW3_So",
         "Ch1H8OzVgMc",
-        "jOv2XxlcGZk"
+        "jOv2XxlcGZk",
+        "pZNp3pWCKsE"
     ],
     "@NoInjusticeLastsForever": [
         "XNl26ZyParY",
@@ -688,7 +689,12 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "pZNp3pWCKsE": {
+            "message": "Hey <@&1399648272125267978> **manar** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=pZNp3pWCKsE",
+            "sent_at": 1789641080.3596199
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
