@@ -180,7 +180,8 @@
         "BWzl9vW_TpI",
         "cPQGU_ARMMM",
         "2w1HCJDoJ7g",
-        "6gAzWPsWRKQ"
+        "6gAzWPsWRKQ",
+        "Musty94JhxU"
     ],
     "@AxelBertilDahlstr\u00f6m": [
         "PwM7PuwPpa4",
@@ -210,8 +211,6 @@
         "45SdWODWx78"
     ],
     "@loebjeremy": [
-        "AthZSLCdRWU",
-        "vussEbm7l18",
         "wm0952_AXTI",
         "gNJFtd6qyrI",
         "H6pc882VhZQ",
@@ -229,7 +228,9 @@
         "Yi20VJijHIY",
         "1e5CqHLl8uc",
         "cb3iIGBISDA",
-        "V2Mxh5AC3BQ"
+        "V2Mxh5AC3BQ",
+        "NgFva9O0VLQ",
+        "0jSIpEQ1ROU"
     ],
     "@JasonGutt": [
         "Ze4suB6b-Rk",
@@ -690,7 +691,20 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "Musty94JhxU": {
+            "message": "Hey <@&1399648272125267978> **Vegan Gaze** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=Musty94JhxU",
+            "sent_at": 1789654284.5697083
+        },
+        "NgFva9O0VLQ": {
+            "message": "Hey <@&1399648272125267978> **Jeremy Loeb** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=NgFva9O0VLQ",
+            "sent_at": 1789654285.9994051
+        },
+        "0jSIpEQ1ROU": {
+            "message": "Hey <@&1399648272125267978> **Jeremy Loeb** is going to be live soon!\nhttps://www.youtube.com/watch?v=0jSIpEQ1ROU",
+            "sent_at": 1789654289.013287
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
