@@ -134,7 +134,8 @@
         "VVKH-hoeYko",
         "9uOCyUdccqo",
         "xTc5J9DrXEs",
-        "athfMO6NYww"
+        "athfMO6NYww",
+        "BzPbX6F1UAs"
     ],
     "@jakeastonfta": [
         "3zJi7JMgiFQ",
@@ -693,7 +694,12 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "BzPbX6F1UAs": {
+            "message": "Hey <@&1399648272125267978> **That Chip Guy** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=BzPbX6F1UAs",
+            "sent_at": 1789662686.3754995
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
