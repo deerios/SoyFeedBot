@@ -67,7 +67,8 @@
         "icr9kCh-nFQ",
         "Hbb8XInv-Vc",
         "8lyoiVO6VFg",
-        "l4e4mxEqvR4"
+        "l4e4mxEqvR4",
+        "TYVegWrcyrw"
     ],
     "@jadeforjustice": [
         "_g-IEckGqxs",
@@ -698,7 +699,12 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "TYVegWrcyrw": {
+            "message": "Hey <@&1399648272125267978> **Heri \u24cb** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=TYVegWrcyrw",
+            "sent_at": 1789675880.08539
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
