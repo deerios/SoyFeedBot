@@ -71,7 +71,6 @@
         "TYVegWrcyrw"
     ],
     "@jadeforjustice": [
-        "_g-IEckGqxs",
         "YQfybC_F6c0",
         "QBTRfE0DsXw",
         "BMMLTO9qe8A",
@@ -90,7 +89,8 @@
         "ZFeL6w4exQE",
         "-xu2FlGr24w",
         "1GGMhcqoEEg",
-        "Mzjb7QdmQ7M"
+        "Mzjb7QdmQ7M",
+        "QKf_VxHj7jA"
     ],
     "@chrisbryantphd": [
         "v96msSxTtFc",
@@ -493,7 +493,8 @@
             "7yyBNr8gfm8",
             "tMkenXAgqXk",
             "YO1PywCAIx4",
-            "7bMDSkK962c"
+            "7bMDSkK962c",
+            "S3gjhMCukVM"
         ],
         "@forindividuals": [
             "lg8W2SpQpbA",
@@ -692,7 +693,7 @@
             "EjXppKIZzQ4"
         ]
     },
-    "_last_shorts_check": 1789737682.0762575,
+    "_last_shorts_check": 1789740093.2658186,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -707,7 +708,16 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "QKf_VxHj7jA": {
+            "message": "Hey <@&1399648272125267978> **JadeForJustice** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=QKf_VxHj7jA",
+            "sent_at": 1789740087.1628563
+        },
+        "S3gjhMCukVM": {
+            "message": "Hey <@&1399648272125267978> **Danny Ishay** uploaded a new YouTube Short!\nhttps://www.youtube.com/watch?v=S3gjhMCukVM",
+            "sent_at": 1789740091.2625194
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
