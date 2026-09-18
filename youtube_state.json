@@ -421,7 +421,8 @@
         "D5GV2ctRkqY",
         "tQeazbRumtY",
         "Ad9S0fEV_YE",
-        "90aIcoR54S4"
+        "90aIcoR54S4",
+        "VSu-kdS46MQ"
     ],
     "@SoyDaddy1": [
         "dqrDjKbhs7Q",
@@ -706,7 +707,12 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "VSu-kdS46MQ": {
+            "message": "Hey <@&1399648272125267978> **The 40 year old Vegan** is going to be live soon!\nhttps://www.youtube.com/watch?v=VSu-kdS46MQ",
+            "sent_at": 1789728683.065575
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
