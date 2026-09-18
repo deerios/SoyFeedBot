@@ -346,7 +346,8 @@
         "YGAK3PP172U",
         "SD4viEqmdgs",
         "-YEm6KgpAFE",
-        "5uzwmjX0fj0"
+        "5uzwmjX0fj0",
+        "TOPVAioruPk"
     ],
     "@HazVegan": [
         "9nPdK-Yc6y4",
@@ -702,7 +703,12 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "TOPVAioruPk": {
+            "message": "Hey <@&1399648272125267978> **John ARA** started a livestream now!\nhttps://www.youtube.com/watch?v=TOPVAioruPk",
+            "sent_at": 1789718483.0052273
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
