@@ -145,7 +145,8 @@
         "BzPbX6F1UAs",
         "hlRaMxmrfSw",
         "6akDNCLKsws",
-        "rM8IThXkLgU"
+        "rM8IThXkLgU",
+        "jsptTH4Z-a8"
     ],
     "@jakeastonfta": [
         "3zJi7JMgiFQ",
@@ -715,7 +716,12 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "jsptTH4Z-a8": {
+            "message": "Hey <@&1399648272125267978> **That Chip Guy** started a livestream now!\nhttps://www.youtube.com/watch?v=jsptTH4Z-a8",
+            "sent_at": 1789819285.0193515
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
