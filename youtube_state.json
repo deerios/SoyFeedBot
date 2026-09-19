@@ -70,7 +70,8 @@
         "Hbb8XInv-Vc",
         "8lyoiVO6VFg",
         "l4e4mxEqvR4",
-        "TYVegWrcyrw"
+        "TYVegWrcyrw",
+        "VgxBfe7B0Ss"
     ],
     "@jadeforjustice": [
         "p90ulALKppM",
@@ -720,7 +721,12 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "VgxBfe7B0Ss": {
+            "message": "Hey <@&1399648272125267978> **Heri \u24cb** started a livestream now!\nhttps://www.youtube.com/watch?v=VgxBfe7B0Ss",
+            "sent_at": 1789854680.096646
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
