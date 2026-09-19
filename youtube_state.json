@@ -166,7 +166,9 @@
         "Ow9p4nWyo-U",
         "EeuxPb4KU-o",
         "Qh9JydMQamw",
-        "HreWwiCkpIE"
+        "HreWwiCkpIE",
+        "FhCCl0f4aLM",
+        "NMom4Nf9wUo"
     ],
     "@jemlettuce": [
         "k_SNb2vPhdk",
@@ -703,7 +705,7 @@
             "EjXppKIZzQ4"
         ]
     },
-    "_last_shorts_check": 1789848083.628689,
+    "_last_shorts_check": 1789850486.5983207,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -718,7 +720,16 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "FhCCl0f4aLM": {
+            "message": "Hey <@&1399648272125267978> **Vegan Stoner Lady** is going to be live soon!\nhttps://www.youtube.com/watch?v=FhCCl0f4aLM",
+            "sent_at": 1789850480.735094
+        },
+        "NMom4Nf9wUo": {
+            "message": "Hey <@&1399648272125267978> **Vegan Stoner Lady** is going to be live soon!\nhttps://www.youtube.com/watch?v=NMom4Nf9wUo",
+            "sent_at": 1789850483.6858919
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
