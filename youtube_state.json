@@ -75,7 +75,6 @@
         "VgxBfe7B0Ss"
     ],
     "@jadeforjustice": [
-        "8VKfwSeYsEo",
         "Ff5oKl5MlsA",
         "-RuGz0cRu5k",
         "MLP97eBTXps",
@@ -94,7 +93,8 @@
         "suqRZUJWoS8",
         "IsXrAw9pVUA",
         "_mLzayDg2HU",
-        "UN4FTg1C9g8"
+        "UN4FTg1C9g8",
+        "QoEkkP8v4WA"
     ],
     "@chrisbryantphd": [
         "v96msSxTtFc",
@@ -131,7 +131,6 @@
         "Ue50V_kDs6w"
     ],
     "@ThatChipGuy": [
-        "xxxI6KNPH3k",
         "vrPwIbNw_EE",
         "cHQfTJeVFJ4",
         "OPsuGOYPfCU",
@@ -150,7 +149,8 @@
         "6akDNCLKsws",
         "rM8IThXkLgU",
         "jsptTH4Z-a8",
-        "XXGJwlisltc"
+        "XXGJwlisltc",
+        "KJE2-JLOZh8"
     ],
     "@jakeastonfta": [
         "3zJi7JMgiFQ",
@@ -727,7 +727,16 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "QoEkkP8v4WA": {
+            "message": "Hey <@&1399648272125267978> **JadeForJustice** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=QoEkkP8v4WA",
+            "sent_at": 1789916486.824678
+        },
+        "KJE2-JLOZh8": {
+            "message": "Hey <@&1399648272125267978> **That Chip Guy** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=KJE2-JLOZh8",
+            "sent_at": 1789916487.4996502
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
