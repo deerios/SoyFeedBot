@@ -51,7 +51,8 @@
         "bTU3J7WYGUk",
         "L0IuAFnGKW0",
         "S3gjhMCukVM",
-        "rTuy84CTDpQ"
+        "rTuy84CTDpQ",
+        "3CqkQeyr7JA"
     ],
     "@VirtuePostMortem": [
         "tgzL_Rrtcss",
@@ -78,7 +79,6 @@
         "XPFQ-OmEhoM"
     ],
     "@jadeforjustice": [
-        "-RuGz0cRu5k",
         "MLP97eBTXps",
         "hZNkmdVoW_M",
         "kY2i2K64d0w",
@@ -97,7 +97,8 @@
         "_mLzayDg2HU",
         "UN4FTg1C9g8",
         "QoEkkP8v4WA",
-        "oGIr1uLgX-k"
+        "oGIr1uLgX-k",
+        "tFgOZMDr_aQ"
     ],
     "@chrisbryantphd": [
         "v96msSxTtFc",
@@ -736,7 +737,16 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "tFgOZMDr_aQ": {
+            "message": "Hey <@&1399648272125267978> **JadeForJustice** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=tFgOZMDr_aQ",
+            "sent_at": 1789999287.4398608
+        },
+        "3CqkQeyr7JA": {
+            "message": "Hey <@&1399648272125267978> **Danny Ishay** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=3CqkQeyr7JA",
+            "sent_at": 1789999288.1682863
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
