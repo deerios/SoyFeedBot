@@ -79,7 +79,6 @@
         "XPFQ-OmEhoM"
     ],
     "@jadeforjustice": [
-        "hZNkmdVoW_M",
         "kY2i2K64d0w",
         "e2BTwWM_dmw",
         "p9RYwVDv8d4",
@@ -98,7 +97,8 @@
         "QoEkkP8v4WA",
         "oGIr1uLgX-k",
         "tFgOZMDr_aQ",
-        "m8uUyxctKEY"
+        "m8uUyxctKEY",
+        "FSS038nzrC4"
     ],
     "@chrisbryantphd": [
         "v96msSxTtFc",
@@ -289,7 +289,6 @@
         "tG-RmdznFBA"
     ],
     "@TheTallestMunchkin": [
-        "zPnZjZhpCb8",
         "LRWrGtrnKCk",
         "A-quVHv1NF8",
         "RJ1RqcDXjwU",
@@ -308,7 +307,8 @@
         "hipi8uePXWg",
         "YaDDEOVhvy0",
         "Edp06enZRFo",
-        "dm7XKPrNcLg"
+        "dm7XKPrNcLg",
+        "4zw-pheXcc8"
     ],
     "@earthtomanar": [
         "ZV3c_RUtBNQ",
@@ -742,7 +742,16 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "FSS038nzrC4": {
+            "message": "Hey <@&1399648272125267978> **JadeForJustice** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=FSS038nzrC4",
+            "sent_at": 1790082678.6950095
+        },
+        "4zw-pheXcc8": {
+            "message": "Hey <@&1399648272125267978> **The Tallest Munchkin** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=4zw-pheXcc8",
+            "sent_at": 1790082679.3397846
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
