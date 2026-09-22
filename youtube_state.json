@@ -132,7 +132,8 @@
         "ay6aqMFB1AY",
         "uB6yFYBDuS0",
         "Tyc1DRVeoFk",
-        "Ue50V_kDs6w"
+        "Ue50V_kDs6w",
+        "fgXkmDUfUB4"
     ],
     "@ThatChipGuy": [
         "aONs6FJ31aU",
@@ -740,7 +741,12 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "fgXkmDUfUB4": {
+            "message": "Hey <@&1399648272125267978> **Plant Geezer** started a livestream now!\nhttps://www.youtube.com/watch?v=fgXkmDUfUB4",
+            "sent_at": 1790071889.6530504
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
