@@ -188,7 +188,8 @@
         "7ODHB8Ju3bU",
         "0SWagnpA9eA",
         "nBXB1ZYH6po",
-        "eZ_fndqXFCI"
+        "eZ_fndqXFCI",
+        "n2w5p1i9Scs"
     ],
     "@forindividuals": [
         "lg8W2SpQpbA",
@@ -747,7 +748,12 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "n2w5p1i9Scs": {
+            "message": "Hey <@&1399648272125267978> **Jem Lettuce** is going to be live soon!\nhttps://www.youtube.com/watch?v=n2w5p1i9Scs",
+            "sent_at": 1790099478.5181384
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
