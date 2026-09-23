@@ -119,7 +119,8 @@
         "DYYR2WQHpAY",
         "CCRQjkpqwvM",
         "SPjyTWNXZHw",
-        "vkkf_64XeN4"
+        "vkkf_64XeN4",
+        "Mr5xVqR9Bos"
     ],
     "@plantgeezer": [
         "kmt5Rf_ZFDI",
@@ -258,7 +259,6 @@
         "L-fd-LxGDbM"
     ],
     "@loebjeremy": [
-        "1e5CqHLl8uc",
         "cb3iIGBISDA",
         "V2Mxh5AC3BQ",
         "NgFva9O0VLQ",
@@ -277,7 +277,8 @@
         "DW_ysns155k",
         "ozyvUmB3bwA",
         "xdTLF9poJGk",
-        "ge-pAUUycik"
+        "ge-pAUUycik",
+        "OATLqMKNkXs"
     ],
     "@JasonGutt": [
         "Ze4suB6b-Rk",
@@ -736,7 +737,7 @@
             "EjXppKIZzQ4"
         ]
     },
-    "_last_shorts_check": 1790169084.3778367,
+    "_last_shorts_check": 1790170888.1498272,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -751,7 +752,16 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "Mr5xVqR9Bos": {
+            "message": "Hey <@&1399648272125267978> **Chris Bryant, PhD.** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=Mr5xVqR9Bos",
+            "sent_at": 1790170882.1720347
+        },
+        "OATLqMKNkXs": {
+            "message": "Hey <@&1399648272125267978> **Jeremy Loeb** is going to be live soon!\nhttps://www.youtube.com/watch?v=OATLqMKNkXs",
+            "sent_at": 1790170885.156119
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
