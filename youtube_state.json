@@ -269,8 +269,6 @@
         "U35aYpa8KWs"
     ],
     "@loebjeremy": [
-        "NgFva9O0VLQ",
-        "0jSIpEQ1ROU",
         "6GELdi4tUIQ",
         "hjTNtP3z7gY",
         "Wjh5KBUyEb8",
@@ -288,7 +286,9 @@
         "ge-pAUUycik",
         "OATLqMKNkXs",
         "Ri9GlB_q3gU",
-        "VICYQ1RgQVA"
+        "VICYQ1RgQVA",
+        "MoQvCeYm_8k",
+        "vD1wanFwBbA"
     ],
     "@JasonGutt": [
         "Ze4suB6b-Rk",
@@ -764,9 +764,13 @@
         "eTxcQz4Av5I"
     ],
     "_pending_verification": {
-        "pH9oNQbnFu0": {
-            "message": "Hey <@&1399648272125267978> **Chris Bryant, PhD.** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=pH9oNQbnFu0",
-            "sent_at": 1790256082.3354518
+        "MoQvCeYm_8k": {
+            "message": "Hey <@&1399648272125267978> **Jeremy Loeb** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=MoQvCeYm_8k",
+            "sent_at": 1790256683.9113522
+        },
+        "vD1wanFwBbA": {
+            "message": "Hey <@&1399648272125267978> **Jeremy Loeb** started a livestream now!\nhttps://www.youtube.com/watch?v=vD1wanFwBbA",
+            "sent_at": 1790256686.4272816
         }
     },
     "@raventwtw": [
