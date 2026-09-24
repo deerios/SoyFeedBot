@@ -147,7 +147,8 @@
         "fgXkmDUfUB4",
         "q7c2-G0p1HA",
         "drMk8VFlvlo",
-        "7W6Zc2q3c7U"
+        "7W6Zc2q3c7U",
+        "nHRTbZCffpE"
     ],
     "@ThatChipGuy": [
         "Ftn79QwjRzg",
@@ -271,7 +272,6 @@
         "U35aYpa8KWs"
     ],
     "@loebjeremy": [
-        "6GELdi4tUIQ",
         "hjTNtP3z7gY",
         "Wjh5KBUyEb8",
         "qYdoF8CHVaM",
@@ -290,7 +290,8 @@
         "Ri9GlB_q3gU",
         "VICYQ1RgQVA",
         "MoQvCeYm_8k",
-        "vD1wanFwBbA"
+        "vD1wanFwBbA",
+        "5jmAaRJVoSE"
     ],
     "@JasonGutt": [
         "Ze4suB6b-Rk",
@@ -765,7 +766,16 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "nHRTbZCffpE": {
+            "message": "Hey <@&1399648272125267978> **Plant Geezer** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=nHRTbZCffpE",
+            "sent_at": 1790266282.5252604
+        },
+        "5jmAaRJVoSE": {
+            "message": "Hey <@&1399648272125267978> **Jeremy Loeb** started a livestream now!\nhttps://www.youtube.com/watch?v=5jmAaRJVoSE",
+            "sent_at": 1790266284.1398578
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
