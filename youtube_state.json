@@ -210,7 +210,8 @@
         "4LVjygpSE9o",
         "_4J0AmSZbGI",
         "7vmOVM2Wtak",
-        "3i5etFOBERs"
+        "3i5etFOBERs",
+        "qlP96sqyvec"
     ],
     "@vegangaze": [
         "6Ha6D-nDYOs",
@@ -751,7 +752,7 @@
             "EjXppKIZzQ4"
         ]
     },
-    "_last_shorts_check": 1790273481.1622937,
+    "_last_shorts_check": 1790275886.1522663,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -766,7 +767,12 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "qlP96sqyvec": {
+            "message": "Hey <@&1399648272125267978> **Tee** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=qlP96sqyvec",
+            "sent_at": 1790275881.9099393
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
