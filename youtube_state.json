@@ -148,7 +148,8 @@
         "q7c2-G0p1HA",
         "drMk8VFlvlo",
         "7W6Zc2q3c7U",
-        "nHRTbZCffpE"
+        "nHRTbZCffpE",
+        "zsmxjEojhE4"
     ],
     "@ThatChipGuy": [
         "VVKH-hoeYko",
@@ -752,7 +753,7 @@
             "EjXppKIZzQ4"
         ]
     },
-    "_last_shorts_check": 1790325080.2522974,
+    "_last_shorts_check": 1790326893.0096073,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -767,7 +768,12 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "zsmxjEojhE4": {
+            "message": "Hey <@&1399648272125267978> **Plant Geezer** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=zsmxjEojhE4",
+            "sent_at": 1790326890.0075548
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
