@@ -154,7 +154,6 @@
         "WMEO0zDGnzQ"
     ],
     "@ThatChipGuy": [
-        "VVKH-hoeYko",
         "9uOCyUdccqo",
         "xTc5J9DrXEs",
         "athfMO6NYww",
@@ -173,7 +172,8 @@
         "78WUxS1QT5s",
         "MT7FnZ0Dog0",
         "ZMp7jeMxO-4",
-        "S8oLCXEdAEg"
+        "S8oLCXEdAEg",
+        "mYSQo4CBN4Y"
     ],
     "@jakeastonfta": [
         "3zJi7JMgiFQ",
@@ -279,7 +279,6 @@
         "XiTvot_kdXw"
     ],
     "@loebjeremy": [
-        "Wjh5KBUyEb8",
         "qYdoF8CHVaM",
         "Gw39i5Taoe8",
         "vKwVhOYzx-k",
@@ -298,7 +297,8 @@
         "MoQvCeYm_8k",
         "vD1wanFwBbA",
         "5jmAaRJVoSE",
-        "DIki0V_PyE4"
+        "DIki0V_PyE4",
+        "_81c-ZZ3_qY"
     ],
     "@JasonGutt": [
         "Ze4suB6b-Rk",
@@ -759,7 +759,7 @@
             "EjXppKIZzQ4"
         ]
     },
-    "_last_shorts_check": 1790434887.0760515,
+    "_last_shorts_check": 1790436691.2308774,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -774,7 +774,16 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "mYSQo4CBN4Y": {
+            "message": "Hey <@&1399648272125267978> **That Chip Guy** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=mYSQo4CBN4Y",
+            "sent_at": 1790436682.2690363
+        },
+        "_81c-ZZ3_qY": {
+            "message": "Hey <@&1399648272125267978> **Jeremy Loeb** started a livestream now!\nhttps://www.youtube.com/watch?v=_81c-ZZ3_qY",
+            "sent_at": 1790436688.323898
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
