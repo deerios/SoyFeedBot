@@ -88,7 +88,6 @@
         "qxPCV0bPXm4"
     ],
     "@jadeforjustice": [
-        "ZFeL6w4exQE",
         "-xu2FlGr24w",
         "1GGMhcqoEEg",
         "Mzjb7QdmQ7M",
@@ -107,7 +106,8 @@
         "ODBQ7BGGgfM",
         "Xjd3k4PLCGM",
         "prdsQNP92RM",
-        "GRKS9lldvCQ"
+        "GRKS9lldvCQ",
+        "PU5eeMUJlhw"
     ],
     "@chrisbryantphd": [
         "u2TY-LQGhb8",
@@ -193,7 +193,8 @@
         "Qh9JydMQamw",
         "HreWwiCkpIE",
         "FhCCl0f4aLM",
-        "NMom4Nf9wUo"
+        "NMom4Nf9wUo",
+        "bjsqRpBeYRs"
     ],
     "@jemlettuce": [
         "k_SNb2vPhdk",
@@ -773,7 +774,16 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "PU5eeMUJlhw": {
+            "message": "Hey <@&1399648272125267978> **JadeForJustice** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=PU5eeMUJlhw",
+            "sent_at": 1790431296.4273682
+        },
+        "bjsqRpBeYRs": {
+            "message": "Hey <@&1399648272125267978> **Vegan Stoner Lady** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=bjsqRpBeYRs",
+            "sent_at": 1790431297.3500695
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
