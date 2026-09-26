@@ -36,7 +36,8 @@
         "@imjesperbtw": "UUpcpinzRKFe6LyE3mu4b5eQ",
         "@tessasaves": "UU9YrRpaTcGhrKCqfKfuGhHw",
         "@standbesidejordan": "UUW-UKe8UT5eB1kx-RPTaYCQ",
-        "@raventwtw": "UUd4uSQIoO-OpFjTa4YfsMKw"
+        "@raventwtw": "UUd4uSQIoO-OpFjTa4YfsMKw",
+        "@sustainablysam": "UU4Rj2IVEypvzuk3Z3RMlOhg"
     },
     "@DannyIshay": [
         "tMkenXAgqXk",
@@ -405,7 +406,8 @@
         "@imjesperbtw": "imjesperbtw",
         "@tessasaves": "Tessa Saves",
         "@standbesidejordan": "Stand Beside Jordan",
-        "@raventwtw": "Raven TW"
+        "@raventwtw": "Raven TW",
+        "@sustainablysam": "Sustainably Sam "
     },
     "@John.AR.Activism": [
         "xi33Y0upES8",
@@ -778,13 +780,26 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "FDXbH_y15Oo": {
+            "message": "Hey <@&1399648272125267978> **Raven TW** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=FDXbH_y15Oo",
+            "sent_at": 1790451682.6588216
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
         "tLjn9UAhTSQ",
         "pm9KIfVotx8",
         "_lMh_EEArDw",
-        "OYjhrxEYHPo"
+        "OYjhrxEYHPo",
+        "FDXbH_y15Oo"
+    ],
+    "@sustainablysam": [
+        "9ZqcZ_gHniE",
+        "MjSv_Tm1M94",
+        "W-z2SopXriw",
+        "INq2ZqFWLPg",
+        "3kZuHl5IwxU"
     ]
 }
