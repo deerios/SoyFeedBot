@@ -276,7 +276,8 @@
         "L-fd-LxGDbM",
         "uWKq44AVDNI",
         "U35aYpa8KWs",
-        "XiTvot_kdXw"
+        "XiTvot_kdXw",
+        "V3tqm9JTxKY"
     ],
     "@loebjeremy": [
         "qYdoF8CHVaM",
@@ -775,7 +776,12 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "V3tqm9JTxKY": {
+            "message": "Hey <@&1399648272125267978> **Dr. Matthew Nagra, ND** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=V3tqm9JTxKY",
+            "sent_at": 1790442682.7675276
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
