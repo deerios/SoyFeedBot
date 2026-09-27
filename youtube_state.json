@@ -111,7 +111,6 @@
         "34A7DXOU9Ok"
     ],
     "@chrisbryantphd": [
-        "B3Qe6JkXmxo",
         "xx5jz69vxL4",
         "XdB-2V3Rcxc",
         "r_0Os8VRBVQ",
@@ -130,7 +129,8 @@
         "zl8zyjAmZo8",
         "km2DNVUelAs",
         "GftxQ6LYBDM",
-        "TKyTZS5VhZg"
+        "TKyTZS5VhZg",
+        "4FiNgehUtGI"
     ],
     "@plantgeezer": [
         "ciuWq6vjaBU",
@@ -155,7 +155,6 @@
         "WMEO0zDGnzQ"
     ],
     "@ThatChipGuy": [
-        "9uOCyUdccqo",
         "xTc5J9DrXEs",
         "athfMO6NYww",
         "BzPbX6F1UAs",
@@ -174,7 +173,8 @@
         "MT7FnZ0Dog0",
         "ZMp7jeMxO-4",
         "S8oLCXEdAEg",
-        "mYSQo4CBN4Y"
+        "mYSQo4CBN4Y",
+        "fdT-7amT7GQ"
     ],
     "@jakeastonfta": [
         "3zJi7JMgiFQ",
@@ -775,7 +775,7 @@
             "3kZuHl5IwxU"
         ]
     },
-    "_last_shorts_check": 1790494281.282932,
+    "_last_shorts_check": 1790496087.4820323,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -791,9 +791,13 @@
         "eTxcQz4Av5I"
     ],
     "_pending_verification": {
-        "AbNt8rM_z68": {
-            "message": "Hey <@&1399648272125267978> **VeganFelek** is going to be live soon!\nhttps://www.youtube.com/watch?v=AbNt8rM_z68",
-            "sent_at": 1790495480.9935136
+        "4FiNgehUtGI": {
+            "message": "Hey <@&1399648272125267978> **Chris Bryant, PhD.** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=4FiNgehUtGI",
+            "sent_at": 1790496084.0224009
+        },
+        "fdT-7amT7GQ": {
+            "message": "Hey <@&1399648272125267978> **That Chip Guy** is going to be live soon!\nhttps://www.youtube.com/watch?v=fdT-7amT7GQ",
+            "sent_at": 1790496084.6500785
         }
     },
     "@raventwtw": [
