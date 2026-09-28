@@ -508,7 +508,8 @@
         "eD6ZAGLvSJE",
         "doYnHeoVBdQ",
         "yfLV03ypbm8",
-        "_ysLbJAWorQ"
+        "_ysLbJAWorQ",
+        "MkNq5vkiHz4"
     ],
     "@imjesperbtw": [
         "Hh5s9k-Leuc",
@@ -794,7 +795,12 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "MkNq5vkiHz4": {
+            "message": "Hey <@&1399648272125267978> **Tone** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=MkNq5vkiHz4",
+            "sent_at": 1790598081.204702
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
