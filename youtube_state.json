@@ -289,7 +289,8 @@
         "U35aYpa8KWs",
         "XiTvot_kdXw",
         "V3tqm9JTxKY",
-        "tY6yYJ5vSd4"
+        "tY6yYJ5vSd4",
+        "46XP4U9gfa0"
     ],
     "@loebjeremy": [
         "qYdoF8CHVaM",
@@ -783,7 +784,7 @@
             "3kZuHl5IwxU"
         ]
     },
-    "_last_shorts_check": 1790613683.0299416,
+    "_last_shorts_check": 1790615487.471719,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -798,7 +799,12 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "46XP4U9gfa0": {
+            "message": "Hey <@&1399648272125267978> **Dr. Matthew Nagra, ND** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=46XP4U9gfa0",
+            "sent_at": 1790615481.336808
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
