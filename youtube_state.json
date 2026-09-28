@@ -779,7 +779,7 @@
             "3kZuHl5IwxU"
         ]
     },
-    "_last_shorts_check": 1790560887.3575203,
+    "_last_shorts_check": 1790563284.9240966,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -794,7 +794,12 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "AKVWZnxLCpI": {
+            "message": "Hey <@&1399648272125267978> **Raven TW** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=AKVWZnxLCpI",
+            "sent_at": 1790563281.846162
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
@@ -802,7 +807,8 @@
         "pm9KIfVotx8",
         "_lMh_EEArDw",
         "OYjhrxEYHPo",
-        "FDXbH_y15Oo"
+        "FDXbH_y15Oo",
+        "AKVWZnxLCpI"
     ],
     "@sustainablysam": [
         "9ZqcZ_gHniE",
