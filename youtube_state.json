@@ -116,7 +116,6 @@
         "mVSVlRGmJ3k"
     ],
     "@chrisbryantphd": [
-        "SPjyTWNXZHw",
         "vkkf_64XeN4",
         "Mr5xVqR9Bos",
         "zs6u5RlZnbA",
@@ -135,7 +134,8 @@
         "l920DY_KnwQ",
         "THQ-XbYg9bE",
         "IYbYhF-sLMY",
-        "Upl_KitnbM0"
+        "Upl_KitnbM0",
+        "vv6xH-_GuEk"
     ],
     "@plantgeezer": [
         "scTjVd-IiZo",
@@ -805,7 +805,12 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "vv6xH-_GuEk": {
+            "message": "Hey <@&1399648272125267978> **Chris Bryant, PhD.** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=vv6xH-_GuEk",
+            "sent_at": 1790713887.3363256
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
