@@ -93,7 +93,6 @@
         "qxPCV0bPXm4"
     ],
     "@jadeforjustice": [
-        "QKf_VxHj7jA",
         "suqRZUJWoS8",
         "IsXrAw9pVUA",
         "_mLzayDg2HU",
@@ -112,10 +111,10 @@
         "PU5eeMUJlhw",
         "34A7DXOU9Ok",
         "83KO1HF6mdA",
-        "OT1CgHHpDxc"
+        "OT1CgHHpDxc",
+        "mVSVlRGmJ3k"
     ],
     "@chrisbryantphd": [
-        "CCRQjkpqwvM",
         "SPjyTWNXZHw",
         "vkkf_64XeN4",
         "Mr5xVqR9Bos",
@@ -134,7 +133,8 @@
         "QCwHjP3qykg",
         "l920DY_KnwQ",
         "THQ-XbYg9bE",
-        "IYbYhF-sLMY"
+        "IYbYhF-sLMY",
+        "Upl_KitnbM0"
     ],
     "@plantgeezer": [
         "scTjVd-IiZo",
@@ -788,7 +788,7 @@
             "3kZuHl5IwxU"
         ]
     },
-    "_last_shorts_check": 1790695281.8210225,
+    "_last_shorts_check": 1790697084.5963001,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -803,7 +803,16 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "Upl_KitnbM0": {
+            "message": "Hey <@&1399648272125267978> **Chris Bryant, PhD.** started a livestream now!\nhttps://www.youtube.com/watch?v=Upl_KitnbM0",
+            "sent_at": 1790697080.8884077
+        },
+        "mVSVlRGmJ3k": {
+            "message": "Hey <@&1399648272125267978> **JadeForJustice** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=mVSVlRGmJ3k",
+            "sent_at": 1790697081.596944
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
