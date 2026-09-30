@@ -40,7 +40,6 @@
         "@sustainablysam": "UU4Rj2IVEypvzuk3Z3RMlOhg"
     },
     "@DannyIshay": [
-        "tMkenXAgqXk",
         "YO1PywCAIx4",
         "7bMDSkK962c",
         "x_9G7E2oQRo",
@@ -59,7 +58,8 @@
         "X0pnfDWjI8o",
         "b_0GQPkvsvI",
         "u5ozrQSG1Ac",
-        "6TN0hFFyJM0"
+        "6TN0hFFyJM0",
+        "ySHc7gIiwOA"
     ],
     "@VirtuePostMortem": [
         "tgzL_Rrtcss",
@@ -189,7 +189,6 @@
         "DHmqAJPDXjM"
     ],
     "@VeganStonerLady": [
-        "yTbnnLmf88g",
         "5Q6U3FsthB0",
         "mf7T9gRtXDM",
         "q3QViaEBIMM",
@@ -208,7 +207,8 @@
         "Iw8VznmFrVw",
         "tGl-LeFoswY",
         "VfSQh48zJ8s",
-        "3LUGOSxEv6g"
+        "3LUGOSxEv6g",
+        "A33Dd7ypGVM"
     ],
     "@jemlettuce": [
         "k_SNb2vPhdk",
@@ -805,7 +805,16 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "A33Dd7ypGVM": {
+            "message": "Hey <@&1399648272125267978> **Vegan Stoner Lady** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=A33Dd7ypGVM",
+            "sent_at": 1790776889.5654974
+        },
+        "ySHc7gIiwOA": {
+            "message": "Hey <@&1399648272125267978> **Danny Ishay** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=ySHc7gIiwOA",
+            "sent_at": 1790776890.5895777
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
