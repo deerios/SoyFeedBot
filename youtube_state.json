@@ -233,7 +233,8 @@
         "_4J0AmSZbGI",
         "7vmOVM2Wtak",
         "3i5etFOBERs",
-        "qlP96sqyvec"
+        "qlP96sqyvec",
+        "JieP5vv-Lds"
     ],
     "@vegangaze": [
         "IXWJfTFvJ5c",
@@ -810,7 +811,12 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "JieP5vv-Lds": {
+            "message": "Hey <@&1399648272125267978> **Tee** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=JieP5vv-Lds",
+            "sent_at": 1790789485.5144517
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
