@@ -80,7 +80,8 @@
         "CAF2pWBalNY",
         "abrrUNem34s",
         "enAeB3HMp00",
-        "WwVDSGtflAs"
+        "WwVDSGtflAs",
+        "pWQTxroPHB4"
     ],
     "@iloveveganpvssy": [
         "cUjBN4wAjVI",
@@ -116,7 +117,6 @@
         "mVSVlRGmJ3k"
     ],
     "@chrisbryantphd": [
-        "zs6u5RlZnbA",
         "IX18PK8NCoI",
         "pH9oNQbnFu0",
         "k-A8wSuOQOc",
@@ -135,7 +135,8 @@
         "Upl_KitnbM0",
         "vv6xH-_GuEk",
         "OSBFB58G7vQ",
-        "6gsjcQLgafw"
+        "6gsjcQLgafw",
+        "lc2170AeX0E"
     ],
     "@plantgeezer": [
         "scTjVd-IiZo",
@@ -805,7 +806,16 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "pWQTxroPHB4": {
+            "message": "Hey <@&1399648272125267978> **Virtue PostMortem** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=pWQTxroPHB4",
+            "sent_at": 1790780493.7242064
+        },
+        "lc2170AeX0E": {
+            "message": "Hey <@&1399648272125267978> **Chris Bryant, PhD.** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=lc2170AeX0E",
+            "sent_at": 1790780495.0392087
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
