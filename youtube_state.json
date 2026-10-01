@@ -190,7 +190,6 @@
         "DHmqAJPDXjM"
     ],
     "@VeganStonerLady": [
-        "q3QViaEBIMM",
         "3Kc6EC4heDI",
         "Ow9p4nWyo-U",
         "EeuxPb4KU-o",
@@ -209,7 +208,8 @@
         "3LUGOSxEv6g",
         "A33Dd7ypGVM",
         "3kT3iyIOhGU",
-        "acL-s8-dcXU"
+        "acL-s8-dcXU",
+        "A5Oavg16lS0"
     ],
     "@jemlettuce": [
         "k_SNb2vPhdk",
@@ -346,7 +346,6 @@
         "24Of1-fJQ8s"
     ],
     "@TheTallestMunchkin": [
-        "nf0Gd_fPxLw",
         "dqnuA26AABQ",
         "eLGSxCm9d9M",
         "f5PoTJ4jb78",
@@ -365,7 +364,8 @@
         "7NF1PIEOcPY",
         "3VZ7bS2j25s",
         "pfrB8yMUfYE",
-        "WzIyQ0oVVZ4"
+        "WzIyQ0oVVZ4",
+        "h0EbE_SLs_s"
     ],
     "@earthtomanar": [
         "ZV3c_RUtBNQ",
@@ -385,7 +385,8 @@
         "kbvqQmudYJM",
         "h6fK7AnnrXc",
         "_WUjdZrgFIE",
-        "uK-NBMhXnt0"
+        "uK-NBMhXnt0",
+        "_ChY9TcOFeQ"
     ],
     "@NoInjusticeLastsForever": [
         "XNl26ZyParY",
@@ -800,7 +801,7 @@
             "3kZuHl5IwxU"
         ]
     },
-    "_last_shorts_check": 1790875889.4528484,
+    "_last_shorts_check": 1790877709.9499605,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -815,7 +816,20 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "A5Oavg16lS0": {
+            "message": "Hey <@&1399648272125267978> **Vegan Stoner Lady** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=A5Oavg16lS0",
+            "sent_at": 1790877703.6351764
+        },
+        "_ChY9TcOFeQ": {
+            "message": "Hey <@&1399648272125267978> **manar** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=_ChY9TcOFeQ",
+            "sent_at": 1790877704.2797127
+        },
+        "h0EbE_SLs_s": {
+            "message": "Hey <@&1399648272125267978> **The Tallest Munchkin** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=h0EbE_SLs_s",
+            "sent_at": 1790877704.566916
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
