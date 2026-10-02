@@ -237,7 +237,6 @@
         "JieP5vv-Lds"
     ],
     "@vegangaze": [
-        "vYuJqMShYxo",
         "BWzl9vW_TpI",
         "cPQGU_ARMMM",
         "2w1HCJDoJ7g",
@@ -256,7 +255,8 @@
         "x0N7ISdGHP4",
         "vWGmS9z5Ivg",
         "xkumbFEmd6w",
-        "4yNifDf7QRE"
+        "4yNifDf7QRE",
+        "Ar9G3Vl18u8"
     ],
     "@AxelBertilDahlstr\u00f6m": [
         "PwM7PuwPpa4",
@@ -816,7 +816,12 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "Ar9G3Vl18u8": {
+            "message": "Hey <@&1399648272125267978> **Vegan Gaze** is going to be live soon!\nhttps://www.youtube.com/watch?v=Ar9G3Vl18u8",
+            "sent_at": 1790941883.4815416
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
