@@ -161,7 +161,6 @@
         "3NelqvfnBXM"
     ],
     "@ThatChipGuy": [
-        "jsptTH4Z-a8",
         "XXGJwlisltc",
         "KJE2-JLOZh8",
         "SJn28I-XWE4",
@@ -180,7 +179,8 @@
         "X6f69O04mfE",
         "yrNc_wAbR3U",
         "XLjN6mGQOuU",
-        "IBSp_xiFYts"
+        "IBSp_xiFYts",
+        "bOSNjBfugJ8"
     ],
     "@jakeastonfta": [
         "3zJi7JMgiFQ",
@@ -816,7 +816,12 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "bOSNjBfugJ8": {
+            "message": "Hey <@&1399648272125267978> **That Chip Guy** is going to be live soon!\nhttps://www.youtube.com/watch?v=bOSNjBfugJ8",
+            "sent_at": 1790937681.741572
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
