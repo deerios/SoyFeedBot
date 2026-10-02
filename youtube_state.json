@@ -190,7 +190,6 @@
         "DHmqAJPDXjM"
     ],
     "@VeganStonerLady": [
-        "EeuxPb4KU-o",
         "Qh9JydMQamw",
         "HreWwiCkpIE",
         "FhCCl0f4aLM",
@@ -209,7 +208,8 @@
         "acL-s8-dcXU",
         "A5Oavg16lS0",
         "4LtaYeGKUlI",
-        "kPLlrfAwGjg"
+        "kPLlrfAwGjg",
+        "O2nyzsDbhL8"
     ],
     "@jemlettuce": [
         "k_SNb2vPhdk",
@@ -347,7 +347,6 @@
         "24Of1-fJQ8s"
     ],
     "@TheTallestMunchkin": [
-        "f5PoTJ4jb78",
         "YViAQJsRsz8",
         "xJDocK7NWWk",
         "WXVcJc8JlmA",
@@ -366,7 +365,8 @@
         "WzIyQ0oVVZ4",
         "h0EbE_SLs_s",
         "FyBtz6B7uNo",
-        "D0TaWJ4nmbo"
+        "D0TaWJ4nmbo",
+        "Opm2bckMmNE"
     ],
     "@earthtomanar": [
         "ZV3c_RUtBNQ",
@@ -818,7 +818,16 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "O2nyzsDbhL8": {
+            "message": "Hey <@&1399648272125267978> **Vegan Stoner Lady** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=O2nyzsDbhL8",
+            "sent_at": 1790964087.4863517
+        },
+        "Opm2bckMmNE": {
+            "message": "Hey <@&1399648272125267978> **The Tallest Munchkin** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=Opm2bckMmNE",
+            "sent_at": 1790964089.764914
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
