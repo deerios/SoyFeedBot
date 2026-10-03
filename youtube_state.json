@@ -273,7 +273,8 @@
         "BZXCnQbnQMo",
         "Vfr8ygLfFn4",
         "O9Lztx9YC_I",
-        "tY06sMsqEOE"
+        "tY06sMsqEOE",
+        "YB8M1wStoGg"
     ],
     "@VeganHeretic": [
         "YI75tlXOlS4",
@@ -824,7 +825,12 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "YB8M1wStoGg": {
+            "message": "Hey <@&1399648272125267978> **Axel Bertil Dahlstr\u00f6m \u24e5** is going to be live soon!\nhttps://www.youtube.com/watch?v=YB8M1wStoGg",
+            "sent_at": 1791061878.744595
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
