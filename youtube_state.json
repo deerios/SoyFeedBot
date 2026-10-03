@@ -372,7 +372,6 @@
         "DoSLlcdYZJU"
     ],
     "@earthtomanar": [
-        "ZV3c_RUtBNQ",
         "dVi7MjjW5Gk",
         "OtmoUhD2jJM",
         "2-05JlYr_C0",
@@ -390,7 +389,9 @@
         "h6fK7AnnrXc",
         "_WUjdZrgFIE",
         "uK-NBMhXnt0",
-        "_ChY9TcOFeQ"
+        "_ChY9TcOFeQ",
+        "Hoe5-68D-K4",
+        "EgfajhYwHmQ"
     ],
     "@NoInjusticeLastsForever": [
         "XNl26ZyParY",
@@ -806,7 +807,7 @@
             "3kZuHl5IwxU"
         ]
     },
-    "_last_shorts_check": 1791005486.0881371,
+    "_last_shorts_check": 1791007884.693322,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -821,7 +822,16 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "Hoe5-68D-K4": {
+            "message": "Hey <@&1399648272125267978> **manar** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=Hoe5-68D-K4",
+            "sent_at": 1791007878.820322
+        },
+        "EgfajhYwHmQ": {
+            "message": "Hey <@&1399648272125267978> **manar** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=EgfajhYwHmQ",
+            "sent_at": 1791007881.8056653
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
