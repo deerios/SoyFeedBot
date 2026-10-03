@@ -190,7 +190,6 @@
         "DHmqAJPDXjM"
     ],
     "@VeganStonerLady": [
-        "Qh9JydMQamw",
         "HreWwiCkpIE",
         "FhCCl0f4aLM",
         "NMom4Nf9wUo",
@@ -209,7 +208,8 @@
         "A5Oavg16lS0",
         "4LtaYeGKUlI",
         "kPLlrfAwGjg",
-        "O2nyzsDbhL8"
+        "O2nyzsDbhL8",
+        "RqCN0Keeumg"
     ],
     "@jemlettuce": [
         "k_SNb2vPhdk",
@@ -306,7 +306,8 @@
         "V3tqm9JTxKY",
         "tY6yYJ5vSd4",
         "46XP4U9gfa0",
-        "MzWiQTTsU58"
+        "MzWiQTTsU58",
+        "Yd9yiXWoF9U"
     ],
     "@loebjeremy": [
         "-r1t3KdwRQA",
@@ -807,7 +808,7 @@
             "3kZuHl5IwxU"
         ]
     },
-    "_last_shorts_check": 1791033710.663829,
+    "_last_shorts_check": 1791036088.4533982,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -822,7 +823,16 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "RqCN0Keeumg": {
+            "message": "Hey <@&1399648272125267978> **Vegan Stoner Lady** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=RqCN0Keeumg",
+            "sent_at": 1791036084.285494
+        },
+        "Yd9yiXWoF9U": {
+            "message": "Hey <@&1399648272125267978> **Dr. Matthew Nagra, ND** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=Yd9yiXWoF9U",
+            "sent_at": 1791036085.3877811
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
