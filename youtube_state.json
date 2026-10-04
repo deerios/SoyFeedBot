@@ -40,7 +40,6 @@
         "@sustainablysam": "UU4Rj2IVEypvzuk3Z3RMlOhg"
     },
     "@DannyIshay": [
-        "Y13Tdly7-J4",
         "7yyBNr8gfm8",
         "s5J5F39BP7I",
         "mcIfb7-dvvI",
@@ -59,7 +58,8 @@
         "ySHc7gIiwOA",
         "lvBT-TidZxA",
         "C4X9vvVT4OA",
-        "JPcScsnAHos"
+        "JPcScsnAHos",
+        "QLPviShK5Ig"
     ],
     "@VirtuePostMortem": [
         "WG6M9gd9bR4",
@@ -506,7 +506,8 @@
         "iNhIuvG6PqM",
         "_1Nw3yhMWwU",
         "8SyZm3WmF4M",
-        "qQFxvVxQ8Ho"
+        "qQFxvVxQ8Ho",
+        "G_j5kpScAfQ"
     ],
     "@CarnistWordSaLAD": [
         "stvuWffvzLA",
@@ -812,7 +813,7 @@
             "3kZuHl5IwxU"
         ]
     },
-    "_last_shorts_check": 1791130880.3432467,
+    "_last_shorts_check": 1791133287.1206474,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -827,7 +828,16 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "QLPviShK5Ig": {
+            "message": "Hey <@&1399648272125267978> **Danny Ishay** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=QLPviShK5Ig",
+            "sent_at": 1791133282.6559668
+        },
+        "G_j5kpScAfQ": {
+            "message": "Hey <@&1399648272125267978> **Foolproof Mastery** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=G_j5kpScAfQ",
+            "sent_at": 1791133284.0282218
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
