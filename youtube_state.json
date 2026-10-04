@@ -470,7 +470,8 @@
         "E5cHBw0WdvM",
         "UGD3laqDo4w",
         "AbNt8rM_z68",
-        "YsoI26G9K60"
+        "YsoI26G9K60",
+        "VXjetBq8v3w"
     ],
     "@BrianLovesBeans": [
         "0LNWrCUCfj0",
@@ -826,7 +827,12 @@
         "etPEg5ASneM",
         "eTxcQz4Av5I"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "VXjetBq8v3w": {
+            "message": "Hey <@&1399648272125267978> **VeganFelek** started a livestream now!\nhttps://www.youtube.com/watch?v=VXjetBq8v3w",
+            "sent_at": 1791105677.534594
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
