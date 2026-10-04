@@ -453,7 +453,8 @@
         "-YEm6KgpAFE",
         "5uzwmjX0fj0",
         "TOPVAioruPk",
-        "TrGX4HseY-c"
+        "TrGX4HseY-c",
+        "nrk5xsbrCCw"
     ],
     "@HazVegan": [
         "9nPdK-Yc6y4",
@@ -814,7 +815,7 @@
             "3kZuHl5IwxU"
         ]
     },
-    "_last_shorts_check": 1791141681.7430992,
+    "_last_shorts_check": 1791144088.3392675,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -830,7 +831,12 @@
         "eTxcQz4Av5I",
         "fhUcXQBecO8"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "nrk5xsbrCCw": {
+            "message": "Hey <@&1399648272125267978> **John ARA** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=nrk5xsbrCCw",
+            "sent_at": 1791144085.3269484
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
