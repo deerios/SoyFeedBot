@@ -62,7 +62,6 @@
         "on0z28k2iJ4"
     ],
     "@VirtuePostMortem": [
-        "WG6M9gd9bR4",
         "zCQcjoovqk4",
         "3U37Jya8vko",
         "ub6nuL4i3sE",
@@ -81,7 +80,8 @@
         "s0WFSKCz95g",
         "CcK_GtI-yOU",
         "XLfncvTo70w",
-        "79FF0iwD6j0"
+        "79FF0iwD6j0",
+        "B-yqfugYrc0"
     ],
     "@iloveveganpvssy": [
         "cUjBN4wAjVI",
@@ -95,7 +95,6 @@
         "qxPCV0bPXm4"
     ],
     "@jadeforjustice": [
-        "oGIr1uLgX-k",
         "tFgOZMDr_aQ",
         "m8uUyxctKEY",
         "FSS038nzrC4",
@@ -114,7 +113,8 @@
         "0JyEfqtNwcU",
         "CnDrKC7st54",
         "RvXhFfLQm2M",
-        "EmLwwSAxbrM"
+        "EmLwwSAxbrM",
+        "blKqmxoUDVo"
     ],
     "@chrisbryantphd": [
         "W6FOQ7cuyA4",
@@ -817,7 +817,7 @@
             "3kZuHl5IwxU"
         ]
     },
-    "_last_shorts_check": 1791210082.0709004,
+    "_last_shorts_check": 1791212494.7688444,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -833,7 +833,16 @@
         "eTxcQz4Av5I",
         "fhUcXQBecO8"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "blKqmxoUDVo": {
+            "message": "Hey <@&1399648272125267978> **JadeForJustice** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=blKqmxoUDVo",
+            "sent_at": 1791212490.6180122
+        },
+        "B-yqfugYrc0": {
+            "message": "Hey <@&1399648272125267978> **Virtue PostMortem** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=B-yqfugYrc0",
+            "sent_at": 1791212491.4778652
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
