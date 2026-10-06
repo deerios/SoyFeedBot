@@ -117,7 +117,6 @@
         "blKqmxoUDVo"
     ],
     "@chrisbryantphd": [
-        "W5Ye3ji0HrI",
         "zl8zyjAmZo8",
         "km2DNVUelAs",
         "GftxQ6LYBDM",
@@ -136,7 +135,8 @@
         "kPoKte6L1aU",
         "N_SxA97OyPE",
         "kt6j2UWu2Lg",
-        "6oBHwjTurOY"
+        "6oBHwjTurOY",
+        "EnGvkpYjy_k"
     ],
     "@plantgeezer": [
         "WUMeV-GFiMc",
@@ -223,7 +223,8 @@
         "n2w5p1i9Scs",
         "koOvuE1fQos",
         "teAIKLM_uhQ",
-        "EqqreqXSF04"
+        "EqqreqXSF04",
+        "bK4UxvefCOY"
     ],
     "@forindividuals": [
         "lg8W2SpQpbA",
@@ -834,7 +835,16 @@
         "eTxcQz4Av5I",
         "fhUcXQBecO8"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "EnGvkpYjy_k": {
+            "message": "Hey <@&1399648272125267978> **Chris Bryant, PhD.** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=EnGvkpYjy_k",
+            "sent_at": 1791296484.2683182
+        },
+        "bK4UxvefCOY": {
+            "message": "Hey <@&1399648272125267978> **Jem Lettuce** is going to be live soon!\nhttps://www.youtube.com/watch?v=bK4UxvefCOY",
+            "sent_at": 1791296485.0410292
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
