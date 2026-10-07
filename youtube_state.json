@@ -291,7 +291,8 @@
         "nqnZgdCXpD8",
         "VFLi0EQ9j64",
         "kP0euOK6Ckg",
-        "DITgD3Ik3vU"
+        "DITgD3Ik3vU",
+        "BRJ1baMFya8"
     ],
     "@dr.matthewnagra": [
         "OVm1Xn36euo",
@@ -820,7 +821,7 @@
             "3kZuHl5IwxU"
         ]
     },
-    "_last_shorts_check": 1791397285.096499,
+    "_last_shorts_check": 1791399689.0813692,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -836,7 +837,12 @@
         "eTxcQz4Av5I",
         "fhUcXQBecO8"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "BRJ1baMFya8": {
+            "message": "Hey <@&1399648272125267978> **Vegan Heretic** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=BRJ1baMFya8",
+            "sent_at": 1791399685.9488754
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
