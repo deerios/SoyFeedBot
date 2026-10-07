@@ -40,7 +40,6 @@
         "@sustainablysam": "UU4Rj2IVEypvzuk3Z3RMlOhg"
     },
     "@DannyIshay": [
-        "FCDMS56BHPY",
         "bTU3J7WYGUk",
         "L0IuAFnGKW0",
         "S3gjhMCukVM",
@@ -59,7 +58,8 @@
         "QLPviShK5Ig",
         "RLL2RcgXjrw",
         "on0z28k2iJ4",
-        "HWyi0FonE6s"
+        "HWyi0FonE6s",
+        "GIHwCGeK84Y"
     ],
     "@VirtuePostMortem": [
         "3U37Jya8vko",
@@ -239,7 +239,6 @@
         "LQdnryrFCa0"
     ],
     "@vegangaze": [
-        "6gAzWPsWRKQ",
         "Musty94JhxU",
         "58oVhbQ9I4I",
         "aY44iAJlMeQ",
@@ -258,7 +257,8 @@
         "Ar9G3Vl18u8",
         "FHTyqzhuLm4",
         "6zu244dH4x4",
-        "sfeEs7V6FhY"
+        "sfeEs7V6FhY",
+        "Q6kvGvxAUHs"
     ],
     "@AxelBertilDahlstr\u00f6m": [
         "PwM7PuwPpa4",
@@ -836,7 +836,16 @@
         "eTxcQz4Av5I",
         "fhUcXQBecO8"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "GIHwCGeK84Y": {
+            "message": "Hey <@&1399648272125267978> **Danny Ishay** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=GIHwCGeK84Y",
+            "sent_at": 1791381688.9857748
+        },
+        "Q6kvGvxAUHs": {
+            "message": "Hey <@&1399648272125267978> **Vegan Gaze** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=Q6kvGvxAUHs",
+            "sent_at": 1791381689.7227376
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
