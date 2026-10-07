@@ -40,7 +40,6 @@
         "@sustainablysam": "UU4Rj2IVEypvzuk3Z3RMlOhg"
     },
     "@DannyIshay": [
-        "bTU3J7WYGUk",
         "L0IuAFnGKW0",
         "S3gjhMCukVM",
         "rTuy84CTDpQ",
@@ -59,7 +58,8 @@
         "RLL2RcgXjrw",
         "on0z28k2iJ4",
         "HWyi0FonE6s",
-        "GIHwCGeK84Y"
+        "GIHwCGeK84Y",
+        "CwwTAc_jxLE"
     ],
     "@VirtuePostMortem": [
         "ub6nuL4i3sE",
@@ -294,7 +294,6 @@
         "DITgD3Ik3vU"
     ],
     "@dr.matthewnagra": [
-        "2iUqZLQQOtg",
         "OVm1Xn36euo",
         "ILi-BfJ5Vok",
         "kTzSeDNxBQQ",
@@ -313,7 +312,8 @@
         "Yd9yiXWoF9U",
         "VqP4kbF9hZA",
         "eT79h0EwyPQ",
-        "YFekktc0JCQ"
+        "YFekktc0JCQ",
+        "nHeoEzMKlgw"
     ],
     "@loebjeremy": [
         "Ri9GlB_q3gU",
@@ -820,7 +820,7 @@
             "3kZuHl5IwxU"
         ]
     },
-    "_last_shorts_check": 1791390149.3010745,
+    "_last_shorts_check": 1791393085.5855372,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -836,7 +836,16 @@
         "eTxcQz4Av5I",
         "fhUcXQBecO8"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "nHeoEzMKlgw": {
+            "message": "Hey <@&1399648272125267978> **Dr. Matthew Nagra, ND** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=nHeoEzMKlgw",
+            "sent_at": 1791393081.4108777
+        },
+        "CwwTAc_jxLE": {
+            "message": "Hey <@&1399648272125267978> **Danny Ishay** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=CwwTAc_jxLE",
+            "sent_at": 1791393082.6030111
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
