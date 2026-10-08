@@ -191,7 +191,6 @@
         "DHmqAJPDXjM"
     ],
     "@VeganStonerLady": [
-        "3LUGOSxEv6g",
         "A33Dd7ypGVM",
         "3kT3iyIOhGU",
         "acL-s8-dcXU",
@@ -210,7 +209,8 @@
         "kusKHStO2-o",
         "1hbMT_oU-0Q",
         "1kTUfsnjRdw",
-        "cF0Xy1KJ69I"
+        "cF0Xy1KJ69I",
+        "7awLi6dPuNs"
     ],
     "@jemlettuce": [
         "k_SNb2vPhdk",
@@ -842,7 +842,12 @@
         "eTxcQz4Av5I",
         "fhUcXQBecO8"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "7awLi6dPuNs": {
+            "message": "Hey <@&1399648272125267978> **Vegan Stoner Lady** is going to be live soon!\nhttps://www.youtube.com/watch?v=7awLi6dPuNs",
+            "sent_at": 1791502283.6345747
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
