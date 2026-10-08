@@ -162,7 +162,6 @@
         "4nnm20oLn88"
     ],
     "@ThatChipGuy": [
-        "fdT-7amT7GQ",
         "AqNSTT5gjSU",
         "m_3fOn50ys8",
         "X6f69O04mfE",
@@ -181,7 +180,8 @@
         "VWgKAj5PJW0",
         "erViaYG_6bE",
         "ie9bQKAQff8",
-        "Vfxm5uWiw6A"
+        "Vfxm5uWiw6A",
+        "G8XAuRy38Qo"
     ],
     "@jakeastonfta": [
         "3zJi7JMgiFQ",
@@ -841,7 +841,12 @@
         "eTxcQz4Av5I",
         "fhUcXQBecO8"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "G8XAuRy38Qo": {
+            "message": "Hey <@&1399648272125267978> **That Chip Guy** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=G8XAuRy38Qo",
+            "sent_at": 1791460279.2063205
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
