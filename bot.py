@@ -28,7 +28,7 @@ YOUTUBE_CHANNELS = [
     "@dr.matthewnagra",
     "@loebjeremy",
     "@JasonGutt",
-    "@MehtaEthics",
+    
     "@TheTallestMunchkin",
     "@earthtomanar",
     "@NoInjusticeLastsForever",
