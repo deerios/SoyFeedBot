@@ -62,7 +62,6 @@
         "zBQxpmTgo4Y"
     ],
     "@VirtuePostMortem": [
-        "3zGFzunw4TM",
         "6WYZs3NKAeU",
         "55jpXg0jnJk",
         "5sKhsJwSR8I",
@@ -81,7 +80,8 @@
         "B-yqfugYrc0",
         "gtHCq5P9BR4",
         "LQEGU_vtKIs",
-        "Cnh2tc9JMkk"
+        "Cnh2tc9JMkk",
+        "LtCqrqK6kZk"
     ],
     "@iloveveganpvssy": [
         "cUjBN4wAjVI",
@@ -827,7 +827,7 @@
             "3kZuHl5IwxU"
         ]
     },
-    "_last_shorts_check": 1791555682.8514953,
+    "_last_shorts_check": 1791558095.769686,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -843,7 +843,12 @@
         "eTxcQz4Av5I",
         "fhUcXQBecO8"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "LtCqrqK6kZk": {
+            "message": "Hey <@&1399648272125267978> **Virtue PostMortem** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=LtCqrqK6kZk",
+            "sent_at": 1791558092.7782311
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
