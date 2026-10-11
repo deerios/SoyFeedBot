@@ -62,7 +62,6 @@
         "hencr4N9MCY"
     ],
     "@VirtuePostMortem": [
-        "55jpXg0jnJk",
         "5sKhsJwSR8I",
         "5CIoIdFlQvk",
         "fVXkemsmv0M",
@@ -81,7 +80,8 @@
         "LQEGU_vtKIs",
         "Cnh2tc9JMkk",
         "LtCqrqK6kZk",
-        "1JYLWc5VC3w"
+        "1JYLWc5VC3w",
+        "7gNsXQmWeW4"
     ],
     "@iloveveganpvssy": [
         "cUjBN4wAjVI",
@@ -162,7 +162,6 @@
         "xB8ICxfNmJo"
     ],
     "@ThatChipGuy": [
-        "bOSNjBfugJ8",
         "20QqWMmS9mY",
         "X7kwijHtLYY",
         "06mAMrnnHC8",
@@ -181,7 +180,8 @@
         "1UlJozBbdmU",
         "TiGIEzES2Gw",
         "DbxzT8I99P4",
-        "ulwUjm3pGCA"
+        "ulwUjm3pGCA",
+        "xvhyOE6t6ZI"
     ],
     "@jakeastonfta": [
         "3zJi7JMgiFQ",
@@ -828,7 +828,7 @@
             "3kZuHl5IwxU"
         ]
     },
-    "_last_shorts_check": 1791728487.3761768,
+    "_last_shorts_check": 1791730889.892034,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -845,7 +845,16 @@
         "eTxcQz4Av5I",
         "fhUcXQBecO8"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "xvhyOE6t6ZI": {
+            "message": "Hey <@&1399648272125267978> **That Chip Guy** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=xvhyOE6t6ZI",
+            "sent_at": 1791730884.7142572
+        },
+        "7gNsXQmWeW4": {
+            "message": "Hey <@&1399648272125267978> **Virtue PostMortem** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=7gNsXQmWeW4",
+            "sent_at": 1791730885.6053336
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
