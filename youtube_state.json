@@ -162,7 +162,6 @@
         "xB8ICxfNmJo"
     ],
     "@ThatChipGuy": [
-        "IBSp_xiFYts",
         "bOSNjBfugJ8",
         "20QqWMmS9mY",
         "X7kwijHtLYY",
@@ -181,7 +180,8 @@
         "yUNVWR6u860",
         "1UlJozBbdmU",
         "TiGIEzES2Gw",
-        "DbxzT8I99P4"
+        "DbxzT8I99P4",
+        "ulwUjm3pGCA"
     ],
     "@jakeastonfta": [
         "3zJi7JMgiFQ",
@@ -191,7 +191,6 @@
         "DHmqAJPDXjM"
     ],
     "@VeganStonerLady": [
-        "RqCN0Keeumg",
         "R6ijaRUphj8",
         "l22t_RqIF5Q",
         "LcOscuWxOes",
@@ -210,7 +209,8 @@
         "UQbGE4tihsc",
         "8EVLh_QtbyU",
         "FhCCl0f4aLM",
-        "jgWRHMIABFw"
+        "jgWRHMIABFw",
+        "85NecKmAnmA"
     ],
     "@jemlettuce": [
         "k_SNb2vPhdk",
@@ -845,7 +845,16 @@
         "eTxcQz4Av5I",
         "fhUcXQBecO8"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "ulwUjm3pGCA": {
+            "message": "Hey <@&1399648272125267978> **That Chip Guy** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=ulwUjm3pGCA",
+            "sent_at": 1791729085.906353
+        },
+        "85NecKmAnmA": {
+            "message": "Hey <@&1399648272125267978> **Vegan Stoner Lady** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=85NecKmAnmA",
+            "sent_at": 1791729086.6640952
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
