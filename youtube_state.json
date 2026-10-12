@@ -162,7 +162,6 @@
         "xB8ICxfNmJo"
     ],
     "@ThatChipGuy": [
-        "X7kwijHtLYY",
         "06mAMrnnHC8",
         "bs7EJxp34pc",
         "QifnuFOeUDU",
@@ -181,7 +180,8 @@
         "DbxzT8I99P4",
         "ulwUjm3pGCA",
         "xvhyOE6t6ZI",
-        "b5KKfXkQwXk"
+        "b5KKfXkQwXk",
+        "gXqLyx7nSvY"
     ],
     "@jakeastonfta": [
         "3zJi7JMgiFQ",
@@ -242,7 +242,6 @@
         "K1WwjV_CchA"
     ],
     "@vegangaze": [
-        "E5p8o0ytX_E",
         "1L0CmGndUZg",
         "ZJ9CFwJ_FlU",
         "ldeZJc_O66o",
@@ -261,7 +260,8 @@
         "1I2MqLDv-WQ",
         "ztQpSuKDi2o",
         "_8iVI-JcCRE",
-        "wtimex2rLoQ"
+        "wtimex2rLoQ",
+        "Rb_VGKLNvzM"
     ],
     "@AxelBertilDahlstr\u00f6m": [
         "6Qn75zV4nt4",
@@ -828,7 +828,7 @@
             "3kZuHl5IwxU"
         ]
     },
-    "_last_shorts_check": 1791804682.936939,
+    "_last_shorts_check": 1791806491.751447,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -845,7 +845,16 @@
         "eTxcQz4Av5I",
         "fhUcXQBecO8"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "gXqLyx7nSvY": {
+            "message": "Hey <@&1399648272125267978> **That Chip Guy** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=gXqLyx7nSvY",
+            "sent_at": 1791806488.0045156
+        },
+        "Rb_VGKLNvzM": {
+            "message": "Hey <@&1399648272125267978> **Vegan Gaze** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=Rb_VGKLNvzM",
+            "sent_at": 1791806488.6901417
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
