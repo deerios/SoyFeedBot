@@ -62,7 +62,6 @@
         "xJPWF6_v2_Y"
     ],
     "@VirtuePostMortem": [
-        "fVXkemsmv0M",
         "ZhsOGmpliwM",
         "CAF2pWBalNY",
         "abrrUNem34s",
@@ -81,7 +80,8 @@
         "1JYLWc5VC3w",
         "7gNsXQmWeW4",
         "caIH5QkV0Wo",
-        "RHB1jq2BK28"
+        "RHB1jq2BK28",
+        "XXVZfyTU284"
     ],
     "@iloveveganpvssy": [
         "cUjBN4wAjVI",
@@ -191,7 +191,6 @@
         "DHmqAJPDXjM"
     ],
     "@VeganStonerLady": [
-        "4fgrWzNMyg4",
         "8a4xjzH6y5Q",
         "ikif_K7nGIY",
         "XaWuLp6_hCY",
@@ -210,7 +209,8 @@
         "85NecKmAnmA",
         "0gQn_7L2t54",
         "Rn_wUdpcqec",
-        "V37VRnyHMtA"
+        "V37VRnyHMtA",
+        "bjKL8FaiziE"
     ],
     "@jemlettuce": [
         "k_SNb2vPhdk",
@@ -846,7 +846,16 @@
         "eTxcQz4Av5I",
         "fhUcXQBecO8"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "XXVZfyTU284": {
+            "message": "Hey <@&1399648272125267978> **Virtue PostMortem** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=XXVZfyTU284",
+            "sent_at": 1791894684.716627
+        },
+        "bjKL8FaiziE": {
+            "message": "Hey <@&1399648272125267978> **Vegan Stoner Lady** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=bjKL8FaiziE",
+            "sent_at": 1791894685.5373244
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
