@@ -40,7 +40,6 @@
         "@sustainablysam": "UU4Rj2IVEypvzuk3Z3RMlOhg"
     },
     "@DannyIshay": [
-        "C4X9vvVT4OA",
         "JPcScsnAHos",
         "QLPviShK5Ig",
         "RLL2RcgXjrw",
@@ -59,7 +58,8 @@
         "xJPWF6_v2_Y",
         "IDxFzvScB_I",
         "GrB_BIG8Kio",
-        "-hHIvHIBa2k"
+        "-hHIvHIBa2k",
+        "1g0BM4CSFGs"
     ],
     "@VirtuePostMortem": [
         "CAF2pWBalNY",
@@ -301,7 +301,8 @@
         "VFLi0EQ9j64",
         "kP0euOK6Ckg",
         "DITgD3Ik3vU",
-        "BRJ1baMFya8"
+        "BRJ1baMFya8",
+        "WNDUWbycCJQ"
     ],
     "@dr.matthewnagra": [
         "vzWsULCNuXI",
@@ -849,7 +850,16 @@
         "eTxcQz4Av5I",
         "fhUcXQBecO8"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "1g0BM4CSFGs": {
+            "message": "Hey <@&1399648272125267978> **Danny Ishay** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=1g0BM4CSFGs",
+            "sent_at": 1792004489.440938
+        },
+        "WNDUWbycCJQ": {
+            "message": "Hey <@&1399648272125267978> **Vegan Heretic** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=WNDUWbycCJQ",
+            "sent_at": 1792004490.9786143
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
