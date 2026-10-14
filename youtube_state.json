@@ -226,7 +226,8 @@
         "teAIKLM_uhQ",
         "EqqreqXSF04",
         "bK4UxvefCOY",
-        "BktiIB1eF2E"
+        "BktiIB1eF2E",
+        "ADwi0g0-PvM"
     ],
     "@forindividuals": [
         "lg8W2SpQpbA",
@@ -846,7 +847,12 @@
         "eTxcQz4Av5I",
         "fhUcXQBecO8"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "ADwi0g0-PvM": {
+            "message": "Hey <@&1399648272125267978> **Jem Lettuce** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=ADwi0g0-PvM",
+            "sent_at": 1791993688.144633
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
