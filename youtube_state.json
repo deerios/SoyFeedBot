@@ -241,7 +241,8 @@
         "JieP5vv-Lds",
         "LQdnryrFCa0",
         "-BfqFzhi24Q",
-        "K1WwjV_CchA"
+        "K1WwjV_CchA",
+        "1CCWdwDNFpU"
     ],
     "@vegangaze": [
         "vWGmS9z5Ivg",
@@ -848,7 +849,12 @@
         "eTxcQz4Av5I",
         "fhUcXQBecO8"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "1CCWdwDNFpU": {
+            "message": "Hey <@&1399648272125267978> **Tee** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=1CCWdwDNFpU",
+            "sent_at": 1791996085.665349
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
