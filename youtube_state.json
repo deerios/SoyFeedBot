@@ -471,7 +471,8 @@
         "TOPVAioruPk",
         "TrGX4HseY-c",
         "nrk5xsbrCCw",
-        "aOZhBUsjsqw"
+        "aOZhBUsjsqw",
+        "hoLTq27JBf4"
     ],
     "@HazVegan": [
         "9nPdK-Yc6y4",
@@ -835,7 +836,7 @@
             "3kZuHl5IwxU"
         ]
     },
-    "_last_shorts_check": 1792135279.6743357,
+    "_last_shorts_check": 1792137086.7590961,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -852,7 +853,12 @@
         "eTxcQz4Av5I",
         "fhUcXQBecO8"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "hoLTq27JBf4": {
+            "message": "Hey <@&1399648272125267978> **John ARA** started a livestream now!\nhttps://www.youtube.com/watch?v=hoLTq27JBf4",
+            "sent_at": 1792137083.9691234
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
