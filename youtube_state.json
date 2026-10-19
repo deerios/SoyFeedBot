@@ -62,7 +62,6 @@
         "8D3QU738zYo"
     ],
     "@VirtuePostMortem": [
-        "pWQTxroPHB4",
         "s0WFSKCz95g",
         "CcK_GtI-yOU",
         "XLfncvTo70w",
@@ -81,7 +80,8 @@
         "W-WPPUj0dEE",
         "NJxVoMDOXko",
         "ojtMHKEAQ4A",
-        "4FUkiVnjLpo"
+        "4FUkiVnjLpo",
+        "kvlo6lUwKUg"
     ],
     "@iloveveganpvssy": [
         "cUjBN4wAjVI",
@@ -230,7 +230,8 @@
         "bK4UxvefCOY",
         "BktiIB1eF2E",
         "ADwi0g0-PvM",
-        "T9jMsObIWqc"
+        "T9jMsObIWqc",
+        "RkGjxuTDXyc"
     ],
     "@forindividuals": [
         "lg8W2SpQpbA",
@@ -846,7 +847,7 @@
             "3kZuHl5IwxU"
         ]
     },
-    "_last_shorts_check": 1792419682.1109002,
+    "_last_shorts_check": 1792422092.834798,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -863,7 +864,16 @@
         "eTxcQz4Av5I",
         "fhUcXQBecO8"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "kvlo6lUwKUg": {
+            "message": "Hey <@&1399648272125267978> **Virtue PostMortem** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=kvlo6lUwKUg",
+            "sent_at": 1792422089.2391934
+        },
+        "RkGjxuTDXyc": {
+            "message": "Hey <@&1399648272125267978> **Jem Lettuce** is going to be live soon!\nhttps://www.youtube.com/watch?v=RkGjxuTDXyc",
+            "sent_at": 1792422089.8363662
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
