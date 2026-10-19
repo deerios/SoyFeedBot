@@ -862,7 +862,12 @@
         "eTxcQz4Av5I",
         "fhUcXQBecO8"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "fsZEf1kRBBE": {
+            "message": "Hey <@&1399648272125267978> **Sustainably Sam ** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=fsZEf1kRBBE",
+            "sent_at": 1792407688.4080925
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
@@ -882,6 +887,7 @@
         "INq2ZqFWLPg",
         "3kZuHl5IwxU",
         "bev-kOa0OEg",
-        "fR3LBmztek8"
+        "fR3LBmztek8",
+        "fsZEf1kRBBE"
     ]
 }
