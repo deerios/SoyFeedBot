@@ -379,7 +379,6 @@
         "NyqRtNHf5H8"
     ],
     "@TheTallestMunchkin": [
-        "kInQSp15ZxQ",
         "eeYfAT7uZ9E",
         "fESlYsyAnag",
         "WMerExeySWY",
@@ -398,7 +397,8 @@
         "VWN9fJQbcY8",
         "4aO9lYYC1Jo",
         "Oh3e8tN1vUE",
-        "HJzgTu-O5cw"
+        "HJzgTu-O5cw",
+        "aNOl4DBtj60"
     ],
     "@earthtomanar": [
         "dVi7MjjW5Gk",
@@ -869,7 +869,12 @@
         "eTxcQz4Av5I",
         "fhUcXQBecO8"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "aNOl4DBtj60": {
+            "message": "Hey <@&1399648272125267978> **The Tallest Munchkin** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=aNOl4DBtj60",
+            "sent_at": 1792623696.026291
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
