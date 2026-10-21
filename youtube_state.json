@@ -162,7 +162,6 @@
         "_9xuUFzitJw"
     ],
     "@ThatChipGuy": [
-        "DbxzT8I99P4",
         "ulwUjm3pGCA",
         "xvhyOE6t6ZI",
         "b5KKfXkQwXk",
@@ -181,7 +180,8 @@
         "WpJjY9YvuNc",
         "qf1HrHJfNqc",
         "CcHFeuFVj4M",
-        "O04zbuZyIL8"
+        "O04zbuZyIL8",
+        "9NAiThLzTj4"
     ],
     "@jakeastonfta": [
         "3zJi7JMgiFQ",
@@ -249,7 +249,6 @@
         "1CCWdwDNFpU"
     ],
     "@vegangaze": [
-        "nv8VKWmlgI8",
         "1I2MqLDv-WQ",
         "ztQpSuKDi2o",
         "_8iVI-JcCRE",
@@ -268,7 +267,8 @@
         "irslQyX_xfM",
         "FOkl2PBolbk",
         "q77FVbV9DzI",
-        "3UlXu8SHm8M"
+        "3UlXu8SHm8M",
+        "17OgRMwhHj0"
     ],
     "@AxelBertilDahlstr\u00f6m": [
         "CwJPwLlG7Yg",
@@ -868,7 +868,16 @@
         "eTxcQz4Av5I",
         "fhUcXQBecO8"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "9NAiThLzTj4": {
+            "message": "Hey <@&1399648272125267978> **That Chip Guy** is going to be live soon!\nhttps://www.youtube.com/watch?v=9NAiThLzTj4",
+            "sent_at": 1792601481.004068
+        },
+        "17OgRMwhHj0": {
+            "message": "Hey <@&1399648272125267978> **Vegan Gaze** started a livestream now!\nhttps://www.youtube.com/watch?v=17OgRMwhHj0",
+            "sent_at": 1792601481.5885918
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
