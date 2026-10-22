@@ -96,7 +96,6 @@
         "a9NUaoQLuMQ"
     ],
     "@jadeforjustice": [
-        "OT1CgHHpDxc",
         "mVSVlRGmJ3k",
         "plONQVdLO30",
         "0JyEfqtNwcU",
@@ -115,7 +114,8 @@
         "FDlYWgaWODg",
         "hJg1A_Jn-yM",
         "Qs8ctliITf8",
-        "7e3SfOpRnQg"
+        "7e3SfOpRnQg",
+        "-_Aq6Op2a1M"
     ],
     "@chrisbryantphd": [
         "4FiNgehUtGI",
@@ -852,7 +852,7 @@
             "3kZuHl5IwxU"
         ]
     },
-    "_last_shorts_check": 1792629684.2014618,
+    "_last_shorts_check": 1792631489.5861285,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -867,9 +867,19 @@
         "TmaUqLuQZAw",
         "etPEg5ASneM",
         "eTxcQz4Av5I",
-        "fhUcXQBecO8"
+        "fhUcXQBecO8",
+        "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "-_Aq6Op2a1M": {
+            "message": "Hey <@&1399648272125267978> **JadeForJustice** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=-_Aq6Op2a1M",
+            "sent_at": 1792631485.4667668
+        },
+        "9WmN390yoKw": {
+            "message": "Hey <@&1399648272125267978> **Tessa Saves** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=9WmN390yoKw",
+            "sent_at": 1792631486.5801954
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
