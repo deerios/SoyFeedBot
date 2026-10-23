@@ -335,7 +335,6 @@
         "A_Vwt88-F4w"
     ],
     "@loebjeremy": [
-        "jDKXOo-wCHg",
         "MggsnmBIaj8",
         "Q6xtqtbgHzg",
         "hztoD7lqt6E",
@@ -354,7 +353,8 @@
         "Oc1_qPMN-vY",
         "n8R3RNzTlZc",
         "ukk2RreH3RU",
-        "KU9JFAd7RZ8"
+        "KU9JFAd7RZ8",
+        "69yxkr3_Qsc"
     ],
     "@JasonGutt": [
         "Ze4suB6b-Rk",
@@ -854,7 +854,7 @@
             "3kZuHl5IwxU"
         ]
     },
-    "_last_shorts_check": 1792779084.8039765,
+    "_last_shorts_check": 1792781484.4643955,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -872,7 +872,12 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "69yxkr3_Qsc": {
+            "message": "Hey <@&1399648272125267978> **Jeremy Loeb** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=69yxkr3_Qsc",
+            "sent_at": 1792781481.416429
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
