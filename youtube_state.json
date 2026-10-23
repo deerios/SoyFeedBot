@@ -140,7 +140,6 @@
         "Jobh-My57fc"
     ],
     "@plantgeezer": [
-        "nHRTbZCffpE",
         "zsmxjEojhE4",
         "rhzkij6heCQ",
         "Z4yvcPr93vs",
@@ -159,7 +158,8 @@
         "XZtGV41gpJM",
         "KLJWyKe7gf8",
         "94VzzP5XFFY",
-        "_9xuUFzitJw"
+        "_9xuUFzitJw",
+        "99rjqb4qELc"
     ],
     "@ThatChipGuy": [
         "gXqLyx7nSvY",
@@ -871,7 +871,12 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "99rjqb4qELc": {
+            "message": "Hey <@&1399648272125267978> **Plant Geezer** started a livestream now!\nhttps://www.youtube.com/watch?v=99rjqb4qELc",
+            "sent_at": 1792760489.9953094
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
