@@ -310,7 +310,8 @@
         "BRJ1baMFya8",
         "WNDUWbycCJQ",
         "8v4ObqK-aH0",
-        "GPBjYuTrc8s"
+        "GPBjYuTrc8s",
+        "WmlqJ1KxIHo"
     ],
     "@dr.matthewnagra": [
         "L-fd-LxGDbM",
@@ -873,7 +874,12 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "WmlqJ1KxIHo": {
+            "message": "Hey <@&1399648272125267978> **Vegan Heretic** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=WmlqJ1KxIHo",
+            "sent_at": 1792868484.6114552
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
