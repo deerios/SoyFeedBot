@@ -118,7 +118,6 @@
         "iOZuIsI-IoE"
     ],
     "@chrisbryantphd": [
-        "Upl_KitnbM0",
         "vv6xH-_GuEk",
         "OSBFB58G7vQ",
         "6gsjcQLgafw",
@@ -137,7 +136,8 @@
         "Tk9q6MvpUAQ",
         "zt889wtcsjY",
         "Jobh-My57fc",
-        "L7wDs3WjnMg"
+        "L7wDs3WjnMg",
+        "meIDS9t9UoE"
     ],
     "@plantgeezer": [
         "zsmxjEojhE4",
@@ -162,7 +162,6 @@
         "99rjqb4qELc"
     ],
     "@ThatChipGuy": [
-        "LYiV8KR2lxY",
         "mCWVIBqJqnY",
         "ClPwZBiQc5w",
         "IUM5Y-pMy2E",
@@ -181,7 +180,8 @@
         "S_MTBZKzmUo",
         "J0mTJKEpu1Y",
         "F4leAuKqny4",
-        "7DBZm_mnlz0"
+        "7DBZm_mnlz0",
+        "ipyBFEuQto4"
     ],
     "@jakeastonfta": [
         "3zJi7JMgiFQ",
@@ -873,7 +873,16 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "meIDS9t9UoE": {
+            "message": "Hey <@&1399648272125267978> **Chris Bryant, PhD.** started a livestream now!\nhttps://www.youtube.com/watch?v=meIDS9t9UoE",
+            "sent_at": 1792842081.311428
+        },
+        "ipyBFEuQto4": {
+            "message": "Hey <@&1399648272125267978> **That Chip Guy** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=ipyBFEuQto4",
+            "sent_at": 1792842082.1266434
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
