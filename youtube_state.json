@@ -40,7 +40,6 @@
         "@sustainablysam": "UU4Rj2IVEypvzuk3Z3RMlOhg"
     },
     "@DannyIshay": [
-        "IDxFzvScB_I",
         "GrB_BIG8Kio",
         "-hHIvHIBa2k",
         "1g0BM4CSFGs",
@@ -59,7 +58,8 @@
         "uUkM_Ja9RLo",
         "gUKqONfWAyo",
         "mbpgRfsOwts",
-        "DSaSvPH27cE"
+        "DSaSvPH27cE",
+        "R76ZrNFPigY"
     ],
     "@VirtuePostMortem": [
         "LQEGU_vtKIs",
@@ -579,7 +579,8 @@
         "xBWL2gvCf44",
         "18d3WPU0rvI",
         "3199hf0ddC4",
-        "19SGhIIzYvY"
+        "19SGhIIzYvY",
+        "-c2GOqohyow"
     ],
     "@SoyDaddy1": [
         "dqrDjKbhs7Q",
@@ -859,7 +860,7 @@
             "3kZuHl5IwxU"
         ]
     },
-    "_last_shorts_check": 1792947689.6054766,
+    "_last_shorts_check": 1792950082.759376,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -877,7 +878,16 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "R76ZrNFPigY": {
+            "message": "Hey <@&1399648272125267978> **Danny Ishay** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=R76ZrNFPigY",
+            "sent_at": 1792950078.2996826
+        },
+        "-c2GOqohyow": {
+            "message": "Hey <@&1399648272125267978> **The 40 year old Vegan** is going to be live soon!\nhttps://www.youtube.com/watch?v=-c2GOqohyow",
+            "sent_at": 1792950079.609984
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
