@@ -140,7 +140,6 @@
         "ICDb9Ju4hC8"
     ],
     "@plantgeezer": [
-        "rhzkij6heCQ",
         "Z4yvcPr93vs",
         "WMEO0zDGnzQ",
         "3NelqvfnBXM",
@@ -159,10 +158,10 @@
         "94VzzP5XFFY",
         "_9xuUFzitJw",
         "99rjqb4qELc",
-        "tSXp0tfhV0s"
+        "tSXp0tfhV0s",
+        "Mfi8DADiU4I"
     ],
     "@ThatChipGuy": [
-        "ClPwZBiQc5w",
         "IUM5Y-pMy2E",
         "ZXRA39cpbBs",
         "N0MN3No1R6w",
@@ -181,7 +180,8 @@
         "F4leAuKqny4",
         "7DBZm_mnlz0",
         "ipyBFEuQto4",
-        "RHOWUx9enCA"
+        "RHOWUx9enCA",
+        "N7rBZQx-Ffk"
     ],
     "@jakeastonfta": [
         "3zJi7JMgiFQ",
@@ -384,7 +384,6 @@
         "NyqRtNHf5H8"
     ],
     "@TheTallestMunchkin": [
-        "WqATNBa1rKE",
         "GSumnnxp7XI",
         "WTSBIJy3iAQ",
         "CAoyU97nrIM",
@@ -403,7 +402,8 @@
         "5XZbkMNlLXs",
         "ugTpWvOVOKY",
         "vTVQa-18Res",
-        "b4oepWATPuA"
+        "b4oepWATPuA",
+        "hsQE5c4XKtw"
     ],
     "@earthtomanar": [
         "OtmoUhD2jJM",
@@ -876,7 +876,20 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "Mfi8DADiU4I": {
+            "message": "Hey <@&1399648272125267978> **Plant Geezer** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=Mfi8DADiU4I",
+            "sent_at": 1792944086.1831427
+        },
+        "N7rBZQx-Ffk": {
+            "message": "Hey <@&1399648272125267978> **That Chip Guy** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=N7rBZQx-Ffk",
+            "sent_at": 1792944086.940854
+        },
+        "hsQE5c4XKtw": {
+            "message": "Hey <@&1399648272125267978> **The Tallest Munchkin** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=hsQE5c4XKtw",
+            "sent_at": 1792944087.0471466
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
