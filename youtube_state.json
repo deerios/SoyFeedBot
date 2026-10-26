@@ -118,7 +118,6 @@
         "6ElwPECWpD4"
     ],
     "@chrisbryantphd": [
-        "tSOWGGv3cgM",
         "kPoKte6L1aU",
         "N_SxA97OyPE",
         "kt6j2UWu2Lg",
@@ -137,7 +136,8 @@
         "pop091C1d0c",
         "ICDb9Ju4hC8",
         "aXnPQ_RAkXs",
-        "CbVYKKAXx_Q"
+        "CbVYKKAXx_Q",
+        "pJQO2An7gxM"
     ],
     "@plantgeezer": [
         "Z4yvcPr93vs",
@@ -253,7 +253,6 @@
         "1CCWdwDNFpU"
     ],
     "@vegangaze": [
-        "QUG3Wphy9-U",
         "JpRx9z5yxmM",
         "f9uq1OjISno",
         "CBVNT5bBy08",
@@ -272,7 +271,8 @@
         "vDUovyQRD8A",
         "IJMcOk-0EKA",
         "70xCD-uw8Jc",
-        "C3F05siPd4o"
+        "C3F05siPd4o",
+        "kUGnB7v1i5c"
     ],
     "@AxelBertilDahlstr\u00f6m": [
         "G624DL05ay4",
@@ -386,7 +386,6 @@
         "NyqRtNHf5H8"
     ],
     "@TheTallestMunchkin": [
-        "VWN9fJQbcY8",
         "4aO9lYYC1Jo",
         "Oh3e8tN1vUE",
         "HJzgTu-O5cw",
@@ -405,7 +404,8 @@
         "jeGCv1DURhE",
         "Pq4bKqqKhIM",
         "v2K5rts8nVs",
-        "0V9vJUonjMs"
+        "0V9vJUonjMs",
+        "Z68kT9ecbYU"
     ],
     "@earthtomanar": [
         "OtmoUhD2jJM",
@@ -863,7 +863,7 @@
             "3kZuHl5IwxU"
         ]
     },
-    "_last_shorts_check": 1793017890.143262,
+    "_last_shorts_check": 1793019740.053932,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -881,7 +881,20 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "kUGnB7v1i5c": {
+            "message": "Hey <@&1399648272125267978> **Vegan Gaze** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=kUGnB7v1i5c",
+            "sent_at": 1793019732.2784777
+        },
+        "pJQO2An7gxM": {
+            "message": "Hey <@&1399648272125267978> **Chris Bryant, PhD.** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=pJQO2An7gxM",
+            "sent_at": 1793019733.919825
+        },
+        "Z68kT9ecbYU": {
+            "message": "Hey <@&1399648272125267978> **The Tallest Munchkin** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=Z68kT9ecbYU",
+            "sent_at": 1793019736.4154112
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
