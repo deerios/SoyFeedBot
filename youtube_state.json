@@ -194,7 +194,6 @@
         "bWwvAiZZt-0"
     ],
     "@VeganStonerLady": [
-        "F9Bsit7YTCc",
         "njDHcdMZC2I",
         "y4LnEB54QRo",
         "9-5Z49u1Y_A",
@@ -213,7 +212,8 @@
         "GpyHcCo4Xyk",
         "qmHvfqoH8es",
         "xckCNo36QuU",
-        "jJOmj1-AyZ4"
+        "jJOmj1-AyZ4",
+        "_Pcj2dTcdnE"
     ],
     "@jemlettuce": [
         "k_SNb2vPhdk",
@@ -253,7 +253,6 @@
         "1CCWdwDNFpU"
     ],
     "@vegangaze": [
-        "JpRx9z5yxmM",
         "f9uq1OjISno",
         "CBVNT5bBy08",
         "XBaGU3pLsYo",
@@ -272,7 +271,8 @@
         "IJMcOk-0EKA",
         "70xCD-uw8Jc",
         "C3F05siPd4o",
-        "kUGnB7v1i5c"
+        "kUGnB7v1i5c",
+        "gl8PXIxbTrE"
     ],
     "@AxelBertilDahlstr\u00f6m": [
         "G624DL05ay4",
@@ -881,7 +881,16 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "_Pcj2dTcdnE": {
+            "message": "Hey <@&1399648272125267978> **Vegan Stoner Lady** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=_Pcj2dTcdnE",
+            "sent_at": 1793025091.116817
+        },
+        "gl8PXIxbTrE": {
+            "message": "Hey <@&1399648272125267978> **Vegan Gaze** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=gl8PXIxbTrE",
+            "sent_at": 1793025092.114806
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
