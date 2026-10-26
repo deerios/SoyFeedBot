@@ -62,7 +62,6 @@
         "R76ZrNFPigY"
     ],
     "@VirtuePostMortem": [
-        "LQEGU_vtKIs",
         "Cnh2tc9JMkk",
         "LtCqrqK6kZk",
         "1JYLWc5VC3w",
@@ -81,7 +80,8 @@
         "ZjcHnigcdbQ",
         "y5EJwtua5xM",
         "vB-IYFuJ73o",
-        "YXkIPB5WINE"
+        "YXkIPB5WINE",
+        "APxFGfIcqrA"
     ],
     "@iloveveganpvssy": [
         "cUjBN4wAjVI",
@@ -386,7 +386,6 @@
         "NyqRtNHf5H8"
     ],
     "@TheTallestMunchkin": [
-        "4aO9lYYC1Jo",
         "Oh3e8tN1vUE",
         "HJzgTu-O5cw",
         "aNOl4DBtj60",
@@ -405,7 +404,8 @@
         "Pq4bKqqKhIM",
         "v2K5rts8nVs",
         "0V9vJUonjMs",
-        "Z68kT9ecbYU"
+        "Z68kT9ecbYU",
+        "7bOpgDCgGLA"
     ],
     "@earthtomanar": [
         "OtmoUhD2jJM",
@@ -863,7 +863,7 @@
             "3kZuHl5IwxU"
         ]
     },
-    "_last_shorts_check": 1793028084.7763488,
+    "_last_shorts_check": 1793030494.6892028,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -881,7 +881,16 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "APxFGfIcqrA": {
+            "message": "Hey <@&1399648272125267978> **Virtue PostMortem** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=APxFGfIcqrA",
+            "sent_at": 1793030490.991143
+        },
+        "7bOpgDCgGLA": {
+            "message": "Hey <@&1399648272125267978> **The Tallest Munchkin** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=7bOpgDCgGLA",
+            "sent_at": 1793030491.6274607
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
