@@ -254,7 +254,6 @@
         "1CCWdwDNFpU"
     ],
     "@vegangaze": [
-        "XBaGU3pLsYo",
         "UsE8JcBJqSI",
         "ePZkk9gozsM",
         "dUhuxpCfHy0",
@@ -273,7 +272,8 @@
         "kUGnB7v1i5c",
         "gl8PXIxbTrE",
         "20HYhN-Iq60",
-        "UL8T_x9PLtE"
+        "UL8T_x9PLtE",
+        "wjJHWPrlxXg"
     ],
     "@AxelBertilDahlstr\u00f6m": [
         "h9LdlxPFlF0",
@@ -884,7 +884,12 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "wjJHWPrlxXg": {
+            "message": "Hey <@&1399648272125267978> **Vegan Gaze** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=wjJHWPrlxXg",
+            "sent_at": 1793124090.4808593
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
