@@ -119,7 +119,6 @@
         "nTxmQMINXnw"
     ],
     "@chrisbryantphd": [
-        "6oBHwjTurOY",
         "EnGvkpYjy_k",
         "hLNpKwMYHPA",
         "apy_JfW4r4Y",
@@ -138,7 +137,8 @@
         "pJQO2An7gxM",
         "lnFygcaeip4",
         "5MrE5kCPvtM",
-        "Q0lcWJCKOQk"
+        "Q0lcWJCKOQk",
+        "wFOCx_pTrj4"
     ],
     "@plantgeezer": [
         "Z4yvcPr93vs",
@@ -866,7 +866,7 @@
             "3kZuHl5IwxU"
         ]
     },
-    "_last_shorts_check": 1793130083.4945507,
+    "_last_shorts_check": 1793132485.165793,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -884,7 +884,12 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "wFOCx_pTrj4": {
+            "message": "Hey <@&1399648272125267978> **Chris Bryant, PhD.** started a livestream now!\nhttps://www.youtube.com/watch?v=wFOCx_pTrj4",
+            "sent_at": 1793132481.9426193
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
