@@ -97,7 +97,6 @@
         "zeNXX7VuDlM"
     ],
     "@jadeforjustice": [
-        "blKqmxoUDVo",
         "3qc327UZVdY",
         "R6_zIbbyodI",
         "CE8LnwGxvzY",
@@ -116,10 +115,10 @@
         "6ElwPECWpD4",
         "BHggY-0A4Xc",
         "nTxmQMINXnw",
-        "3vrzXH4-qw8"
+        "3vrzXH4-qw8",
+        "U0qhwsLmapo"
     ],
     "@chrisbryantphd": [
-        "hLNpKwMYHPA",
         "apy_JfW4r4Y",
         "8A6kFKTDQSM",
         "1CllBkC5wL8",
@@ -138,7 +137,8 @@
         "5MrE5kCPvtM",
         "Q0lcWJCKOQk",
         "wFOCx_pTrj4",
-        "ccbdfb623WA"
+        "ccbdfb623WA",
+        "vp8-PtVqNU0"
     ],
     "@plantgeezer": [
         "WMEO0zDGnzQ",
@@ -254,7 +254,6 @@
         "1CCWdwDNFpU"
     ],
     "@vegangaze": [
-        "ePZkk9gozsM",
         "dUhuxpCfHy0",
         "EbI-Dew_P4I",
         "WW74OkRvi9g",
@@ -273,7 +272,8 @@
         "20HYhN-Iq60",
         "UL8T_x9PLtE",
         "wjJHWPrlxXg",
-        "jwSQ4c2QnTA"
+        "jwSQ4c2QnTA",
+        "gxX2Bb_5_aA"
     ],
     "@AxelBertilDahlstr\u00f6m": [
         "BZXCnQbnQMo",
@@ -867,7 +867,7 @@
             "3kZuHl5IwxU"
         ]
     },
-    "_last_shorts_check": 1793208086.7145631,
+    "_last_shorts_check": 1793210491.6280308,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -885,7 +885,20 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "vp8-PtVqNU0": {
+            "message": "Hey <@&1399648272125267978> **Chris Bryant, PhD.** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=vp8-PtVqNU0",
+            "sent_at": 1793210487.543449
+        },
+        "gxX2Bb_5_aA": {
+            "message": "Hey <@&1399648272125267978> **Vegan Gaze** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=gxX2Bb_5_aA",
+            "sent_at": 1793210488.4774797
+        },
+        "U0qhwsLmapo": {
+            "message": "Hey <@&1399648272125267978> **JadeForJustice** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=U0qhwsLmapo",
+            "sent_at": 1793210488.5924466
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
