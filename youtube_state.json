@@ -276,7 +276,6 @@
         "gxX2Bb_5_aA"
     ],
     "@AxelBertilDahlstr\u00f6m": [
-        "BZXCnQbnQMo",
         "Vfr8ygLfFn4",
         "O9Lztx9YC_I",
         "tY06sMsqEOE",
@@ -295,7 +294,8 @@
         "h7X5bpmIehc",
         "RA2VzwtFMlA",
         "CBOYH3dn91E",
-        "AIwOXThVhBo"
+        "AIwOXThVhBo",
+        "OFe-m2Pk0tY"
     ],
     "@VeganHeretic": [
         "YI75tlXOlS4",
@@ -886,7 +886,12 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "OFe-m2Pk0tY": {
+            "message": "Hey <@&1399648272125267978> **Axel Bertil Dahlstr\u00f6m \u24e5** started a livestream now!\nhttps://www.youtube.com/watch?v=OFe-m2Pk0tY",
+            "sent_at": 1793217080.3062136
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
