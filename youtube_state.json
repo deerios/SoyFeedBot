@@ -254,7 +254,6 @@
         "1CCWdwDNFpU"
     ],
     "@vegangaze": [
-        "dUhuxpCfHy0",
         "EbI-Dew_P4I",
         "WW74OkRvi9g",
         "irslQyX_xfM",
@@ -273,7 +272,8 @@
         "UL8T_x9PLtE",
         "wjJHWPrlxXg",
         "jwSQ4c2QnTA",
-        "gxX2Bb_5_aA"
+        "gxX2Bb_5_aA",
+        "YdJpuSAErf8"
     ],
     "@AxelBertilDahlstr\u00f6m": [
         "O9Lztx9YC_I",
@@ -388,7 +388,6 @@
         "NyqRtNHf5H8"
     ],
     "@TheTallestMunchkin": [
-        "jeGCv1DURhE",
         "Pq4bKqqKhIM",
         "v2K5rts8nVs",
         "0V9vJUonjMs",
@@ -407,7 +406,8 @@
         "94UlyNDBEM4",
         "MF1iKxuMfWY",
         "f-S_q2m50Vg",
-        "lv733ge7AfI"
+        "lv733ge7AfI",
+        "LU6hIfN92vc"
     ],
     "@earthtomanar": [
         "OtmoUhD2jJM",
@@ -887,9 +887,13 @@
         "9WmN390yoKw"
     ],
     "_pending_verification": {
-        "tBwvU-H5_e0": {
-            "message": "Hey <@&1399648272125267978> **That Chip Guy** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=tBwvU-H5_e0",
-            "sent_at": 1793278283.032833
+        "YdJpuSAErf8": {
+            "message": "Hey <@&1399648272125267978> **Vegan Gaze** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=YdJpuSAErf8",
+            "sent_at": 1793279009.123072
+        },
+        "LU6hIfN92vc": {
+            "message": "Hey <@&1399648272125267978> **The Tallest Munchkin** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=LU6hIfN92vc",
+            "sent_at": 1793279010.0210173
         }
     },
     "@raventwtw": [
