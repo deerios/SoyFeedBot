@@ -141,7 +141,6 @@
         "C6ED-ZZ14Mg"
     ],
     "@plantgeezer": [
-        "3NelqvfnBXM",
         "FrXlp2_aE48",
         "SgDZSHZtKnk",
         "hIk_tldJPOQ",
@@ -160,7 +159,8 @@
         "tSXp0tfhV0s",
         "Mfi8DADiU4I",
         "LMZom7f7CoA",
-        "0xojFdX3JYM"
+        "0xojFdX3JYM",
+        "CG6j5BpU62s"
     ],
     "@ThatChipGuy": [
         "qf1HrHJfNqc",
@@ -195,7 +195,6 @@
         "bWwvAiZZt-0"
     ],
     "@VeganStonerLady": [
-        "K4DV8WKc0Ek",
         "vkLAmDwNDaI",
         "_qI6Iom8iYM",
         "RWfjs0ohQfc",
@@ -214,7 +213,8 @@
         "-j3WQIuvkIE",
         "u6Fz1LtoOto",
         "5QKx8fnJLf4",
-        "ri1yQvkc0mY"
+        "ri1yQvkc0mY",
+        "iLQsuKWT8Mo"
     ],
     "@jemlettuce": [
         "9KmYPCVsbEs",
@@ -886,7 +886,16 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "CG6j5BpU62s": {
+            "message": "Hey <@&1399648272125267978> **Plant Geezer** started a livestream now!\nhttps://www.youtube.com/watch?v=CG6j5BpU62s",
+            "sent_at": 1793284284.4145656
+        },
+        "iLQsuKWT8Mo": {
+            "message": "Hey <@&1399648272125267978> **Vegan Stoner Lady** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=iLQsuKWT8Mo",
+            "sent_at": 1793284285.466412
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
