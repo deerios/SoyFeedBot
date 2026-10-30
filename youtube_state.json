@@ -372,7 +372,8 @@
         "t4wNm45j1Vs",
         "S_HcuN2TggU",
         "JQp20FM_-24",
-        "Cfi0ldSG8O0"
+        "Cfi0ldSG8O0",
+        "kiDlcbBJQZg"
     ],
     "@MehtaEthics": [
         "mCrEtpQ_kYI",
@@ -889,7 +890,12 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "kiDlcbBJQZg": {
+            "message": "Hey <@&1399648272125267978> **Jason Gutt \u24cb** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=kiDlcbBJQZg",
+            "sent_at": 1793340084.2607598
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
