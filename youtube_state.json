@@ -254,7 +254,6 @@
         "1CCWdwDNFpU"
     ],
     "@vegangaze": [
-        "WW74OkRvi9g",
         "irslQyX_xfM",
         "FOkl2PBolbk",
         "q77FVbV9DzI",
@@ -273,7 +272,8 @@
         "jwSQ4c2QnTA",
         "gxX2Bb_5_aA",
         "YdJpuSAErf8",
-        "PKZCgjCYsCk"
+        "PKZCgjCYsCk",
+        "seWqoyCrwdE"
     ],
     "@AxelBertilDahlstr\u00f6m": [
         "YB8M1wStoGg",
@@ -389,7 +389,6 @@
         "NyqRtNHf5H8"
     ],
     "@TheTallestMunchkin": [
-        "hAOatflDVqA",
         "ehIZtHdCAos",
         "xn3TtC5ouRY",
         "dNnUxQcocno",
@@ -408,7 +407,8 @@
         "XfQYUAogZCw",
         "uN3JbtakqjY",
         "2dgSj9AYbVM",
-        "ywGBrUstxvI"
+        "ywGBrUstxvI",
+        "g4YDJa4TxEQ"
     ],
     "@earthtomanar": [
         "OtmoUhD2jJM",
@@ -890,7 +890,16 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "seWqoyCrwdE": {
+            "message": "Hey <@&1399648272125267978> **Vegan Gaze** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=seWqoyCrwdE",
+            "sent_at": 1793451688.2720292
+        },
+        "g4YDJa4TxEQ": {
+            "message": "Hey <@&1399648272125267978> **The Tallest Munchkin** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=g4YDJa4TxEQ",
+            "sent_at": 1793451689.1360385
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
