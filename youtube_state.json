@@ -99,7 +99,6 @@
         "zeNXX7VuDlM"
     ],
     "@jadeforjustice": [
-        "jRS-RAWLsLI",
         "ahbRqn-LEPo",
         "HOa0k7chgf0",
         "FDlYWgaWODg",
@@ -118,7 +117,8 @@
         "jAZ3KwFrLZ4",
         "Ks6ckNLK8NU",
         "rBBctSXzU10",
-        "nvUCSgqeozM"
+        "nvUCSgqeozM",
+        "wgO7hW_7-to"
     ],
     "@chrisbryantphd": [
         "zt889wtcsjY",
@@ -219,7 +219,6 @@
         "NbFhMWKi5hU"
     ],
     "@jemlettuce": [
-        "0SWagnpA9eA",
         "nBXB1ZYH6po",
         "eZ_fndqXFCI",
         "n2w5p1i9Scs",
@@ -238,7 +237,8 @@
         "b1o1HxsvaAU",
         "zk07H27qrHk",
         "-duGMke0vQc",
-        "lT7I8xeEQ1c"
+        "lT7I8xeEQ1c",
+        "rH0HgtB6VVA"
     ],
     "@forindividuals": [
         "lg8W2SpQpbA",
@@ -391,7 +391,6 @@
         "NyqRtNHf5H8"
     ],
     "@TheTallestMunchkin": [
-        "94UlyNDBEM4",
         "MF1iKxuMfWY",
         "f-S_q2m50Vg",
         "lv733ge7AfI",
@@ -410,7 +409,8 @@
         "j3HUn4cSjfk",
         "Yt_9j4Tjaug",
         "B0dpbIVp5DQ",
-        "SWBAAcfgfnQ"
+        "SWBAAcfgfnQ",
+        "qcSFWvshGi4"
     ],
     "@earthtomanar": [
         "OtmoUhD2jJM",
@@ -900,7 +900,20 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "wgO7hW_7-to": {
+            "message": "Hey <@&1399648272125267978> **JadeForJustice** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=wgO7hW_7-to",
+            "sent_at": 1793552488.2560048
+        },
+        "rH0HgtB6VVA": {
+            "message": "Hey <@&1399648272125267978> **Jem Lettuce** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=rH0HgtB6VVA",
+            "sent_at": 1793552488.8292203
+        },
+        "qcSFWvshGi4": {
+            "message": "Hey <@&1399648272125267978> **The Tallest Munchkin** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=qcSFWvshGi4",
+            "sent_at": 1793552489.0370646
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
