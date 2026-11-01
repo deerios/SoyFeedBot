@@ -501,7 +501,8 @@
         "EeRVWaTyKnU",
         "lxefjQnwAtE",
         "No3EaHABYRw",
-        "VoECjw5f4oo"
+        "VoECjw5f4oo",
+        "0KjqLqMKdBU"
     ],
     "@HazVegan": [
         "9nPdK-Yc6y4",
@@ -900,7 +901,12 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "0KjqLqMKdBU": {
+            "message": "Hey <@&1399648272125267978> **John ARA** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=0KjqLqMKdBU",
+            "sent_at": 1793562679.9432085
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
