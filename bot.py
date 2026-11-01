@@ -50,7 +50,7 @@ YOUTUBE_CHANNELS = [
     "@raventwtw",
     "@sustainablysam",
     "@redemptionrally, 
-    ‎⁨@karmicbreath
+    ‎⁨"@karmicbreath
 ]
 
 STATE_FILE = "youtube_state.json"
