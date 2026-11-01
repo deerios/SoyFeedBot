@@ -279,7 +279,6 @@
         "aZs0BnGl_vY"
     ],
     "@AxelBertilDahlstr\u00f6m": [
-        "YB8M1wStoGg",
         "VqtBj0-WyI4",
         "ZEwdVeDQ4Pw",
         "Tr6QOy_M-VE",
@@ -298,7 +297,8 @@
         "OFe-m2Pk0tY",
         "AH8YwxZZ0ZY",
         "PFsUAFJWXVU",
-        "VYUN4g2xJ5E"
+        "VYUN4g2xJ5E",
+        "mVYsJpzRwUM"
     ],
     "@VeganHeretic": [
         "YI75tlXOlS4",
@@ -892,7 +892,7 @@
             "kCrNtdmILLs"
         ]
     },
-    "_last_shorts_check": 1793574091.033085,
+    "_last_shorts_check": 1793576481.0933514,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -911,7 +911,12 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "mVYsJpzRwUM": {
+            "message": "Hey <@&1399648272125267978> **Axel Bertil Dahlstr\u00f6m \u24e5** is going to be live soon!\nhttps://www.youtube.com/watch?v=mVYsJpzRwUM",
+            "sent_at": 1793576478.0383306
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
