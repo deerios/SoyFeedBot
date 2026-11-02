@@ -100,7 +100,6 @@
         "zeNXX7VuDlM"
     ],
     "@jadeforjustice": [
-        "ahbRqn-LEPo",
         "HOa0k7chgf0",
         "FDlYWgaWODg",
         "hJg1A_Jn-yM",
@@ -119,7 +118,8 @@
         "Ks6ckNLK8NU",
         "rBBctSXzU10",
         "nvUCSgqeozM",
-        "wgO7hW_7-to"
+        "wgO7hW_7-to",
+        "zJvlaexZdsA"
     ],
     "@chrisbryantphd": [
         "zt889wtcsjY",
@@ -911,7 +911,12 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "zJvlaexZdsA": {
+            "message": "Hey <@&1399648272125267978> **JadeForJustice** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=zJvlaexZdsA",
+            "sent_at": 1793632886.800256
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
