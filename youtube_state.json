@@ -319,7 +319,8 @@
         "GPBjYuTrc8s",
         "WmlqJ1KxIHo",
         "PGg3ofPwgnY",
-        "dyYS6kGwtkY"
+        "dyYS6kGwtkY",
+        "MpNsEeGSuwo"
     ],
     "@dr.matthewnagra": [
         "MzWiQTTsU58",
@@ -393,7 +394,6 @@
         "NyqRtNHf5H8"
     ],
     "@TheTallestMunchkin": [
-        "B0dpbIVp5DQ",
         "SWBAAcfgfnQ",
         "qcSFWvshGi4",
         "4azcfGJGYKQ",
@@ -412,7 +412,8 @@
         "WSfcb7nGTg0",
         "e6QlXOC_-E4",
         "237pquecirk",
-        "ZTZVXwwdNTs"
+        "ZTZVXwwdNTs",
+        "v_4V4qZN88E"
     ],
     "@earthtomanar": [
         "OtmoUhD2jJM",
@@ -894,7 +895,7 @@
             "kCrNtdmILLs"
         ]
     },
-    "_last_shorts_check": 1793820689.418993,
+    "_last_shorts_check": 1793822492.4940846,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -913,7 +914,16 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "v_4V4qZN88E": {
+            "message": "Hey <@&1399648272125267978> **The Tallest Munchkin** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=v_4V4qZN88E",
+            "sent_at": 1793822488.3386629
+        },
+        "MpNsEeGSuwo": {
+            "message": "Hey <@&1399648272125267978> **Vegan Heretic** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=MpNsEeGSuwo",
+            "sent_at": 1793822489.3000026
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
