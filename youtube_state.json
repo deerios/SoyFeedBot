@@ -257,7 +257,6 @@
         "1CCWdwDNFpU"
     ],
     "@vegangaze": [
-        "70xCD-uw8Jc",
         "C3F05siPd4o",
         "kUGnB7v1i5c",
         "gl8PXIxbTrE",
@@ -276,7 +275,8 @@
         "t49DtQJ3_xk",
         "85PkswluIr0",
         "RVumIJwMTos",
-        "XnPSWujECEc"
+        "XnPSWujECEc",
+        "1xchMXulRTQ"
     ],
     "@AxelBertilDahlstr\u00f6m": [
         "F2Z69luv8s8",
@@ -895,7 +895,7 @@
             "kCrNtdmILLs"
         ]
     },
-    "_last_shorts_check": 1793881883.8742054,
+    "_last_shorts_check": 1793883695.1195827,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -914,7 +914,16 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "1xchMXulRTQ": {
+            "message": "Hey <@&1399648272125267978> **Vegan Gaze** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=1xchMXulRTQ",
+            "sent_at": 1793883689.2770495
+        },
+        "HGhAYJHAp_s": {
+            "message": "Hey <@&1399648272125267978> **Alex Activism** is going to be live soon!\nhttps://www.youtube.com/watch?v=HGhAYJHAp_s",
+            "sent_at": 1793883691.829076
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
@@ -959,6 +968,7 @@
         "TWPc9S_xpmU",
         "ndcuUETJ0QI",
         "MRDc51rqX4M",
-        "oaLRuP0ip0w"
+        "oaLRuP0ip0w",
+        "HGhAYJHAp_s"
     ]
 }
