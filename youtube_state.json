@@ -730,7 +730,8 @@
             "AthZSLCdRWU",
             "vussEbm7l18",
             "TgV5djwT14k",
-            "feupn-w9o80"
+            "feupn-w9o80",
+            "zKBaYb5VwFA"
         ],
         "@dr.matthewnagra": [
             "vzWsULCNuXI",
@@ -899,7 +900,7 @@
             "kCrNtdmILLs"
         ]
     },
-    "_last_shorts_check": 1794189684.485264,
+    "_last_shorts_check": 1794192085.5088782,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -918,7 +919,12 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "zKBaYb5VwFA": {
+            "message": "Hey <@&1399648272125267978> **Jeremy Loeb** uploaded a new YouTube Short!\nhttps://www.youtube.com/watch?v=zKBaYb5VwFA",
+            "sent_at": 1794192083.505485
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
