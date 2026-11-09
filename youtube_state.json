@@ -900,7 +900,7 @@
             "kCrNtdmILLs"
         ]
     },
-    "_last_shorts_check": 1794234081.898496,
+    "_last_shorts_check": 1794235888.4106944,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -919,7 +919,12 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "GR8hHNPYhtg": {
+            "message": "Hey <@&1399648272125267978> **Alex Activism** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=GR8hHNPYhtg",
+            "sent_at": 1794235885.2768471
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
@@ -971,6 +976,7 @@
         "z9aOQ-aO9Kk",
         "Hpem5bnYVuI",
         "tuex-Re2IvQ",
-        "z3nq8_Adfb4"
+        "z3nq8_Adfb4",
+        "GR8hHNPYhtg"
     ]
 }
