@@ -919,7 +919,12 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "CWWbbAjQL3o": {
+            "message": "Hey <@&1399648272125267978> **Raven TW** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=CWWbbAjQL3o",
+            "sent_at": 1794207684.7660527
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
@@ -932,7 +937,8 @@
         "QCQY3BABPE8",
         "3F5DhnxIbzw",
         "tHs2cFTqYNU",
-        "PEIzHkq47Tk"
+        "PEIzHkq47Tk",
+        "CWWbbAjQL3o"
     ],
     "@sustainablysam": [
         "9ZqcZ_gHniE",
