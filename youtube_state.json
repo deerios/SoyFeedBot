@@ -348,7 +348,6 @@
         "xYyhD3Tdx58"
     ],
     "@loebjeremy": [
-        "mCOGdxAs2zE",
         "w_unOWiXBio",
         "tcFhqRyZSxE",
         "cysZ7jOfpa8",
@@ -367,7 +366,8 @@
         "5ccAkgys8CE",
         "50Is_D0PjcQ",
         "L_TRr064gz4",
-        "X8P-n5cs6-A"
+        "X8P-n5cs6-A",
+        "AJdb4mbUa7U"
     ],
     "@JasonGutt": [
         "Ze4suB6b-Rk",
@@ -924,7 +924,12 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "AJdb4mbUa7U": {
+            "message": "Hey <@&1399648272125267978> **Jeremy Loeb** started a livestream now!\nhttps://www.youtube.com/watch?v=AJdb4mbUa7U",
+            "sent_at": 1794439280.484846
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
