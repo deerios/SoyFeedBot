@@ -509,7 +509,8 @@
         "lxefjQnwAtE",
         "No3EaHABYRw",
         "VoECjw5f4oo",
-        "0KjqLqMKdBU"
+        "0KjqLqMKdBU",
+        "TCz2NnoyhAQ"
     ],
     "@HazVegan": [
         "9nPdK-Yc6y4",
@@ -925,7 +926,12 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "TCz2NnoyhAQ": {
+            "message": "Hey <@&1399648272125267978> **John ARA** started a livestream now!\nhttps://www.youtube.com/watch?v=TCz2NnoyhAQ",
+            "sent_at": 1794473480.2526846
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
