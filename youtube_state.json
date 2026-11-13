@@ -348,7 +348,6 @@
         "xYyhD3Tdx58"
     ],
     "@loebjeremy": [
-        "fl2Z-MGFQew",
         "S-BoklyhjRA",
         "9IdJXryZN5E",
         "GL-KxgHBybk",
@@ -367,7 +366,8 @@
         "AJdb4mbUa7U",
         "WtfI8bnX_nE",
         "ehIAqInCtZ0",
-        "D2hL14w_3GQ"
+        "D2hL14w_3GQ",
+        "wXrRTsZJwPk"
     ],
     "@JasonGutt": [
         "Ze4suB6b-Rk",
@@ -397,7 +397,6 @@
         "NyqRtNHf5H8"
     ],
     "@TheTallestMunchkin": [
-        "DOrRlIAiyhY",
         "yaTScJLFjXw",
         "UwRiTOlhQ1M",
         "kvU5-EGblSc",
@@ -416,7 +415,8 @@
         "0g82-kNvUQE",
         "5rjPJ3k6pUA",
         "YgY7ugzabTs",
-        "tEE9qJNwCe4"
+        "tEE9qJNwCe4",
+        "L9UR0E_Osg4"
     ],
     "@earthtomanar": [
         "tk6bvpQn0Cg",
@@ -905,7 +905,7 @@
             "kCrNtdmILLs"
         ]
     },
-    "_last_shorts_check": 1794534080.5364635,
+    "_last_shorts_check": 1794535885.1962612,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -926,7 +926,16 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "L9UR0E_Osg4": {
+            "message": "Hey <@&1399648272125267978> **The Tallest Munchkin** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=L9UR0E_Osg4",
+            "sent_at": 1794535880.6267562
+        },
+        "wXrRTsZJwPk": {
+            "message": "Hey <@&1399648272125267978> **Jeremy Loeb** started a livestream now!\nhttps://www.youtube.com/watch?v=wXrRTsZJwPk",
+            "sent_at": 1794535882.0272772
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
