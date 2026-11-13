@@ -348,7 +348,6 @@
         "P1RrrqhHBLA"
     ],
     "@loebjeremy": [
-        "9IdJXryZN5E",
         "GL-KxgHBybk",
         "tTkr82X1rrU",
         "fPvyHGcILCo",
@@ -367,7 +366,8 @@
         "ehIAqInCtZ0",
         "D2hL14w_3GQ",
         "wXrRTsZJwPk",
-        "VSS2D2sqHJk"
+        "VSS2D2sqHJk",
+        "t6wwjhv2bTY"
     ],
     "@JasonGutt": [
         "Ze4suB6b-Rk",
@@ -738,7 +738,8 @@
             "TgV5djwT14k",
             "feupn-w9o80",
             "zKBaYb5VwFA",
-            "w_unOWiXBio"
+            "w_unOWiXBio",
+            "9IdJXryZN5E"
         ],
         "@dr.matthewnagra": [
             "vzWsULCNuXI",
@@ -907,7 +908,7 @@
             "kCrNtdmILLs"
         ]
     },
-    "_last_shorts_check": 1794600094.985666,
+    "_last_shorts_check": 1794602485.064998,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -929,9 +930,13 @@
         "9WmN390yoKw"
     ],
     "_pending_verification": {
-        "_OgZggHXnDs": {
-            "message": "Hey <@&1399648272125267978> **JadeForJustice** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=_OgZggHXnDs",
-            "sent_at": 1794601882.7267642
+        "t6wwjhv2bTY": {
+            "message": "Hey <@&1399648272125267978> **Jeremy Loeb** is going to be live soon!\nhttps://www.youtube.com/watch?v=t6wwjhv2bTY",
+            "sent_at": 1794602479.8346107
+        },
+        "9IdJXryZN5E": {
+            "message": "Hey <@&1399648272125267978> **Jeremy Loeb** uploaded a new YouTube Short!\nhttps://www.youtube.com/watch?v=9IdJXryZN5E",
+            "sent_at": 1794602483.06193
         }
     },
     "@raventwtw": [
