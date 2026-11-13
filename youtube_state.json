@@ -223,7 +223,6 @@
         "lNqbSVqq23k"
     ],
     "@jemlettuce": [
-        "bK4UxvefCOY",
         "BktiIB1eF2E",
         "ADwi0g0-PvM",
         "T9jMsObIWqc",
@@ -242,7 +241,8 @@
         "5QAAbyCZyug",
         "BVOG6uC85mc",
         "oCSGUjrXzK8",
-        "R7Gx0G6Yw0M"
+        "R7Gx0G6Yw0M",
+        "UoPfsx6lRuw"
     ],
     "@forindividuals": [
         "lg8W2SpQpbA",
@@ -348,7 +348,6 @@
         "xYyhD3Tdx58"
     ],
     "@loebjeremy": [
-        "S-BoklyhjRA",
         "9IdJXryZN5E",
         "GL-KxgHBybk",
         "tTkr82X1rrU",
@@ -367,7 +366,8 @@
         "WtfI8bnX_nE",
         "ehIAqInCtZ0",
         "D2hL14w_3GQ",
-        "wXrRTsZJwPk"
+        "wXrRTsZJwPk",
+        "VSS2D2sqHJk"
     ],
     "@JasonGutt": [
         "Ze4suB6b-Rk",
@@ -397,7 +397,6 @@
         "NyqRtNHf5H8"
     ],
     "@TheTallestMunchkin": [
-        "kvU5-EGblSc",
         "1-Nbxail4LI",
         "NHpsxr_ELs4",
         "RAg5OQWI5PA",
@@ -416,7 +415,8 @@
         "tEE9qJNwCe4",
         "L9UR0E_Osg4",
         "vgAvibGTIJY",
-        "V1_vE5A_yfs"
+        "V1_vE5A_yfs",
+        "6hM-PQ5Dv08"
     ],
     "@earthtomanar": [
         "tk6bvpQn0Cg",
@@ -927,7 +927,20 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "UoPfsx6lRuw": {
+            "message": "Hey <@&1399648272125267978> **Jem Lettuce** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=UoPfsx6lRuw",
+            "sent_at": 1794589289.092512
+        },
+        "6hM-PQ5Dv08": {
+            "message": "Hey <@&1399648272125267978> **The Tallest Munchkin** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=6hM-PQ5Dv08",
+            "sent_at": 1794589292.8976912
+        },
+        "VSS2D2sqHJk": {
+            "message": "Hey <@&1399648272125267978> **Jeremy Loeb** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=VSS2D2sqHJk",
+            "sent_at": 1794589294.521489
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
