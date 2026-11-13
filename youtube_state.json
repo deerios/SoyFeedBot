@@ -609,7 +609,8 @@
         "19SGhIIzYvY",
         "-c2GOqohyow",
         "Dpfkw1fMX6c",
-        "_IiZIIaqLXA"
+        "_IiZIIaqLXA",
+        "yxuKSTfSL5w"
     ],
     "@SoyDaddy1": [
         "dqrDjKbhs7Q",
@@ -905,7 +906,7 @@
             "kCrNtdmILLs"
         ]
     },
-    "_last_shorts_check": 1794578489.5260274,
+    "_last_shorts_check": 1794580886.641924,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -926,7 +927,16 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "yxuKSTfSL5w": {
+            "message": "Hey <@&1399648272125267978> **The 40 year old Vegan** is going to be live soon!\nhttps://www.youtube.com/watch?v=yxuKSTfSL5w",
+            "sent_at": 1794580882.6617508
+        },
+        "FVvdpstm99I": {
+            "message": "Hey <@&1399648272125267978> **Alex Activism** is going to be live soon!\nhttps://www.youtube.com/watch?v=FVvdpstm99I",
+            "sent_at": 1794580883.3647075
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
@@ -983,6 +993,7 @@
         "GR8hHNPYhtg",
         "PvfgTUxjo8g",
         "qObAh4Gono8",
-        "d5uQLCeS97M"
+        "d5uQLCeS97M",
+        "FVvdpstm99I"
     ]
 }
