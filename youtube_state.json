@@ -224,7 +224,6 @@
         "cHtpnTVeK1U"
     ],
     "@jemlettuce": [
-        "BktiIB1eF2E",
         "ADwi0g0-PvM",
         "T9jMsObIWqc",
         "RkGjxuTDXyc",
@@ -243,7 +242,8 @@
         "BVOG6uC85mc",
         "oCSGUjrXzK8",
         "R7Gx0G6Yw0M",
-        "UoPfsx6lRuw"
+        "UoPfsx6lRuw",
+        "c2fuDW6t_bE"
     ],
     "@forindividuals": [
         "lg8W2SpQpbA",
@@ -398,7 +398,6 @@
         "NyqRtNHf5H8"
     ],
     "@TheTallestMunchkin": [
-        "S6y9_L9MDOI",
         "H59AjNidevI",
         "91Y9bOWMpwA",
         "MA-sQxbincU",
@@ -417,7 +416,8 @@
         "MEqxFsQbllc",
         "F5Whz0guKYI",
         "3iPaP7qPI8c",
-        "8oY-dvWBRpE"
+        "8oY-dvWBRpE",
+        "Bi7oCcREciY"
     ],
     "@earthtomanar": [
         "tk6bvpQn0Cg",
@@ -909,7 +909,7 @@
             "kCrNtdmILLs"
         ]
     },
-    "_last_shorts_check": 1794673283.5703623,
+    "_last_shorts_check": 1794675694.8224418,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -930,7 +930,16 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "c2fuDW6t_bE": {
+            "message": "Hey <@&1399648272125267978> **Jem Lettuce** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=c2fuDW6t_bE",
+            "sent_at": 1794675690.513709
+        },
+        "Bi7oCcREciY": {
+            "message": "Hey <@&1399648272125267978> **The Tallest Munchkin** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=Bi7oCcREciY",
+            "sent_at": 1794675691.4380612
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
