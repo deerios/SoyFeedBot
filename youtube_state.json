@@ -224,7 +224,6 @@
         "bfnzI3lbqrc"
     ],
     "@jemlettuce": [
-        "ADwi0g0-PvM",
         "T9jMsObIWqc",
         "RkGjxuTDXyc",
         "jP7iCyS5fQk",
@@ -243,7 +242,8 @@
         "oCSGUjrXzK8",
         "R7Gx0G6Yw0M",
         "UoPfsx6lRuw",
-        "c2fuDW6t_bE"
+        "c2fuDW6t_bE",
+        "caZ5CyuPwMM"
     ],
     "@forindividuals": [
         "lg8W2SpQpbA",
@@ -398,7 +398,6 @@
         "NyqRtNHf5H8"
     ],
     "@TheTallestMunchkin": [
-        "oqy5MXyziR8",
         "0g82-kNvUQE",
         "5rjPJ3k6pUA",
         "YgY7ugzabTs",
@@ -417,7 +416,8 @@
         "yAbJfhh_awE",
         "Lt9VDq3dQYQ",
         "RqW-25K_DBM",
-        "FLmhewxtGis"
+        "FLmhewxtGis",
+        "IuiQzCX8K5k"
     ],
     "@earthtomanar": [
         "tk6bvpQn0Cg",
@@ -909,7 +909,7 @@
             "kCrNtdmILLs"
         ]
     },
-    "_last_shorts_check": 1794759682.4282358,
+    "_last_shorts_check": 1794762092.8356135,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -931,9 +931,13 @@
         "9WmN390yoKw"
     ],
     "_pending_verification": {
-        "3ZDPEl8MjKo": {
-            "message": "Hey <@&1399648272125267978> **Plant Geezer** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=3ZDPEl8MjKo",
-            "sent_at": 1794761480.4099104
+        "caZ5CyuPwMM": {
+            "message": "Hey <@&1399648272125267978> **Jem Lettuce** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=caZ5CyuPwMM",
+            "sent_at": 1794762088.6542015
+        },
+        "IuiQzCX8K5k": {
+            "message": "Hey <@&1399648272125267978> **The Tallest Munchkin** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=IuiQzCX8K5k",
+            "sent_at": 1794762089.5398705
         }
     },
     "@raventwtw": [
