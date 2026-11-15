@@ -100,7 +100,6 @@
         "zeNXX7VuDlM"
     ],
     "@jadeforjustice": [
-        "Ks6ckNLK8NU",
         "rBBctSXzU10",
         "nvUCSgqeozM",
         "wgO7hW_7-to",
@@ -119,7 +118,8 @@
         "kYB_OBYy3C4",
         "_OgZggHXnDs",
         "czAH45Jew1M",
-        "NCXmv4OQZEA"
+        "NCXmv4OQZEA",
+        "dF7Dh2uwoiM"
     ],
     "@chrisbryantphd": [
         "Jobh-My57fc",
@@ -283,7 +283,6 @@
         "PdF_Nov656E"
     ],
     "@AxelBertilDahlstr\u00f6m": [
-        "VYUN4g2xJ5E",
         "mVYsJpzRwUM",
         "R2LJBmA7VYY",
         "HPk8O8gjhDI",
@@ -302,7 +301,8 @@
         "oJGYDyGjAEw",
         "ylRuq0K55nI",
         "szk5i04K0Uw",
-        "7AwFwNqrCVU"
+        "7AwFwNqrCVU",
+        "kb6VlgGX9g0"
     ],
     "@VeganHeretic": [
         "LrGUFdZz09Y",
@@ -931,9 +931,13 @@
         "9WmN390yoKw"
     ],
     "_pending_verification": {
-        "xW_N1ajzG8Y": {
-            "message": "Hey <@&1399648272125267978> **Virtue PostMortem** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=xW_N1ajzG8Y",
-            "sent_at": 1794758487.0160534
+        "dF7Dh2uwoiM": {
+            "message": "Hey <@&1399648272125267978> **JadeForJustice** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=dF7Dh2uwoiM",
+            "sent_at": 1794759081.2520597
+        },
+        "kb6VlgGX9g0": {
+            "message": "Hey <@&1399648272125267978> **Axel Bertil Dahlstr\u00f6m \u24e5** started a livestream now!\nhttps://www.youtube.com/watch?v=kb6VlgGX9g0",
+            "sent_at": 1794759082.1596167
         }
     },
     "@raventwtw": [
