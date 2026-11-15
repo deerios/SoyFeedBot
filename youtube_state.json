@@ -224,7 +224,6 @@
         "bfnzI3lbqrc"
     ],
     "@jemlettuce": [
-        "T9jMsObIWqc",
         "RkGjxuTDXyc",
         "jP7iCyS5fQk",
         "vNQKZKZRTfc",
@@ -243,7 +242,8 @@
         "R7Gx0G6Yw0M",
         "UoPfsx6lRuw",
         "c2fuDW6t_bE",
-        "caZ5CyuPwMM"
+        "caZ5CyuPwMM",
+        "tXU6f72DP8o"
     ],
     "@forindividuals": [
         "lg8W2SpQpbA",
@@ -909,7 +909,7 @@
             "kCrNtdmILLs"
         ]
     },
-    "_last_shorts_check": 1794768678.0919755,
+    "_last_shorts_check": 1794770481.2393794,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -930,7 +930,12 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "tXU6f72DP8o": {
+            "message": "Hey <@&1399648272125267978> **Jem Lettuce** is going to be live soon!\nhttps://www.youtube.com/watch?v=tXU6f72DP8o",
+            "sent_at": 1794770478.1472719
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
