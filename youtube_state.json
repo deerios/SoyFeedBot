@@ -166,7 +166,6 @@
         "Jg83jymtt6Q"
     ],
     "@ThatChipGuy": [
-        "tsixsDsVQIo",
         "uvNVtvVgPAc",
         "nhvc0zRE4ds",
         "F2N2z65s7mE",
@@ -185,7 +184,8 @@
         "rE7OKb4uaE4",
         "q-e5qU2fPJc",
         "TbnAdRMGb7w",
-        "rCpPdsOsVEE"
+        "rCpPdsOsVEE",
+        "CAc8ldFBnVc"
     ],
     "@jakeastonfta": [
         "3zJi7JMgiFQ",
@@ -398,7 +398,6 @@
         "NyqRtNHf5H8"
     ],
     "@TheTallestMunchkin": [
-        "tEE9qJNwCe4",
         "L9UR0E_Osg4",
         "vgAvibGTIJY",
         "V1_vE5A_yfs",
@@ -417,7 +416,8 @@
         "IuiQzCX8K5k",
         "BpGlVek7qdA",
         "_DQrHVqoxRE",
-        "GPQie2qpkcQ"
+        "GPQie2qpkcQ",
+        "VRMSOmigsfI"
     ],
     "@earthtomanar": [
         "tk6bvpQn0Cg",
@@ -909,7 +909,7 @@
             "kCrNtdmILLs"
         ]
     },
-    "_last_shorts_check": 1794824486.4833384,
+    "_last_shorts_check": 1794826975.207495,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -930,7 +930,16 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "CAc8ldFBnVc": {
+            "message": "Hey <@&1399648272125267978> **That Chip Guy** is going to be live soon!\nhttps://www.youtube.com/watch?v=CAc8ldFBnVc",
+            "sent_at": 1794826971.5007157
+        },
+        "VRMSOmigsfI": {
+            "message": "Hey <@&1399648272125267978> **The Tallest Munchkin** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=VRMSOmigsfI",
+            "sent_at": 1794826972.2857523
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
