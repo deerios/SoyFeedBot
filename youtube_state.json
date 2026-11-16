@@ -100,7 +100,6 @@
         "zeNXX7VuDlM"
     ],
     "@jadeforjustice": [
-        "nvUCSgqeozM",
         "wgO7hW_7-to",
         "zJvlaexZdsA",
         "YFmf2AwmbI8",
@@ -119,7 +118,8 @@
         "czAH45Jew1M",
         "NCXmv4OQZEA",
         "dF7Dh2uwoiM",
-        "gG5IXo55_6M"
+        "gG5IXo55_6M",
+        "8Em9EPNL8fc"
     ],
     "@chrisbryantphd": [
         "Jobh-My57fc",
@@ -202,7 +202,6 @@
         "oh9QD5MZ8OI"
     ],
     "@VeganStonerLady": [
-        "zz-ysJLNcX4",
         "OVB8a0z_Rtc",
         "zOIuU-TlXbI",
         "anY7V1Ezaqo",
@@ -221,7 +220,8 @@
         "gbGJcLTQhXM",
         "bfnzI3lbqrc",
         "cInYftOpfcM",
-        "By8_efKhhHE"
+        "By8_efKhhHE",
+        "g61VM-EfDvE"
     ],
     "@jemlettuce": [
         "RkGjxuTDXyc",
@@ -909,7 +909,7 @@
             "kCrNtdmILLs"
         ]
     },
-    "_last_shorts_check": 1794840686.1459746,
+    "_last_shorts_check": 1794843092.4329524,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -930,7 +930,16 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "8Em9EPNL8fc": {
+            "message": "Hey <@&1399648272125267978> **JadeForJustice** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=8Em9EPNL8fc",
+            "sent_at": 1794843083.8886113
+        },
+        "g61VM-EfDvE": {
+            "message": "Hey <@&1399648272125267978> **Vegan Stoner Lady** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=g61VM-EfDvE",
+            "sent_at": 1794843084.9773514
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
