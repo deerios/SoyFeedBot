@@ -327,7 +327,6 @@
         "hip0q74jdJU"
     ],
     "@dr.matthewnagra": [
-        "nHeoEzMKlgw",
         "jqYl-jqOcGQ",
         "1ZiXV1MtM3c",
         "hPH7Dwxabro",
@@ -346,7 +345,8 @@
         "IR_s9Te9vJ8",
         "xYyhD3Tdx58",
         "P1RrrqhHBLA",
-        "cQFzEbWA0l4"
+        "cQFzEbWA0l4",
+        "U_tayY6V8d4"
     ],
     "@loebjeremy": [
         "n8R3RNzTlZc",
@@ -398,7 +398,6 @@
         "NyqRtNHf5H8"
     ],
     "@TheTallestMunchkin": [
-        "vgAvibGTIJY",
         "V1_vE5A_yfs",
         "6hM-PQ5Dv08",
         "Buvmsf8sTv8",
@@ -417,7 +416,8 @@
         "_DQrHVqoxRE",
         "GPQie2qpkcQ",
         "VRMSOmigsfI",
-        "SXjCCVjMjxM"
+        "SXjCCVjMjxM",
+        "2jVVdQzdFb0"
     ],
     "@earthtomanar": [
         "tk6bvpQn0Cg",
@@ -931,9 +931,13 @@
         "9WmN390yoKw"
     ],
     "_pending_verification": {
-        "FD6vsqKOxPk": {
-            "message": "Hey <@&1399648272125267978> **Jem Lettuce** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=FD6vsqKOxPk",
-            "sent_at": 1794848488.795698
+        "U_tayY6V8d4": {
+            "message": "Hey <@&1399648272125267978> **Dr. Matthew Nagra, ND** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=U_tayY6V8d4",
+            "sent_at": 1794849082.3114905
+        },
+        "2jVVdQzdFb0": {
+            "message": "Hey <@&1399648272125267978> **The Tallest Munchkin** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=2jVVdQzdFb0",
+            "sent_at": 1794849083.6001554
         }
     },
     "@raventwtw": [
