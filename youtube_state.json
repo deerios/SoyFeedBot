@@ -224,7 +224,6 @@
         "g61VM-EfDvE"
     ],
     "@jemlettuce": [
-        "RkGjxuTDXyc",
         "jP7iCyS5fQk",
         "vNQKZKZRTfc",
         "6oRHN89cO6c",
@@ -243,7 +242,8 @@
         "UoPfsx6lRuw",
         "c2fuDW6t_bE",
         "caZ5CyuPwMM",
-        "tXU6f72DP8o"
+        "tXU6f72DP8o",
+        "FD6vsqKOxPk"
     ],
     "@forindividuals": [
         "lg8W2SpQpbA",
@@ -930,7 +930,12 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "FD6vsqKOxPk": {
+            "message": "Hey <@&1399648272125267978> **Jem Lettuce** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=FD6vsqKOxPk",
+            "sent_at": 1794848488.795698
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
