@@ -43,7 +43,6 @@
         "@alex.activism": "UUkt_xPHf-962JL5fRwLzoIQ"
     },
     "@DannyIshay": [
-        "SZH6LKuXMQE",
         "mkzeAdtGw5g",
         "tdl6qz_OlnQ",
         "Ec9YOChSFHo",
@@ -62,10 +61,10 @@
         "rB85bLpu0Ak",
         "z5KB_QcWRqY",
         "m00e02wUWR4",
-        "i5MJJxdchqc"
+        "i5MJJxdchqc",
+        "OhQQoPtqY-I"
     ],
     "@VirtuePostMortem": [
-        "YXkIPB5WINE",
         "APxFGfIcqrA",
         "DcdE2KEbJ4w",
         "KZjlyCT0FW0",
@@ -84,7 +83,8 @@
         "G7LZGek_4xE",
         "UnJ99zCeb7I",
         "xW_N1ajzG8Y",
-        "Fi__uz1An-M"
+        "Fi__uz1An-M",
+        "RJJCij8dkao"
     ],
     "@iloveveganpvssy": [
         "cUjBN4wAjVI",
@@ -931,7 +931,16 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "RJJCij8dkao": {
+            "message": "Hey <@&1399648272125267978> **Virtue PostMortem** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=RJJCij8dkao",
+            "sent_at": 1794931297.1635273
+        },
+        "OhQQoPtqY-I": {
+            "message": "Hey <@&1399648272125267978> **Danny Ishay** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=OhQQoPtqY-I",
+            "sent_at": 1794931298.971443
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
