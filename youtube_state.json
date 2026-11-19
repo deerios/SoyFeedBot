@@ -100,7 +100,6 @@
         "zeNXX7VuDlM"
     ],
     "@jadeforjustice": [
-        "Yx0E9xkHOwY",
         "PnjCkEy4F90",
         "QVrWv0a6H1w",
         "XXh5K66u6iQ",
@@ -119,7 +118,8 @@
         "8Em9EPNL8fc",
         "LBTPOd0MTqo",
         "x6IDOYbXfuY",
-        "4MZlGwnelps"
+        "4MZlGwnelps",
+        "GO55tqbWvIY"
     ],
     "@chrisbryantphd": [
         "Jobh-My57fc",
@@ -350,7 +350,6 @@
         "QVBZerithvs"
     ],
     "@loebjeremy": [
-        "KU9JFAd7RZ8",
         "69yxkr3_Qsc",
         "m5udhrlZBDk",
         "5ccAkgys8CE",
@@ -369,7 +368,8 @@
         "GgRvOSuykpU",
         "HUM1IqdtXYY",
         "ZRrR4iRsjS0",
-        "yXRMpKwfGG4"
+        "yXRMpKwfGG4",
+        "ib3PKHl7UJw"
     ],
     "@JasonGutt": [
         "Ze4suB6b-Rk",
@@ -933,7 +933,16 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "GO55tqbWvIY": {
+            "message": "Hey <@&1399648272125267978> **JadeForJustice** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=GO55tqbWvIY",
+            "sent_at": 1795056078.0181742
+        },
+        "ib3PKHl7UJw": {
+            "message": "Hey <@&1399648272125267978> **Jeremy Loeb** started a livestream now!\nhttps://www.youtube.com/watch?v=ib3PKHl7UJw",
+            "sent_at": 1795056078.722676
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
