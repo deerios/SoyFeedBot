@@ -202,7 +202,6 @@
         "oh9QD5MZ8OI"
     ],
     "@VeganStonerLady": [
-        "xFKaKt6SL9k",
         "d9T6ezf1zrc",
         "VQhKYNd-JTY",
         "w0_y49xKcnw",
@@ -221,7 +220,8 @@
         "Uo8q4jUWDK4",
         "bzF1fUDnFxA",
         "ssQIgT-ai1s",
-        "k-YTkYjOnng"
+        "k-YTkYjOnng",
+        "rJJ1lqqjnQw"
     ],
     "@jemlettuce": [
         "vNQKZKZRTfc",
@@ -350,7 +350,6 @@
         "QVBZerithvs"
     ],
     "@loebjeremy": [
-        "69yxkr3_Qsc",
         "m5udhrlZBDk",
         "5ccAkgys8CE",
         "50Is_D0PjcQ",
@@ -369,7 +368,8 @@
         "HUM1IqdtXYY",
         "ZRrR4iRsjS0",
         "yXRMpKwfGG4",
-        "ib3PKHl7UJw"
+        "ib3PKHl7UJw",
+        "MPecoBzjGaU"
     ],
     "@JasonGutt": [
         "Ze4suB6b-Rk",
@@ -933,7 +933,16 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "rJJ1lqqjnQw": {
+            "message": "Hey <@&1399648272125267978> **Vegan Stoner Lady** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=rJJ1lqqjnQw",
+            "sent_at": 1795102285.1375804
+        },
+        "MPecoBzjGaU": {
+            "message": "Hey <@&1399648272125267978> **Jeremy Loeb** started a livestream now!\nhttps://www.youtube.com/watch?v=MPecoBzjGaU",
+            "sent_at": 1795102285.8651543
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
