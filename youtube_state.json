@@ -166,7 +166,6 @@
         "Z63iGjlNOG8"
     ],
     "@ThatChipGuy": [
-        "J75YpK1SWQo",
         "3OGErPzT9jo",
         "MJGD4YijcO0",
         "CnHgPFpD-IY",
@@ -185,7 +184,8 @@
         "xNhdtokeotI",
         "6bmHLUsEayM",
         "jbnYxa-eA0c",
-        "jXIDDkoCIkA"
+        "jXIDDkoCIkA",
+        "I4E53JWl_EY"
     ],
     "@jakeastonfta": [
         "3zJi7JMgiFQ",
@@ -912,7 +912,7 @@
             "kCrNtdmILLs"
         ]
     },
-    "_last_shorts_check": 1795085480.585289,
+    "_last_shorts_check": 1795087290.5119977,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -933,7 +933,12 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "I4E53JWl_EY": {
+            "message": "Hey <@&1399648272125267978> **That Chip Guy** is going to be live soon!\nhttps://www.youtube.com/watch?v=I4E53JWl_EY",
+            "sent_at": 1795087287.274811
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
