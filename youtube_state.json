@@ -100,7 +100,6 @@
         "zeNXX7VuDlM"
     ],
     "@jadeforjustice": [
-        "PnjCkEy4F90",
         "QVrWv0a6H1w",
         "XXh5K66u6iQ",
         "1E6RfWYJQGk",
@@ -119,7 +118,8 @@
         "LBTPOd0MTqo",
         "x6IDOYbXfuY",
         "4MZlGwnelps",
-        "GO55tqbWvIY"
+        "GO55tqbWvIY",
+        "uqHnIyh2i6w"
     ],
     "@chrisbryantphd": [
         "Jobh-My57fc",
@@ -166,7 +166,6 @@
         "-Y0FXjSosck"
     ],
     "@ThatChipGuy": [
-        "MJGD4YijcO0",
         "CnHgPFpD-IY",
         "iO8HOyvoCo4",
         "D3q0bp6rlVk",
@@ -185,7 +184,8 @@
         "jbnYxa-eA0c",
         "jXIDDkoCIkA",
         "I4E53JWl_EY",
-        "uyOIKAiri3g"
+        "uyOIKAiri3g",
+        "aeuFP7dKBdg"
     ],
     "@jakeastonfta": [
         "3zJi7JMgiFQ",
@@ -912,7 +912,7 @@
             "kCrNtdmILLs"
         ]
     },
-    "_last_shorts_check": 1795107081.054533,
+    "_last_shorts_check": 1795109502.5128415,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -933,7 +933,16 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "uqHnIyh2i6w": {
+            "message": "Hey <@&1399648272125267978> **JadeForJustice** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=uqHnIyh2i6w",
+            "sent_at": 1795109498.5108616
+        },
+        "aeuFP7dKBdg": {
+            "message": "Hey <@&1399648272125267978> **That Chip Guy** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=aeuFP7dKBdg",
+            "sent_at": 1795109499.4527926
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
