@@ -166,7 +166,6 @@
         "mcLRgOhAvYk"
     ],
     "@ThatChipGuy": [
-        "CnHgPFpD-IY",
         "iO8HOyvoCo4",
         "D3q0bp6rlVk",
         "bnxOxCPxa2c",
@@ -185,7 +184,8 @@
         "jXIDDkoCIkA",
         "I4E53JWl_EY",
         "uyOIKAiri3g",
-        "aeuFP7dKBdg"
+        "aeuFP7dKBdg",
+        "ipmtR9fKvuE"
     ],
     "@jakeastonfta": [
         "3zJi7JMgiFQ",
@@ -933,7 +933,16 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "ipmtR9fKvuE": {
+            "message": "Hey <@&1399648272125267978> **That Chip Guy** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=ipmtR9fKvuE",
+            "sent_at": 1795178481.4966316
+        },
+        "h2GNbvcBkFM": {
+            "message": "Hey <@&1399648272125267978> **Alex Activism** is going to be live soon!\nhttps://www.youtube.com/watch?v=h2GNbvcBkFM",
+            "sent_at": 1795178482.0782497
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
@@ -978,7 +987,6 @@
         "ugDirAaSJGo"
     ],
     "@alex.activism": [
-        "TWPc9S_xpmU",
         "ndcuUETJ0QI",
         "MRDc51rqX4M",
         "oaLRuP0ip0w",
@@ -997,6 +1005,7 @@
         "4MkeyWlsZ4o",
         "RpWYY5vYQ-M",
         "lPwgd93-UeI",
-        "7kx8ikML5_g"
+        "7kx8ikML5_g",
+        "h2GNbvcBkFM"
     ]
 }
