@@ -262,7 +262,6 @@
         "O-th5I6s6cA"
     ],
     "@vegangaze": [
-        "aZs0BnGl_vY",
         "BAtMnQU07nw",
         "f3Ab86ngyNI",
         "t49DtQJ3_xk",
@@ -281,7 +280,8 @@
         "6KbyL3fcufs",
         "0_6yigTYlqM",
         "4gcROIPSRuM",
-        "cnAoy8vLjvg"
+        "cnAoy8vLjvg",
+        "hadnl6uRo1s"
     ],
     "@AxelBertilDahlstr\u00f6m": [
         "FvjpBJZotA8",
@@ -912,7 +912,7 @@
             "kCrNtdmILLs"
         ]
     },
-    "_last_shorts_check": 1795177887.511606,
+    "_last_shorts_check": 1795179694.0691597,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -933,7 +933,12 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "hadnl6uRo1s": {
+            "message": "Hey <@&1399648272125267978> **Vegan Gaze** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=hadnl6uRo1s",
+            "sent_at": 1795179691.14104
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
