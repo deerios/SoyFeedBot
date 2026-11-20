@@ -122,7 +122,6 @@
         "uqHnIyh2i6w"
     ],
     "@chrisbryantphd": [
-        "Jobh-My57fc",
         "L7wDs3WjnMg",
         "meIDS9t9UoE",
         "pop091C1d0c",
@@ -141,7 +140,8 @@
         "XiUnep_yex8",
         "2sl3MI9wv3U",
         "8an2gbwRqW8",
-        "uMJtjZBwi-s"
+        "uMJtjZBwi-s",
+        "KGvamNQR0GY"
     ],
     "@plantgeezer": [
         "lQrFFTpZxoQ",
@@ -202,7 +202,6 @@
         "oh9QD5MZ8OI"
     ],
     "@VeganStonerLady": [
-        "d9T6ezf1zrc",
         "VQhKYNd-JTY",
         "w0_y49xKcnw",
         "hmMty_zBDSI",
@@ -221,7 +220,8 @@
         "bzF1fUDnFxA",
         "ssQIgT-ai1s",
         "k-YTkYjOnng",
-        "rJJ1lqqjnQw"
+        "rJJ1lqqjnQw",
+        "9L8P3FBQLng"
     ],
     "@jemlettuce": [
         "6oRHN89cO6c",
@@ -933,7 +933,16 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "KGvamNQR0GY": {
+            "message": "Hey <@&1399648272125267978> **Chris Bryant, PhD.** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=KGvamNQR0GY",
+            "sent_at": 1795181487.904588
+        },
+        "9L8P3FBQLng": {
+            "message": "Hey <@&1399648272125267978> **Vegan Stoner Lady** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=9L8P3FBQLng",
+            "sent_at": 1795181489.03802
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
