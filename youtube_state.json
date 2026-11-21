@@ -202,7 +202,6 @@
         "oh9QD5MZ8OI"
     ],
     "@VeganStonerLady": [
-        "hmMty_zBDSI",
         "u3wg8dZ5Wkk",
         "lNqbSVqq23k",
         "MCF0GWNhGZs",
@@ -221,7 +220,8 @@
         "rJJ1lqqjnQw",
         "9L8P3FBQLng",
         "_sqfZT_55bA",
-        "HchdAf-Urgs"
+        "HchdAf-Urgs",
+        "jrkVnsYk2Ww"
     ],
     "@jemlettuce": [
         "6oRHN89cO6c",
@@ -284,7 +284,6 @@
         "GfqPUBTs6OE"
     ],
     "@AxelBertilDahlstr\u00f6m": [
-        "E-9UXC3jg-Q",
         "GcWZ4mLPa6g",
         "2AbeWloinu8",
         "ZrTMFZxbQks",
@@ -303,7 +302,8 @@
         "uQoNwQLnKdY",
         "cLyNpZ7hL74",
         "Lrb0Yy4iZ0I",
-        "F6BQtWcgpYo"
+        "F6BQtWcgpYo",
+        "u-50GiY-aV8"
     ],
     "@VeganHeretic": [
         "N-mDlDLmwq8",
@@ -936,7 +936,16 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "jrkVnsYk2Ww": {
+            "message": "Hey <@&1399648272125267978> **Vegan Stoner Lady** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=jrkVnsYk2Ww",
+            "sent_at": 1795275089.854377
+        },
+        "u-50GiY-aV8": {
+            "message": "Hey <@&1399648272125267978> **Axel Bertil Dahlstr\u00f6m \u24e5** started a livestream now!\nhttps://www.youtube.com/watch?v=u-50GiY-aV8",
+            "sent_at": 1795275090.7173305
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
