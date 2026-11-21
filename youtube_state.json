@@ -65,7 +65,6 @@
         "U0ojuQIdLO8"
     ],
     "@VirtuePostMortem": [
-        "VTOEZQE1TOI",
         "_5gupzrw6cY",
         "98UH6BThzDQ",
         "KpvOfGieKo0",
@@ -84,7 +83,8 @@
         "RJJCij8dkao",
         "ZZiNBvLl9yo",
         "UAW7j8lxwjk",
-        "1q9tQ7LfxOc"
+        "1q9tQ7LfxOc",
+        "UqBpUhiBWQw"
     ],
     "@iloveveganpvssy": [
         "cUjBN4wAjVI",
@@ -399,7 +399,6 @@
         "NyqRtNHf5H8"
     ],
     "@TheTallestMunchkin": [
-        "aXqIwLzqbT8",
         "M9r23Bcth7Q",
         "Gto1eowOryI",
         "aIyRt7Tu0EA",
@@ -418,7 +417,8 @@
         "W4Nk82PbOAo",
         "XKp8dBvRpto",
         "7iD5Uegr7L4",
-        "4SUvafgUH2U"
+        "4SUvafgUH2U",
+        "KSTg5GOHTX8"
     ],
     "@earthtomanar": [
         "tk6bvpQn0Cg",
@@ -936,7 +936,16 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "UqBpUhiBWQw": {
+            "message": "Hey <@&1399648272125267978> **Virtue PostMortem** is going to be live soon!\nhttps://www.youtube.com/watch?v=UqBpUhiBWQw",
+            "sent_at": 1795269686.1785972
+        },
+        "KSTg5GOHTX8": {
+            "message": "Hey <@&1399648272125267978> **The Tallest Munchkin** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=KSTg5GOHTX8",
+            "sent_at": 1795269686.9251595
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
