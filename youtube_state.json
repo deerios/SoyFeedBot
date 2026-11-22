@@ -284,8 +284,6 @@
         "GfqPUBTs6OE"
     ],
     "@AxelBertilDahlstr\u00f6m": [
-        "gcR-xA401z8",
-        "PH0Ds2sXm2Y",
         "Ajk2NWUol5g",
         "oJGYDyGjAEw",
         "ylRuq0K55nI",
@@ -303,7 +301,9 @@
         "PFsUAFJWXVU",
         "R2LJBmA7VYY",
         "JBvKI0sQGtU",
-        "sfl-Uk_xFgU"
+        "sfl-Uk_xFgU",
+        "6rz3CzDEiRI",
+        "4B6Ehl-L-5k"
     ],
     "@VeganHeretic": [
         "N-mDlDLmwq8",
@@ -937,13 +937,13 @@
         "9WmN390yoKw"
     ],
     "_pending_verification": {
-        "JBvKI0sQGtU": {
-            "message": "Hey <@&1399648272125267978> **Axel Bertil Dahlstr\u00f6m \u24e5** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=JBvKI0sQGtU",
-            "sent_at": 1795311682.8480737
+        "6rz3CzDEiRI": {
+            "message": "Hey <@&1399648272125267978> **Axel Bertil Dahlstr\u00f6m \u24e5** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=6rz3CzDEiRI",
+            "sent_at": 1795312282.2202327
         },
-        "sfl-Uk_xFgU": {
-            "message": "Hey <@&1399648272125267978> **Axel Bertil Dahlstr\u00f6m \u24e5** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=sfl-Uk_xFgU",
-            "sent_at": 1795311689.9649987
+        "4B6Ehl-L-5k": {
+            "message": "Hey <@&1399648272125267978> **Axel Bertil Dahlstr\u00f6m \u24e5** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=4B6Ehl-L-5k",
+            "sent_at": 1795312284.913225
         }
     },
     "@raventwtw": [
