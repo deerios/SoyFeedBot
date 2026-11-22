@@ -43,7 +43,6 @@
         "@alex.activism": "UUkt_xPHf-962JL5fRwLzoIQ"
     },
     "@DannyIshay": [
-        "8T6cCAo2Suc",
         "ugTu4QGV1Ds",
         "hF4Z1WzR7TQ",
         "wQQbcGFpCq0",
@@ -62,7 +61,8 @@
         "gInvDtjRA-M",
         "8DvmZEQSJs0",
         "U0ojuQIdLO8",
-        "XFUuzep6Ogo"
+        "XFUuzep6Ogo",
+        "PqXQoSeKYAo"
     ],
     "@VirtuePostMortem": [
         "98UH6BThzDQ",
@@ -938,13 +938,9 @@
         "9WmN390yoKw"
     ],
     "_pending_verification": {
-        "5TopRq8p66U": {
-            "message": "Hey <@&1399648272125267978> **Virtue PostMortem** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=5TopRq8p66U",
-            "sent_at": 1795363283.088261
-        },
-        "vQ4bxtlhqQo": {
-            "message": "Hey <@&1399648272125267978> **That Chip Guy** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=vQ4bxtlhqQo",
-            "sent_at": 1795363283.8792572
+        "PqXQoSeKYAo": {
+            "message": "Hey <@&1399648272125267978> **Danny Ishay** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=PqXQoSeKYAo",
+            "sent_at": 1795363882.1291494
         }
     },
     "@raventwtw": [
