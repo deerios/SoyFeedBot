@@ -43,7 +43,6 @@
         "@alex.activism": "UUkt_xPHf-962JL5fRwLzoIQ"
     },
     "@DannyIshay": [
-        "OQczHBZMMIw",
         "8T6cCAo2Suc",
         "ugTu4QGV1Ds",
         "hF4Z1WzR7TQ",
@@ -62,7 +61,8 @@
         "FKPrJ_3zUk4",
         "gInvDtjRA-M",
         "8DvmZEQSJs0",
-        "U0ojuQIdLO8"
+        "U0ojuQIdLO8",
+        "XFUuzep6Ogo"
     ],
     "@VirtuePostMortem": [
         "_5gupzrw6cY",
@@ -166,7 +166,6 @@
         "GIJCAAdmGkE"
     ],
     "@ThatChipGuy": [
-        "D3q0bp6rlVk",
         "bnxOxCPxa2c",
         "MTkvJj70ebE",
         "rE7OKb4uaE4",
@@ -185,7 +184,8 @@
         "uyOIKAiri3g",
         "aeuFP7dKBdg",
         "ipmtR9fKvuE",
-        "ru83gro0ZMA"
+        "ru83gro0ZMA",
+        "3J6R5-UtTk4"
     ],
     "@jakeastonfta": [
         "3zJi7JMgiFQ",
@@ -263,7 +263,6 @@
         "O-th5I6s6cA"
     ],
     "@vegangaze": [
-        "t49DtQJ3_xk",
         "85PkswluIr0",
         "RVumIJwMTos",
         "XnPSWujECEc",
@@ -282,7 +281,8 @@
         "cnAoy8vLjvg",
         "hadnl6uRo1s",
         "GfqPUBTs6OE",
-        "fEF_HvbxqjQ"
+        "fEF_HvbxqjQ",
+        "c00j_Ckk35E"
     ],
     "@AxelBertilDahlstr\u00f6m": [
         "Ajk2NWUol5g",
@@ -938,9 +938,17 @@
         "9WmN390yoKw"
     ],
     "_pending_verification": {
-        "jisLjPCgSfw": {
-            "message": "Hey <@&1399648272125267978> **JadeForJustice** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=jisLjPCgSfw",
-            "sent_at": 1795359093.7304523
+        "XFUuzep6Ogo": {
+            "message": "Hey <@&1399648272125267978> **Danny Ishay** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=XFUuzep6Ogo",
+            "sent_at": 1795359693.3168714
+        },
+        "c00j_Ckk35E": {
+            "message": "Hey <@&1399648272125267978> **Vegan Gaze** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=c00j_Ckk35E",
+            "sent_at": 1795359694.0827692
+        },
+        "3J6R5-UtTk4": {
+            "message": "Hey <@&1399648272125267978> **That Chip Guy** started a livestream now!\nhttps://www.youtube.com/watch?v=3J6R5-UtTk4",
+            "sent_at": 1795359696.9415817
         }
     },
     "@raventwtw": [
