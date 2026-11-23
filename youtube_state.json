@@ -329,7 +329,6 @@
         "nELNexE7Sas"
     ],
     "@dr.matthewnagra": [
-        "7cQtNWP3z-o",
         "_SYdqfJu0lY",
         "P5dNfb6M8GU",
         "A_Vwt88-F4w",
@@ -348,7 +347,8 @@
         "U_tayY6V8d4",
         "QVBZerithvs",
         "oyINr9OA2RE",
-        "H-JcbN6H-98"
+        "H-JcbN6H-98",
+        "EPImD9O35HE"
     ],
     "@loebjeremy": [
         "L_TRr064gz4",
@@ -400,7 +400,6 @@
         "NyqRtNHf5H8"
     ],
     "@TheTallestMunchkin": [
-        "B7u1x_aMY1U",
         "zoLihIfH6D0",
         "84aI7T_jlX4",
         "W4Nk82PbOAo",
@@ -419,7 +418,8 @@
         "UWRiq4ig-6c",
         "Jftwm42inxg",
         "jj1drABZS18",
-        "U59hYHrJPGs"
+        "U59hYHrJPGs",
+        "9zL61GQjh6w"
     ],
     "@earthtomanar": [
         "tk6bvpQn0Cg",
@@ -938,7 +938,16 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "EPImD9O35HE": {
+            "message": "Hey <@&1399648272125267978> **Dr. Matthew Nagra, ND** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=EPImD9O35HE",
+            "sent_at": 1795453884.5459144
+        },
+        "9zL61GQjh6w": {
+            "message": "Hey <@&1399648272125267978> **The Tallest Munchkin** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=9zL61GQjh6w",
+            "sent_at": 1795453889.8848162
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
