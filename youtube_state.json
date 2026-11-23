@@ -43,7 +43,6 @@
         "@alex.activism": "UUkt_xPHf-962JL5fRwLzoIQ"
     },
     "@DannyIshay": [
-        "hF4Z1WzR7TQ",
         "wQQbcGFpCq0",
         "Mtcj1ltNr_Y",
         "Q_fqkn3Vwi4",
@@ -62,7 +61,8 @@
         "U0ojuQIdLO8",
         "XFUuzep6Ogo",
         "PqXQoSeKYAo",
-        "nP2asf4UYYA"
+        "nP2asf4UYYA",
+        "-F6S7JCQbrE"
     ],
     "@VirtuePostMortem": [
         "KpvOfGieKo0",
@@ -938,7 +938,12 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "-F6S7JCQbrE": {
+            "message": "Hey <@&1399648272125267978> **Danny Ishay** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=-F6S7JCQbrE",
+            "sent_at": 1795456893.4790926
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
