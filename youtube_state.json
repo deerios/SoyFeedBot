@@ -43,7 +43,6 @@
         "@alex.activism": "UUkt_xPHf-962JL5fRwLzoIQ"
     },
     "@DannyIshay": [
-        "GGkGiWfl5_g",
         "rB85bLpu0Ak",
         "z5KB_QcWRqY",
         "m00e02wUWR4",
@@ -62,7 +61,8 @@
         "-F6S7JCQbrE",
         "GDRpeLNLzMs",
         "cmliJI1PD3o",
-        "pVl2mrXmLYM"
+        "pVl2mrXmLYM",
+        "InJqjEAoq4A"
     ],
     "@VirtuePostMortem": [
         "i48FVzKYlQ0",
@@ -940,13 +940,9 @@
         "9WmN390yoKw"
     ],
     "_pending_verification": {
-        "pVl2mrXmLYM": {
-            "message": "Hey <@&1399648272125267978> **Danny Ishay** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=pVl2mrXmLYM",
-            "sent_at": 1795550486.5216866
-        },
-        "OMUGb2dV4Ec": {
-            "message": "Hey <@&1399648272125267978> **The Tallest Munchkin** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=OMUGb2dV4Ec",
-            "sent_at": 1795550487.7045138
+        "InJqjEAoq4A": {
+            "message": "Hey <@&1399648272125267978> **Danny Ishay** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=InJqjEAoq4A",
+            "sent_at": 1795551081.7412853
         }
     },
     "@raventwtw": [
