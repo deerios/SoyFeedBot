@@ -43,7 +43,6 @@
         "@alex.activism": "UUkt_xPHf-962JL5fRwLzoIQ"
     },
     "@DannyIshay": [
-        "wQQbcGFpCq0",
         "Mtcj1ltNr_Y",
         "Q_fqkn3Vwi4",
         "GGkGiWfl5_g",
@@ -62,7 +61,8 @@
         "XFUuzep6Ogo",
         "PqXQoSeKYAo",
         "nP2asf4UYYA",
-        "-F6S7JCQbrE"
+        "-F6S7JCQbrE",
+        "GDRpeLNLzMs"
     ],
     "@VirtuePostMortem": [
         "KpvOfGieKo0",
@@ -263,7 +263,6 @@
         "O-th5I6s6cA"
     ],
     "@vegangaze": [
-        "XnPSWujECEc",
         "1xchMXulRTQ",
         "n-lXCvT3Bag",
         "yZC-Xg411KE",
@@ -282,10 +281,10 @@
         "fEF_HvbxqjQ",
         "c00j_Ckk35E",
         "kH2483SwT0w",
-        "JZYfblSTrGc"
+        "JZYfblSTrGc",
+        "oDWv7M07Vo4"
     ],
     "@AxelBertilDahlstr\u00f6m": [
-        "oJGYDyGjAEw",
         "ylRuq0K55nI",
         "szk5i04K0Uw",
         "7AwFwNqrCVU",
@@ -304,7 +303,8 @@
         "sfl-Uk_xFgU",
         "6rz3CzDEiRI",
         "4B6Ehl-L-5k",
-        "8cSgFwSQk14"
+        "8cSgFwSQk14",
+        "arWvGpz04uc"
     ],
     "@VeganHeretic": [
         "N-mDlDLmwq8",
@@ -938,7 +938,20 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "GDRpeLNLzMs": {
+            "message": "Hey <@&1399648272125267978> **Danny Ishay** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=GDRpeLNLzMs",
+            "sent_at": 1795532489.7893846
+        },
+        "arWvGpz04uc": {
+            "message": "Hey <@&1399648272125267978> **Axel Bertil Dahlstr\u00f6m \u24e5** is going to be live soon!\nhttps://www.youtube.com/watch?v=arWvGpz04uc",
+            "sent_at": 1795532493.0223117
+        },
+        "oDWv7M07Vo4": {
+            "message": "Hey <@&1399648272125267978> **Vegan Gaze** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=oDWv7M07Vo4",
+            "sent_at": 1795532493.3513756
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
