@@ -203,7 +203,6 @@
         "o0pMt3rfaZQ"
     ],
     "@VeganStonerLady": [
-        "k-YTkYjOnng",
         "rJJ1lqqjnQw",
         "9L8P3FBQLng",
         "_sqfZT_55bA",
@@ -222,7 +221,8 @@
         "7_58rg6nG-Y",
         "DkAzw9sEIYQ",
         "ciVZ-NtprFs",
-        "mkqhXb8jbnY"
+        "mkqhXb8jbnY",
+        "2gsS90PWnc4"
     ],
     "@jemlettuce": [
         "fGbnFXXKDSY",
@@ -941,7 +941,16 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "2gsS90PWnc4": {
+            "message": "Hey <@&1399648272125267978> **Vegan Stoner Lady** uploaded a new YouTube video!\nhttps://www.youtube.com/watch?v=2gsS90PWnc4",
+            "sent_at": 1795786284.3546875
+        },
+        "oo1vVBUZfdA": {
+            "message": "Hey <@&1399648272125267978> **Alex Activism** is going to be live soon!\nhttps://www.youtube.com/watch?v=oo1vVBUZfdA",
+            "sent_at": 1795786285.0488515
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
@@ -990,7 +999,6 @@
         "ugDirAaSJGo"
     ],
     "@alex.activism": [
-        "z3nq8_Adfb4",
         "GR8hHNPYhtg",
         "PvfgTUxjo8g",
         "qObAh4Gono8",
@@ -1009,6 +1017,7 @@
         "n5OZiWOHAIc",
         "KfRYhK_7VlI",
         "7kBFEgyM8Tg",
-        "9bHszcAzPOs"
+        "9bHszcAzPOs",
+        "oo1vVBUZfdA"
     ]
 }
