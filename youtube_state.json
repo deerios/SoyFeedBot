@@ -919,7 +919,7 @@
             "ndcuUETJ0QI"
         ]
     },
-    "_last_shorts_check": 1795789281.3335152,
+    "_last_shorts_check": 1795791088.5047677,
     "@standbesidejordan": [
         "w4ZhgxYEmrI",
         "4RLtwTZoKY4",
@@ -941,7 +941,12 @@
         "fhUcXQBecO8",
         "9WmN390yoKw"
     ],
-    "_pending_verification": {},
+    "_pending_verification": {
+        "oQYI5zzlTXE": {
+            "message": "Hey <@&1399648272125267978> **Alex Activism** is going to be live soon!\nhttps://www.youtube.com/watch?v=oQYI5zzlTXE",
+            "sent_at": 1795791085.0947394
+        }
+    },
     "@raventwtw": [
         "hPtU0o7qVvo",
         "pKU4chNgeKY",
@@ -990,7 +995,6 @@
         "ugDirAaSJGo"
     ],
     "@alex.activism": [
-        "GR8hHNPYhtg",
         "PvfgTUxjo8g",
         "qObAh4Gono8",
         "d5uQLCeS97M",
@@ -1009,6 +1013,7 @@
         "KfRYhK_7VlI",
         "7kBFEgyM8Tg",
         "9bHszcAzPOs",
-        "oo1vVBUZfdA"
+        "oo1vVBUZfdA",
+        "oQYI5zzlTXE"
     ]
 }
